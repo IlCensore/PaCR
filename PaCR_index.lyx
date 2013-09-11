@@ -4,48 +4,55 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{0}
+%url lunghe
+\usepackage{url}
+% per i colori
+\usepackage[usenames,dvipsnames]{xcolor}
+%cambio di geometria
+\usepackage{geometry}
 
-\usepackage{fmtcount}
-\usepackage{graphicx}
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+%\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
 \makepagestyle{myheadings}
-  \makeevenhead{myheadings}{Chapter \thechapter\ ·\ \leftmark}{}{}
-  \makeoddhead{myheadings}{}{}{}
-  \makeevenfoot{myheadings}{\thepage}{}{}
-  \makeoddfoot{myheadings}{}{}{\thepage}
+%  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \thechapter}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{\thepage}
+%  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
 
 \makechapterstyle{hpmor}{%
   \chapterstyle{default}
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\chapnumfont}{\normalfont}
   \renewcommand*{\printchaptername}{%
+%     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+%     \centerline{\chapnumfont \textsc{\chaptername\ \thechapter}}}
      \chapnumfont \textsc{\chaptername\ \thechapter}}
   \renewcommand*{\chapternamenum}{}
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{%
+%    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+%    \par\parbox{0.5in}{\hrulefill}\par}
     \par\parbox{0.5in}{}\par}
   \renewcommand*{\printchapternonum}{%
     \vphantom{\chapnumfont \@chapapp 1}\par
     \parbox{0.5in}{}\par}
   \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
   \renewcommand*{\printchaptertitle}[1]{%
+%    \centering \chaptitlefont\textsc{##1}}}
     \chaptitlefont\textsc{##1}}}
   \renewcommand*{\afterchaptertitle}{\par\vspace\par}
 \chapterstyle{hpmor}
 
-\usepackage{fmtcount}
-\usepackage{changepage} %per cambiare la dimensione del paragrafo
-\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
-\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
 
-\usepackage{fontspec,microtype}
+
+\marginparmargin{outer}
+\let\oldmarginpar\marginpar
+\renewcommand\marginpar[2][]{%
+  \oldmarginpar{\mpjustification #2}}
 \frenchspacing
-%\widowpenalties 2 10000 0
-%\clubpenalty 10000
-%\raggedbottom
-%\usepackage{indentfirst}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -56,9 +63,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman EB Garamond
-\font_sans Linux Biolinum O
-\font_typewriter Inconsolata
+\font_roman Arno Pro
+\font_sans Myriad Pro
+\font_typewriter Quivira
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -94,7 +101,7 @@ initials
 \paperheight 9in
 \leftmargin 1.75cm
 \topmargin 2.45cm
-\rightmargin 7cm
+\rightmargin 6.5cm
 \bottommargin 3.3cm
 \secnumdepth 3
 \tocdepth 3
@@ -135,7 +142,7 @@ frontmatter
 
 
 \backslash
-newgeometry{left=1.69cm,bottom=2.493cm}
+newgeometry{left=1.75cm,bottom=2.445cm}
 \end_layout
 
 \end_inset
@@ -146,7 +153,7 @@ newgeometry{left=1.69cm,bottom=2.493cm}
 \begin_layout Standard
 \align center
 
-\size larger
+\size largest
 Pagan and Christian Rome
 \end_layout
 
@@ -186,9 +193,28 @@ status open
 
 
 \backslash
-newlength{
+pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
 \backslash
-drop}%
+newgeometry{left=1.75cm,bottom=2.445cm}
+\end_layout
+
+\begin_layout Plain Layout
+
+%
+\backslash
+begin{adjustwidth*}{3.25cm}{-2cm}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+hfill
 \end_layout
 
 \end_inset
@@ -197,82 +223,76 @@ drop}%
 \end_layout
 
 \begin_layout Standard
+\align center
+
+\lang american
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang american
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-{
+
+\backslash
+begingroup 
+\backslash
+color{Maroon} 
+\backslash
+HUGE 
+\backslash
+textsc{Pagan and Christian Rome} 
+\backslash
+endgroup
 \end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-drop = 0.1
-\backslash
-textheight
+textsc{Rodolfo Lanciani}
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
 
 
-\backslash
-centering
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
 
-{
-\backslash
-textsc{Rodolfo Lanciani}}
-\backslash
+\begin_inset VSpace vfill
+\end_inset
 
-\backslash
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
+\align center
 
-
-\backslash
-vspace*{2.0
-\backslash
-baselineskip}
-\end_layout
-
-\begin_layout Plain Layout
-
-{
-\backslash
-color{Maroon}
-\backslash
-huge 
-\backslash
-textsc{Pagan and Christian Rome}}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-vspace*{2.0
-\backslash
-baselineskip}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-vfill
-\end_layout
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
+\lang american
+\begin_inset VSpace vfill
 \end_inset
 
 
@@ -405,6 +425,13 @@ pagestyle{myheadings}
 \begin_inset CommandInset include
 LatexCommand include
 filename "PaCR1.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "PaCR2.lyx"
 
 \end_inset
 
