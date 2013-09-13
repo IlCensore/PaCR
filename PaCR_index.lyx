@@ -63,9 +63,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman Arno Pro
-\font_sans Myriad Pro
-\font_typewriter Quivira
+\font_roman EB Garamond
+\font_sans Fanwood
+\font_typewriter Inconsolata
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -101,7 +101,7 @@ initials
 \paperheight 9in
 \leftmargin 1.75cm
 \topmargin 2.45cm
-\rightmargin 6.5cm
+\rightmargin 6cm
 \bottommargin 3.3cm
 \secnumdepth 3
 \tocdepth 3

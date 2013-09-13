@@ -48,6 +48,7 @@
 %\usepackage{indentfirst}
 \end_preamble
 \use_default_options true
+\master PaCR_index.lyx
 \begin_modules
 initials
 \end_modules
@@ -459,6 +460,44 @@ textsc{acilio glabrioni filio}}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-01_Tablet_of_Acilius_Glabrio.gif
+	width 2in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Tablet of Acilius Glabrio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Did this fragment really belong to the 
 \begin_inset ERT
 status open
@@ -707,6 +746,44 @@ Glabrio was put to death in his place of exile, the name of which is not
 ed exclusively to the memory of its first occupant, the ex-consul.
  The date and the circumstances connected with the translation of his relics
  from the place of banishment to Rome are not known.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-02_Map_of_Via_Salaria.gif
+	width 3.78in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Map of the Via Salaria
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1248,7 +1325,44 @@ De officio Procons.
  optional with them.
  What was granted to the Jews by the law of the empire may have been permitted
  also to the Christians by the personal benevolence of the emperors.
- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-03_Philip_the_Younger.gif
+	width 1.68in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Portrait Bust of Philip the Younger.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1381,6 +1495,41 @@ n, and a very unsteady one at that, entered a career for public honors.
  Lorenzo.
  This sarcophagus, hardly noticed by visitors in spite of its great historical
  associations, is preserved in the vestibule of the Capitoline Museum.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-04_Inscription_Porta_del_Popolo.gif
+	width 3.78in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Inscription found near the Porta del Popolo, 1877.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3993,6 +4142,921 @@ color{Maroon}ad calicem venimus}
 
 , scratched by Florentinus, Fortunatus, and Felix on the walls of the Cemetery
  of Priscilla, refers to these deplorable libations.
+\end_layout
+
+\begin_layout Standard
+Many drinking-cups used on these occasions have been found in Rome, in my
+ time.
+ They are generally works of the fourth century of our era, cut in glass
+ by unskillful hands, and they show the portrait-heads of SS.
+ Peter and Paul, in preference to other subjects of the kind.
+ This fact is due not only to the special veneration which the Romans professed
+ for the founders of their church, but also to the habit of celebrating
+ their anniversary, June 29, with public or domestic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}agapai}
+\end_layout
+
+\end_inset
+
+.
+ S.
+ Peter's day was to the Romans of the fourth century what Christmas is to
+ us, as regards joviality and sumptuous banquets.
+ On one of these occasions S.
+ Jerome received from his friend Eustochio fruit and sweets in the shape
+ of doves.
+ In acknowledging the kind remembrance, S.
+ Jerome recommends sobriety on that day more than any other: 
+\begin_inset Quotes eld
+\end_inset
+
+We must celebrate the birthday of Peter rather with exaltation of spirit,
+ than with abundance of food.
+ It is absurd to glorify with the satisfaction of our appetites the memory
+ of men who pleased God by mortifying theirs.
+\begin_inset Quotes erd
+\end_inset
+
+ The poorer classes of citizens were fed under the porticoes of the Vatican
+ basilica.
+ The gatherings degenerated into the display of such excesses of drunkenness
+ that Augustine could not resist writing to the Romans: 
+\begin_inset Quotes eld
+\end_inset
+
+First you persecuted the martyrs with stones and other instruments of torture
+ and death; and now you persecute their memory with your intoxicating cups.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The institution of public granaries (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea publica}
+\end_layout
+
+\end_inset
+
+) for the maintenance of the lower classes was also accepted and favored
+ by Christian Rome.
+ On page 250 of my 
+\begin_inset Quotes eld
+\end_inset
+
+Ancient Rome,
+\begin_inset Quotes erd
+\end_inset
+
+ I have spoken of the warehouses for the storage of wheat, built by Sulpicius
+ Galba on the plains of Testaccio, near the Porta S.
+ Paolo, named for him 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea galbana}
+\end_layout
+
+\end_inset
+
+, even after their purchase by the state.
+ These public granaries originated at the time of Caius Gracchus and his
+ grain laws.
+ Their scheme was developed, in course of time, by Clodius, Pompey, Seianus,
+ and the emperors to such an extent that, in 312 
+\noun on
+a.d.
+\noun default
+, there were registered in Rome alone two hundred and ninety granaries.
+ They may be divided into three classes: In the first, and by far the most
+ important, a plentiful supply of breadstuffs was kept at the expense of
+ the state, to meet emergencies of scarcity or famine, and the wants of
+ a population one third of which was fed gratuitously by the sovereign.
+ The second was intended especially for the storage of paper (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea chartaria}
+\end_layout
+
+\end_inset
+
+), candles (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea candelaria}
+\end_layout
+
+\end_inset
+
+), spices (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea piperataria}
+\end_layout
+
+\end_inset
+
+), and other such commodities.
+ The third class consisted of buildings in which the citizens might deposit
+ their goods, money, plate, securities, and other valuables for which they
+ had no place of safety in their own houses.
+ There were also private 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea}
+\end_layout
+
+\end_inset
+
+, built on speculation, to be let as strong-rooms like our modern vaults,
+ storage-warehouses, and 
+\begin_inset Quotes eld
+\end_inset
+
+pantechnicons.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The building of the new quarter of the Testaccio, the region of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea}
+\end_layout
+
+\end_inset
+
+ par excellence, has given us the chance of studying the institution in
+ its minutest details.
+ I shall mention only one discovery.
+ We found, in 1885, the official advertisement for leasing a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea}
+\end_layout
+
+\end_inset
+
+, under the empire of Hadrian.
+ It is thus worded:—
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+To be let from to‑day, and hereafter annually (beginning on December 13):
+ These warehouses, belonging to the Emperor Hadrian, together with their
+ granaries, wine-cellars, strong-boxes, and repositories.
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+The care and protection of the official watchmen is included in the lease.
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+Regulations: I.
+ Any one who rents rooms, vaults, or strong-boxes in this establishment
+ is expected to pay the rent and vacate the place before December 13.
+\begin_inset Newline newline
+\end_inset
+
+II.
+ Whoever disobeys regulation No.
+ I., and omits to arrange with the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrearius}
+\end_layout
+
+\end_inset
+
+ (or keeper-in‑chief) for the renewal of his lease, shall be considered
+ as liable for another year, the rent to be determined by the average price
+ paid by others for the same room, vault, or strong-box.
+ This regulation to be enforced in case the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrearius}
+\end_layout
+
+\end_inset
+
+ has not had an opportunity to rent the said room, vault, or strong-box
+ to other people.
+\begin_inset Newline newline
+\end_inset
+
+III.
+ Sub-letting is not allowed.
+ The administration will withdraw the watch and the guarantee from rooms,
+ vaults, or strong-boxes which have been sub-let in violation of the existing
+ rules.
+\begin_inset Newline newline
+\end_inset
+
+IV.
+ Merchandise or valuables stored in these warehouses are held by the administrat
+ion as security for payment of rental.
+\begin_inset Newline newline
+\end_inset
+
+V.
+ The tenant will not be reimbursed by the administration for improvements,
+ additions, and other such work which he has undertaken on his own account.
+\begin_inset Newline newline
+\end_inset
+
+VI.
+ The tenant must give an assignment of his goods to the keeper-in‑chief,
+ who shall not be held responsible for the safe-keeping of merchandise or
+ valuables which have not been duly declared.
+ The tenant must claim a receipt for the said assignment and for the payment
+ of his rental.
+\size default
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Gaetano Marini: 
+\emph on
+Iscrizioni doliari
+\emph default
+, p.
+ 114, n.
+ 279.
+ — Giuseppe Gatti: 
+\emph on
+La lex horreorum
+\emph default
+, in the 
+\emph on
+Bullettino della commissione archeologica comunale di Roma
+\emph default
+, 1885, p.
+ 110.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The granaries of the Church were intended only for the storage of corn.
+ The landed estates which the Church owned in Africa and Sicily were administere
+d by the deputies, whose special duty it was to ship the produce of the
+ harvest to Rome.
+ During the first siege of Totila, in 546, Pope Vigilius, then on his way
+ to Constantinople, despatched from the coast of Sicily a fleet of grain-laden
+ vessels, under the care of Valentine, bishop of Silva Candida.
+ The attempt to relieve the city of the famine proved useless, and the vessels
+ were seized by the besiegers on their landing at Porto.
+ In 589 an inundation of the Tiber, described by Gregoire de Tours, carried
+ away several thousand bushels of grain, which had been stored in the 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea ecclesiae}
+\end_layout
+
+\end_inset
+
+
+\size default
+, and the granaries themselves were totally destroyed.
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis,
+\begin_inset Quotes erd
+\end_inset
+
+ vol.
+ 
+\noun on
+i
+\noun default
+.
+ p.
+ 315, describes the calamities which befell the city of Rome in the year
+ 605; King Agilulf trying to enter the city by violence; heavy frosts killing
+ the vines; rats destroying the harvest, etc.
+ However, as soon as the barbarians were induced to retire by an offer of
+ twelve thousand 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}solidi}
+\end_layout
+
+\end_inset
+
+
+\size default
+, Pope Sabinianus, who was then the head of the Church, 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}iussit aperiri horrea ecclesiae}
+\end_layout
+
+\end_inset
+
+
+\size default
+ (threw open the granaries), and offered their contents at auction, at a
+ valuation of one 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}solidus}
+\end_layout
+
+\end_inset
+
+
+\size default
+ for thirty 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}modii}
+\end_layout
+
+\end_inset
+
+
+\size default
+.
+\end_layout
+
+\begin_layout Standard
+The grain was not intended to be sold, but to be distributed among the needy;
+ the act of Sabinianus was, therefore, strongly censured, as being in strong
+ contrast to the generosity of Gregory the Great.
+ A legend on this subject is related by Paulus Diaconus in chapter xxix.
+ of the Life of Gregory.
+ He says that Gregory appeared thrice to Sabinianus, in a vision, entreating
+ him to be more generous; and having failed to move him by friendly advice,
+ he struck him dead.
+ The price of one 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}solidus}
+\end_layout
+
+\end_inset
+
+
+\size default
+ for thirty 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}modii}
+\end_layout
+
+\end_inset
+
+
+\size default
+ is almost exorbitant; grain cost exactly one half this at the time of Theodoric.
+\end_layout
+
+\begin_layout Standard
+The institution has outlived all the vicissitudes of the Middle Ages.
+ Gregory XIII., in 1566, Paul V., in 1609, Clement XI., in 1705, re-opened
+ the 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}horrea ecclesiae}
+\end_layout
+
+\end_inset
+
+
+\size default
+ in the ruined halls of the Baths of Diocletian; and Clement XIII.
+ added a wing to them, for the storage of oil.
+ These buildings are still in existence around the Piazza di Termini, although
+ devoted to other purposes.
+\end_layout
+
+\begin_layout Standard
+It would be impossible to follow in all its manifestations the material
+ and moral transformation of Rome from the third to the sixth centuries,
+ without going beyond the limits of a single chapter.
+\end_layout
+
+\begin_layout Standard
+The customs and practices of the classical age were so deeply rooted among
+ the citizens that even now, after a lapse of sixteen centuries, they are
+ noticeable to a great extent.
+ When we read, for instance, of Popes elected by the people assembled at
+ the Rostra,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The place was called 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}in tribus fatis}
+\end_layout
+
+\end_inset
+
+
+\size default
+, from the three statues of sibyls described by Plin.
+ 
+\emph on
+H.
+ N.
+
+\emph default
+ xxxiv.
+ See 
+\emph on
+Goth.
+
+\emph default
+ i.
+ 25.
+\end_layout
+
+\end_inset
+
+ such as Stephen III., in 768, we must regard the circumstance as caused
+ by a remembrance of past ages.
+ Under the pontificate of Innocent II.
+ (1130), of Eugenius III.
+ (1145--1150), and of Lucius III.
+ (1181--1185) the senators, or municipal magistrates, used to sit and administer
+ justice in S.
+ Martina and S.
+ Adriano, that is, in the classic Roman Curia.
+ Many other details will be incidentally described in the following chapters.
+ I close the present one by referring to a graceful custom, borrowed likewise
+ from the classic world, — the use of roses in church or funeral ceremonies
+ and in social life.
+\end_layout
+
+\begin_layout Standard
+The ancients celebrated, in the month of May, a feast called 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rosaria}
+\end_layout
+
+\end_inset
+
+
+\size default
+, in which sepulchres were profusely decorated with the favorite flower
+ of the season.
+ Roses were also used on occasions of public rejoicing.
+ A Greek inscription, discovered by Fränkel at Pergamon, mentions, among
+ the honors shown to the emperor Hadrian, the 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Rhodismos}
+\end_layout
+
+\end_inset
+
+
+\size default
+, which is interpreted as a scattering of roses.
+ Traces of the custom are found in more recent times.
+ In the Illyrian peninsula, and on the banks of the Danube, the country
+ people, still feeling the influence of Roman civilization, celebrated feasts
+ of flowers in spring and summer, under the name of 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rousalia}
+\end_layout
+
+\end_inset
+
+
+\size default
+.
+ In the sixth century, when the Slavs were vacillating between the influence
+ of the past and the present, the celebration of the Pentecost was mixed
+ up with that of the half-pagan, half-barbarous 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rousalia}
+\end_layout
+
+\end_inset
+
+
+\size default
+.
+ Southern Russians believe in supernatural female beings, called 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Rusalky}
+\end_layout
+
+\end_inset
+
+
+\size default
+, who bring prosperity to the fields and forests, which they have inhabited
+ as flowers.
+\end_layout
+
+\begin_layout Standard
+The early Christians decorated the sepulchres of martyrs and confessors,
+ on the anniversary of their interment, with roses, violets, amaranths and
+ evergreens; and they celebrated the 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rosationes}
+\end_layout
+
+\end_inset
+
+
+\size default
+ on the name-days of churches and sanctuaries.
+ Wreaths and crowns of roses are often engraved on tombstones, hanging from
+ the bills of mystic doves.
+ The symbol refers more to the joys of the just in the future life than
+ to the fleeting pleasures of the earth.
+ The Acts of Perpetua relate a legend on this subject; that Saturus had
+ a vision in the dungeon in which he was awaiting his martyrdom, in which
+ he saw himself transported with Perpetua to a heavenly garden, fragrant
+ with roses, and turning to his fair companion, he exclaimed: 
+\begin_inset Quotes eld
+\end_inset
+
+Here we are in possession of that which our Lord promised!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Roses and other flowers are painted on the walls of historical 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}cubiculi}
+\end_layout
+
+\end_inset
+
+
+\size default
+.
+ In a fresco of the crypts of Lucina, in the Catacombs of Callixtus, are
+ painted birds, symbolizing souls who have been separated from their bodies,
+ and are playing in fields of roses around the Tree of Life.
+ As the word 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Paradeisos}
+\end_layout
+
+\end_inset
+
+
+\size default
+ signifies a garden, so its mystic representation always takes the form
+ of a delightful field of flowers and fruit.
+ Dante gives to the seat of the blessed the shape of a fair rose, inside
+ of which a crowd of angels with golden wings descend and return to the
+ Lord:—
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+Nel gran fior discendeva, che s'adorna
+\end_layout
+
+\begin_layout Verse
+Di tante foglie: e quindi risaliva,
+\end_layout
+
+\begin_layout Verse
+Là dove lo suo amor sempre soggiorna.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+Sank into the great flower, that is adorned
+\end_layout
+
+\begin_layout Verse
+With leaves so many, and thence reascended
+\end_layout
+
+\begin_layout Verse
+To where its love abideth evermore.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+
+\emph on
+Longfellow's Translation.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+
+\emph on
+Paradiso
+\emph default
+, 
+\noun on
+xxxi
+\noun default
+.10--12.
+\end_layout
+
+\begin_layout Standard
+Possibly it is from this allegory of paradise that the rite of the 
+\begin_inset Quotes eld
+\end_inset
+
+golden rose
+\begin_inset Quotes erd
+\end_inset
+
+ which the Pope blesses on Quadragesima Sunday is derived.
+ The ceremony is very ancient, although the first mention of it appears
+ only in the life of Leo IX.
+ (1049--1055); and I may mention, as a curious coincidence, that the kings
+ and queens of Navarre, their sons, and the dukes and peers of the realm,
+ were bound to offer roses to the Parliament at the return of spring.
+\end_layout
+
+\begin_layout Standard
+Roses played such an important part in church ceremonies that we find a
+ 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}fundus rosarius}
+\end_layout
+
+\end_inset
+
+
+\size default
+ given as a present by Constantine to Pope Mark.
+ The 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rosaria}
+\end_layout
+
+\end_inset
+
+
+\size default
+ outlived the suppression of pagan superstitions, and by and by assumed
+ its Christian form in the feast of Pentecost, which falls in the month
+ of May.
+ In that day roses were thrown from the roofs of churches on the worshipers
+ below.
+ The Pentecost is still called by the Italians 
+\size small
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Pasqua rosa}
+\end_layout
+
+\end_inset
+
+
+\size default
+.
 \end_layout
 
 \end_body
