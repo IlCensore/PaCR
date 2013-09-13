@@ -343,9 +343,27 @@ restoregeometry
 \end_inset
 
 
-\size footnotesize
-Harry Potter © J.K.
- Rowling.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+\emph on
+Pagan and Christian Rome
+\emph default
+, by Rodolfo Lanciani.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+Copyright 1892 by Houghton, Mifflin & co.
+\end_layout
+
+\begin_layout Standard
+
+\size small
+In public domain.
 \end_layout
 
 \begin_layout Standard
@@ -416,6 +434,176 @@ status open
 \backslash
 mainmatter
 \end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{left=1.75cm,bottom=2.445cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size largest
+\noun on
+Pagan and Christian Rome
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+by
+\begin_inset Newline newline
+\end_inset
+
+
+\size large
+Rodolfo Lanciani
+\size small
+
+\begin_inset Newline newline
+\end_inset
+
+Author of 
+\begin_inset Quotes eld
+\end_inset
+
+Ancient Rome in the light of recent discoveries
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\emph on
+\noun on
+Profusely Illustrated
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename 00-02_Editor.jpg
+	width 1in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Boston and New York
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Houghton, Mifflin and Company
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+The Riverside Press, Cambridge
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+1893
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+restoregeometry
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 

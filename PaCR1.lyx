@@ -880,9 +880,13 @@ status open
 
 {
 \backslash
-color{Dandelion}ΠΟΜΠΟΝΙΟϹ ΓΡΗΚΕ
+color{Dandelion}ΠΟΜΠΟΝΙΟϹ ΓΡΗ
 \backslash
--ΙΝΟϹ}
+-ΚΕ
+\backslash
+-Ι
+\backslash
+-ΝΟϹ}
 \end_layout
 
 \end_inset
@@ -1726,7 +1730,7 @@ Its resemblance to the name of the Annei reminds me of another remarkable
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -1934,13 +1938,13 @@ The transformation may be followed stage by stage in both its moral and
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
 	filename 01-07_Arc_Constantine.jpg
-	width 3.4in
+	width 4in
 
 \end_inset
 
@@ -1951,6 +1955,8 @@ status collapsed
 \begin_inset Caption
 
 \begin_layout Plain Layout
+
+\noun on
 Arch of Constantine.
 \end_layout
 
@@ -2441,13 +2447,13 @@ graffite
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename 01-09_Four_Seasons.gif
-	width 2.92in
+	filename 01-09_Four_Seasons.png
+	width 3.43in
 
 \end_inset
 
@@ -2578,6 +2584,42 @@ s in 1799.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-10_Ancient_Candelabrum.png
+	width 1.57in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Ancient Candelabrum in the church of SS.
+ Nereo ed Achilleo.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 In the next chapter I shall speak of ancient temples as museums of statuary,
  galleries of pictures, and cabinets of precious objects.
  I need not describe the acceptance and development of this tradition by
@@ -2675,6 +2717,42 @@ On this marble of the gentiles incense was offered to the gods.
  We have one specimen left of these inscribed pavements in the church of
  SS.
  Quattro Coronati on the Caelian, which may be called an epigraphic museum.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-11_Templum_Sacrae_Urbis.gif
+	width 3.78in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Templum Sacrae Urbis (SS.
+ Cosma e Damiano).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2805,6 +2883,43 @@ status collapsed
 
 \begin_layout Plain Layout
 Still on the landing of a staircase, except now in the Palazzo dei Conservatori.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-12_Mosaic_church_Andrea.gif
+	width 3.78in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Mosaic from the church of S.
+ Andrea.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3091,7 +3206,52 @@ In Rome we have several instances of these private artistic contributions
  Sebastiano in Pallara, on the Palatine, and in that of S.
  Saba on the Aventine, we read the names of a Benedictus and of a Saba,
  at whose expense the apses were decorated.
- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-13_Translation_Cyril.jpg
+	width 4in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+The Translation of S.
+ Cyril's Remains
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+(Fresco in S.
+ Clemente, done at the order of Maria Macellaria)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3247,6 +3407,42 @@ Indicazione delle immagini di Maria, collocate sulle mura esterne di Roma
  with 1,928 precious objects, and 110 ex‑votos; 1,067 lamps were kept burning
  day and night before them, — a most useful institution in a city whose
  streets have not been regularly lighted until recent years.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-14_Shrine_Altar_Mercurius.png
+	width 2.24in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Shrine and Altar of Mercurius Sobrius.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3709,6 +3905,43 @@ a.d.
 
 \noun default
  393.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-15_Kantharos.png
+	width 3.13in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Kantharos in the Court of St.
+ Caecilia.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4313,6 +4546,42 @@ color{Maroon}ad calicem venimus}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-16_Drinking.png
+	width 2in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Sample of a Drinking-cup.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Many drinking-cups used on these occasions have been found in Rome, in my
  time.
  They are generally works of the fourth century of our era, cut in glass
@@ -4758,6 +5027,42 @@ color{Maroon}modii}
 
 \size default
 .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-17_Granary.png
+	width 3.89in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A Granary of Ostia.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
