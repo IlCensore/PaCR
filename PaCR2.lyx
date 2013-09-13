@@ -55,6 +55,7 @@
 \frenchspacing
 \end_preamble
 \use_default_options true
+\master PaCR_index.lyx
 \begin_modules
 initials
 \end_modules
@@ -367,11 +368,53 @@ Fifty Roman feet, 14.8m.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-01_Entablature_Concord.png
+	width 3.52in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Entablature of the Temple of Concord.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 The Temple of Apollo was by no means the only sacred museum of ancient Rome;
  there were scores of them, beginning with the Temple of Concord, so emphaticall
 y praised by Pliny.
 \begin_inset Marginal
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Pliny the Elder never actually praises the Temple of Concord.
@@ -1511,6 +1554,100 @@ b.c.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-02_Nemi.png
+	width 4in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Nemi and the site of the Temple of Diana.
+ 
+\emph on
+A
+\emph default
+ Platform of the Temple of Diana.
+ 
+\emph on
+B
+\emph default
+ Village of Nemi and Castle of the Orsinis.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement b
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-03_Bust_cured_Nemi.png
+	width 1.46in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Portrait Bust of Person cured at Nemi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 The excavation of the temple of Diana Nemorensis was undertaken in 1885,
  by Sir John Savile Lumley, now Lord Savile of Rutherford, the English ambassado
 r at Rome, with the kind consent of the Italian government.
@@ -1539,11 +1676,7 @@ Le Mole.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-They now supply the city of Albano, which has long suffered from water-famine.
+ They now supply the city of Albano, which has long suffered from water-famine.
  I can vouch for their therapeutic efficiency from personal experience;
  in fact I could honestly put up my votive offering to the long-forgotten
  goddess, having recovered health and strength by following the old cure.
@@ -1561,6 +1694,48 @@ s brought to light in 1885, are several figures with large openings on the
  from the other.
  The number of objects collected by Lord Savile may be estimated at three
  thousand.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-04_Stern_ship_Tiber.png
+	width 2.99in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The stern of the ship of the Island of the Tiber.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1605,9 +1780,51 @@ color{Maroon}favissa}
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-05_Lamp.png
+	width 1.55in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Fragment of a Lamp inscribed with the name of Minerva.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 The name of Minerva Medica is familiar to students and visitors of old Rome;
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 See Cicero: 
@@ -1741,7 +1958,7 @@ color{Maroon}restitutione sibi facta capillorum}}
 
 
 \begin_inset Marginal
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1758,6 +1975,49 @@ xi
 \end_inset
 
  (for having restored her hair).
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-06_Votive_head.png
+	width 3.51in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Votive Head.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1842,6 +2102,48 @@ Piazza d'Armi
  of the present day, there was a temple of great veneration and antiquity,
  and that it was dedicated to Juno.
  Both points have been proved and illustrated by modern discoveries.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-07_Citadel_Veii.png
+	width 4.19in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Cliffs under the Citadel of Veii (now called Piazza d'Armi).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1981,6 +2283,48 @@ status collapsed
 
 marbles.
 \begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-08_Pelasgic_hieron.png
+	width 3.92in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+A Pelasgic hieron, or platform of altar, at Segni.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -2198,6 +2542,48 @@ Ancient Rome
 \end_inset
 
  (a marble altar found at Ostia).
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-09_ercules_Boarium.png
+	width 1.85in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Round Temple of Hercules in the Forum Boarium.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2440,6 +2826,49 @@ status collapsed
 
 \begin_layout Standard
 
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-10_Aius_Locutus.png
+	width 1.85in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Ara of Aius Locutius on the Palatine.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
 \noun on
 The Ara of Aius Locutius
 \noun default
@@ -2545,6 +2974,52 @@ to the tutelary Genius of the city of Rome, whether masculine or feminine.
  in history, the capture and burning of Rome by the Gauls, 390 
 \noun on
 b.c.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-11_Ludi_Saeculares.png
+	width 1.35in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Pillar commemorating the 
+\emph on
+Ludi Saeculares
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2839,6 +3314,48 @@ The Ara Pacis is meant.
  made in the Corso Vittorio Emanuele; an altar had been found there, and
  this altar must have been the one sacred to Dis and Proserpina, as no other
  is mentioned in history in the northwest section of the Campus Martius.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 02-12_Dis_Proserpina.png
+	width 3.51in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Plan and section of the Altar of Dis and Proserpina.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

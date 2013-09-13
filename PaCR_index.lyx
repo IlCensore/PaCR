@@ -463,10 +463,70 @@ newgeometry{left=1.75cm,bottom=2.445cm}
 
 \begin_layout Standard
 \align center
+\begin_inset ERT
+status open
 
-\size largest
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\size giant
 \noun on
-Pagan and Christian Rome
+Pagan and Christian
+\size default
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\size giant
+\noun on
+Rome
+\size default
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -481,17 +541,21 @@ Pagan and Christian Rome
 
 \noun on
 by
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
+\begin_layout Standard
+\align center
 
 \size large
+\noun on
 Rodolfo Lanciani
 \size small
 
 \begin_inset Newline newline
 \end_inset
 
+
+\size footnotesize
 Author of 
 \begin_inset Quotes eld
 \end_inset
@@ -512,10 +576,36 @@ Ancient Rome in the light of recent discoveries
 
 \begin_layout Standard
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
 
 \emph on
 \noun on
 Profusely Illustrated
+\emph default
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -548,26 +638,49 @@ Profusely Illustrated
 
 \noun on
 Boston and New York
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
 \end_layout
 
-\begin_layout Standard
-\align center
+\end_inset
+
 
 \noun on
 Houghton, Mifflin and Company
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
-\begin_layout Standard
-\align center
+\end_inset
+
 
 \size small
+
+\begin_inset Newline newline
+\end_inset
+
 The Riverside Press, Cambridge
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-\align center
-
-\size small
 1893
 \end_layout
 
