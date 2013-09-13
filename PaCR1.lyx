@@ -461,6 +461,7 @@ textsc{acilio glabrioni filio}}
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
 status collapsed
@@ -750,6 +751,7 @@ ed exclusively to the memory of its first occupant, the ex-consul.
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
 status collapsed
@@ -878,7 +880,9 @@ status open
 
 {
 \backslash
-color{Dandelion}ΠΟΜΠΟΝΙΟϹ ΓΡΗΚΕΙΝΟϹ}
+color{Dandelion}ΠΟΜΠΟΝΙΟϹ ΓΡΗΚΕ
+\backslash
+-ΙΝΟϹ}
 \end_layout
 
 \end_inset
@@ -1329,6 +1333,7 @@ De officio Procons.
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
 status collapsed
@@ -1499,9 +1504,10 @@ n, and a very unsteady one at that, entered a career for public honors.
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1609,6 +1615,41 @@ We must not believe, however, that gentiles and Christians lived always
 \begin_layout Standard
 An inscription was discovered at Ostia, in January, 1867, in a tomb of the
  Via Severiana, of which I append an accurate copy.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-05_Inscription_Tomb_Via_Severiana.gif
+	width 1in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Inscription in a tomb of the Via Severiana at Ostia.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
  The tomb and the inscription are purely pagan, as shown by the invocation
  to the infernal gods, 
 \begin_inset ERT
@@ -1682,6 +1723,43 @@ Its resemblance to the name of the Annei reminds me of another remarkable
  I believe he was a pagan, and that the lamps with the Good Shepherd were
  produced by him to order, and from a design supplied to him by a member
  of the local congregation.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-06_Lamp_Good_Shepard.gif
+	width 1.53in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Lamp of Annius Ser\SpecialChar \ldots{}
+, with figure of the Good Shepherd.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1850,6 +1928,44 @@ The transformation may be followed stage by stage in both its moral and
  which I have to refer is the Arch of Constantine, raised in 315 at the
  foot of the Palatine, where the Via Triumphalis diverges from the Sacra
  Via.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-07_Arc_Constantine.jpg
+	width 3.4in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Arch of Constantine.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2222,7 +2338,42 @@ On the pagan and profane objects transferred to churches for their use and
  two reliefs on sarcophagi, one engraving on a gem.
  Here is the latest representation discovered, from the Catacombs of Priscilla
  (1888).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-08_Orpheus_Catacombs_of_Priscilla.gif
+	width 3.07in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Picture of Orpheus, found in the Catacombs of Priscilla.
  
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2283,6 +2434,42 @@ graffite
 \end_inset
 
  by Matteo di Giovanni in the pavement of the Duomo at Siena.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 01-09_Four_Seasons.gif
+	width 2.92in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Four Seasons, from the Imperial Palace, Ostia.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2664,9 +2851,6 @@ The decoration of the churches, like that of the temples, was mostly done
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
 Lupicinus and Pascasia made one hundred [square] feet.
 \begin_inset Marginal
 status open
@@ -2682,23 +2866,14 @@ status open
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
 Clamosus and Successa, one hundred feet.
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
 Felicissimus and his relatives, one hundred feet.
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
 Fausta, the patrician, and her relatives, sixty feet.
 \begin_inset Marginal
 status open
@@ -2714,9 +2889,6 @@ status open
 \end_layout
 
 \begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
 Claudia, devout woman, and her niece Honoria, made one hundred and ten feet,
 \begin_inset Marginal
 status open
@@ -2729,10 +2901,6 @@ status open
 \end_inset
 
  in fulfilment of a vow.
-\begin_inset Quotes erd
-\end_inset
-
-
 \begin_inset Foot
 status collapsed
 
