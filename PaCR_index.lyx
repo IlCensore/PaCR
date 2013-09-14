@@ -63,9 +63,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman EB Garamond
-\font_sans Fanwood
-\font_typewriter Inconsolata
+\font_roman Minion Pro
+\font_sans Myriad Pro
+\font_typewriter Quivira
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false

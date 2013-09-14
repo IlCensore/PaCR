@@ -211,7 +211,7 @@ iii
 Le liber pontificalis
 \emph default
 .
- Paris, Thorin, 1886‑1892.
+ Paris, Thorin, 1886--1892.
  — G.
  B.
  de Rossi: 
@@ -219,7 +219,7 @@ Le liber pontificalis
 Bullettino di archeologia cristiana
 \emph default
 .
- Roma, Salviucci, 1863‑1891.
+ Roma, Salviucci, 1863--1891.
  
 \end_layout
 
@@ -2020,9 +2020,11 @@ color{Maroon}instinctu divinitatis}
 
 
 \begin_inset Marginal
-status collapsed
+status open
 
 \begin_layout Plain Layout
+
+\size scriptsize
 To the Emperor Caesar Flavius Constantine, the Greatest, Pius, Felix, Augustus:
  inspired by (a) divinity, in the greatness of his mind, he used his army
  to save the state by the just force of arms from a tyrant on the one hand
@@ -2535,7 +2537,7 @@ color{Maroon}Autumnus}
 
 \end_inset
 
-, discovered in the so‑called imperial palace at Ostia, were inserted in
+, discovered in the so-called imperial palace at Ostia, were inserted in
  the pavement of this church by order of Pius IX.
  Galenus and Hippokrates, manipulating medicines and cordials, were painted
  in the lower basilica at Anagni, Hermes Trismegistos was represented in
@@ -2825,7 +2827,7 @@ color{Maroon}casa Barbara patricia}
  This unique set of intarsios was destroyed in the sixteenth century by
  the French Antonian monks for a reason worth relating.
  They believed that the glutinous substance by which the layer of marble
- or mother-of‑pearl was kept fast was an excellent remedy against the ague;
+ or mother-of-pearl was kept fast was an excellent remedy against the ague;
  hence every time one of them was attacked by a fever, a portion of those
  marvellous works was sacrificed.
  Fever must have raged quite fiercely among the French monks, because when
@@ -2900,7 +2902,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename 01-12_Mosaic_church_Andrea.gif
+	filename 01-12_Mosaic_church_Andrea.png
 	width 3.78in
 
 \end_inset
@@ -3404,7 +3406,7 @@ Indicazione delle immagini di Maria, collocate sulle mura esterne di Roma
 \end_inset
 
  There were 1,421 images of the Madonna, 1,318 images of saints, ornamented
- with 1,928 precious objects, and 110 ex‑votos; 1,067 lamps were kept burning
+ with 1,928 precious objects, and 110 ex-votos; 1,067 lamps were kept burning
  day and night before them, — a most useful institution in a city whose
  streets have not been regularly lighted until recent years.
 \end_layout
@@ -4793,7 +4795,7 @@ color{Maroon}horrea}
 \begin_layout Quotation
 
 \size small
-To be let from to‑day, and hereafter annually (beginning on December 13):
+To be let from to-day, and hereafter annually (beginning on December 13):
  These warehouses, belonging to the Emperor Hadrian, together with their
  granaries, wine-cellars, strong-boxes, and repositories.
 \end_layout
@@ -4828,7 +4830,7 @@ color{Maroon}horrearius}
 
 \end_inset
 
- (or keeper-in‑chief) for the renewal of his lease, shall be considered
+ (or keeper-in-chief) for the renewal of his lease, shall be considered
  as liable for another year, the rent to be determined by the average price
  paid by others for the same room, vault, or strong-box.
  This regulation to be enforced in case the 
@@ -4870,7 +4872,7 @@ V.
 \end_inset
 
 VI.
- The tenant must give an assignment of his goods to the keeper-in‑chief,
+ The tenant must give an assignment of his goods to the keeper-in-chief,
  who shall not be held responsible for the safe-keeping of merchandise or
  valuables which have not been duly declared.
  The tenant must claim a receipt for the said assignment and for the payment
@@ -5416,13 +5418,13 @@ status open
 \end_inset
 
 Sank into the great flower, that is adorned
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
 With leaves so many, and thence reascended
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
 To where its love abideth evermore.
 \begin_inset Quotes erd
 \end_inset
