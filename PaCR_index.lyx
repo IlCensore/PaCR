@@ -63,8 +63,8 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman Minion Pro
-\font_sans Myriad Pro
+\font_roman Arno Pro
+\font_sans Gill Sans Std
 \font_typewriter Quivira
 \font_default_family default
 \use_non_tex_fonts true
@@ -402,6 +402,91 @@ LatexCommand tableofcontents
 
 \begin_layout Standard
 \begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{left=1.75cm,bottom=2.45cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename 00-01_Constantin_Maxentius.jpg
+	width 5.06in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+Battle between Constantine and Maxentius
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+(From a painting by Giulio Romano, Francesco Penni and Raffaellino del Colle)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+restoregeometry
+\end_layout
 
 \end_inset
 
