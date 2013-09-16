@@ -58,8 +58,8 @@ initials
 \inputencoding auto
 \fontencoding global
 \font_roman EB Garamond
-\font_sans Linux Biolinum O
-\font_typewriter Inconsolata
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter Linux Libertine O
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -460,11 +460,12 @@ textsc{acilio glabrioni filio}}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status collapsed
+\begin_inset Wrap figure
+lines 0
+placement l
+overhang 0in
+width "50col%"
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -481,15 +482,11 @@ status collapsed
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Tablet of Acilius Glabrio
+Tablet of Acilius Glabrio.
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -1336,11 +1333,12 @@ De officio Procons.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status collapsed
+\begin_inset Wrap figure
+lines 0
+placement r
+overhang 0in
+width "50col%"
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -1362,10 +1360,6 @@ Portrait Bust of Philip the Younger.
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -1617,11 +1611,11 @@ We must not believe, however, that gentiles and Christians lived always
 \end_layout
 
 \begin_layout Standard
-An inscription was discovered at Ostia, in January, 1867, in a tomb of the
- Via Severiana, of which I append an accurate copy.
-\begin_inset Float figure
-wide false
-sideways false
+\begin_inset Wrap figure
+lines 0
+placement l
+overhang 0in
+width "50col%"
 status collapsed
 
 \begin_layout Plain Layout
@@ -1648,12 +1642,14 @@ Inscription in a tomb of the Via Severiana at Ostia.
 
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
+
 
 \end_layout
 
-\end_inset
-
+\begin_layout Standard
+An inscription was discovered at Ostia, in January, 1867, in a tomb of the
+ Via Severiana, of which I append an accurate copy.
  The tomb and the inscription are purely pagan, as shown by the invocation
  to the infernal gods, 
 \begin_inset ERT
@@ -1727,9 +1723,14 @@ Its resemblance to the name of the Annei reminds me of another remarkable
  I believe he was a pagan, and that the lamps with the Good Shepherd were
  produced by him to order, and from a design supplied to him by a member
  of the local congregation.
-\begin_inset Float figure
-wide false
-sideways false
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
 status open
 
 \begin_layout Plain Layout
@@ -1754,10 +1755,6 @@ Lamp of Annius Ser\SpecialChar \ldots{}
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -2586,10 +2583,11 @@ s in 1799.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
+\begin_inset Wrap figure
+lines 0
+placement O
+overhang 0in
+width "50col%"
 status open
 
 \begin_layout Plain Layout
@@ -3215,7 +3213,7 @@ In Rome we have several instances of these private artistic contributions
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -3238,11 +3236,7 @@ status collapsed
 The Translation of S.
  Cyril's Remains
 \noun default
-
-\begin_inset Newline newline
-\end_inset
-
-(Fresco in S.
+ (Fresco in S.
  Clemente, done at the order of Maria Macellaria)
 \end_layout
 
@@ -3412,11 +3406,12 @@ Indicazione delle immagini di Maria, collocate sulle mura esterne di Roma
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status collapsed
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -3430,7 +3425,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-\align center
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -4548,10 +4542,11 @@ color{Maroon}ad calicem venimus}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement h
-wide false
-sideways false
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
 status open
 
 \begin_layout Plain Layout
@@ -4566,7 +4561,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-\align center
 \begin_inset Caption
 
 \begin_layout Plain Layout

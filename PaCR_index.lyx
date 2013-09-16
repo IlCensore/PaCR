@@ -10,6 +10,8 @@
 \usepackage[usenames,dvipsnames]{xcolor}
 %cambio di geometria
 \usepackage{geometry}
+%allineamento punteggiatura
+\usepackage{microtype}
 
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
@@ -63,9 +65,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman Arno Pro
-\font_sans Gill Sans Std
-\font_typewriter Quivira
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter Linux Libertine O
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -403,6 +405,13 @@ LatexCommand tableofcontents
 \begin_layout Standard
 \begin_inset FloatList figure
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
 \end_inset
 
 
@@ -826,6 +835,13 @@ filename "PaCR1.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "PaCR2.lyx"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "PaCR3.lyx"
 
 \end_inset
 

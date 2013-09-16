@@ -1,0 +1,2853 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+%url lunghe
+\usepackage{url}
+% per i colori
+\usepackage[usenames,dvipsnames]{xcolor}
+%cambio di geometria
+\usepackage{geometry}
+
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+%\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\makepagestyle{myheadings}
+%  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
+  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \thechapter}}{}
+  \makeoddhead{myheadings}{}{\leftmark}{\thepage}
+%  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+%     \centerline{\chapnumfont \textsc{\chaptername\ \Numberstringnum{\thechapter}}}}
+%     \centerline{\chapnumfont \textsc{\chaptername\ \thechapter}}}
+     \chapnumfont \textsc{\chaptername\ \thechapter}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+%    \par\centerline{\parbox{0.5in}{\hrulefill}}\par}
+%    \par\parbox{0.5in}{\hrulefill}\par}
+    \par\parbox{0.5in}{}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+%    \centering \chaptitlefont\textsc{##1}}}
+    \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+
+
+\marginparmargin{outer}
+\let\oldmarginpar\marginpar
+\renewcommand\marginpar[2][]{%
+  \oldmarginpar{\mpjustification #2}}
+\frenchspacing
+\end_preamble
+\use_default_options true
+\master PaCR_index.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter Linux Libertine O
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 0
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_numerical
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.75cm
+\topmargin 2.45cm
+\rightmargin 7cm
+\bottommargin 3.3cm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Christian churches
+\end_layout
+
+\begin_layout Chapterprecis
+The large number of churches in Rome.
+ — The six classes of the earliest of these.
+ — I.
+ Private oratories.
+ — The houses of Pudens and Prisca.
+ — The evolution of the church from the private house.
+ — II.
+ Scholae.
+ — The memorial services and banquets of the pagans.
+ — Two extant specimens of early Christian scholae.
+ — That in the Cemetery of Callixtus.
+ — III.
+ Oratories and churches built over the tombs of martyrs and confessors.
+ — How they came to be built.
+ — These the originals of the greatest sanctuaries of modern Rome.
+ — S.
+ Peter's.
+ — The origin of the church.
+ — The question of S.
+ Peter's residence and execution in Rome.
+ — The place of his execution and burial.
+ — The remarkable discovery of graves under the 
+\emph on
+baldacchino
+\emph default
+ of Urban VIII.
+ — The basilica erected by Constantine.
+ — Some of its monuments.
+ — The chair and statue of S.
+ Peter.
+ — The destruction of the old basilica and the building of the new.
+ — The vast dimensions of the latter.
+ — Is S.
+ Peter's body really still under the church? — The basilica of S.
+ Paul's outside the walls.
+ — The obstacles to its construction.
+ — The fortified settlement of Johannipolis which grew up around it.
+ — The grave of S.
+ Paul.
+ — IV.
+ Houses of confessors and martyrs.
+ — The discoveries of padre Germano on the Caelian.
+ — The house of the martyrs John and Paul.
+ — V.
+ Pagan monuments converted into churches.
+ — Every pagan building capable of holding a congregation was thus transformed
+ at one time or another.
+ — Examples of these in and near the Coliseum.
+ — VI.
+ Memorials of historical events.
+ — The chapel erected to commemorate the victory of Constantine over Maxentius.
+ — That of Santa Croce a Monte Mario.
+ 
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+R
+\end_layout
+
+\end_inset
+
+ome
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ , according to an old saying, contains as many churches as there are days
+ in the year.
+ This statement is too modest; the 
+\begin_inset Quotes eld
+\end_inset
+
+great catalogue
+\begin_inset Quotes erd
+\end_inset
+
+ published by cardinal Mai
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+In volume ix.
+ of the 
+\emph on
+Spicilegium romanum
+\emph default
+, pp.
+ 384--468.
+\end_layout
+
+\end_inset
+
+ mentions over a thousand places of worship, while nine hundred and eighteen
+ are registered in Professor Armellini's 
+\begin_inset Quotes eld
+\end_inset
+
+Chiese di Roma.
+\begin_inset Quotes erd
+\end_inset
+
+ A great many have disappeared since the first institution, and are known
+ only from ruins, or inscriptions and chronicles.
+ Others have been disfigured by "restorations." Without denying the fact
+ that our sacred buildings excel in quantity rather than quality, there
+ is no doubt that as a whole they form the best artistic and historic collection
+ in the world.
+ Every age, from the apostolic to the present, every school, every style
+ has its representatives in the churches of Rome.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The assertion that the works of mediaeval architects have been destroyed
+ or modernized to such an extent as to leave a wide gap between the classic
+ and Renaissance periods, must have been made by persons unacquainted with
+ Rome; the churches and the cloisters of S.
+ Saba on the Aventine, of SS.
+ Quattro Coronati on the Caelian, of S.
+ Giovanni a Porta Latina, of SS.
+ Vincenzo e Anastasio alle Tre Fontane, of S.
+ Lorenzo fuori le Mura, are excellent specimens of mediaeval architecture.
+ Let students, archaeologists, and architects provide themselves with a
+ chronological table of our sacred buildings, and select the best specimens
+ for every quarter of a century, beginning with the oratory of Aquila and
+ Prisca, mentioned in the Epistles, and ending with the latest contemporary
+ creations; they cannot find a better subject for their education in art
+ and history.
+\end_layout
+
+\begin_layout Standard
+From the point of view of their origin and structure, the churches of Rome
+ of the first six centuries may be divided into six classes: —
+\end_layout
+
+\begin_layout Verse
+I.
+ Rooms of private houses where the first prayer-meetings were held.
+ 
+\end_layout
+
+\begin_layout Verse
+II.
+ Scholae (memorial or banqueting halls in public cemeteries), transformed
+ into places of worship.
+\end_layout
+
+\begin_layout Verse
+III.
+ Oratories and churches built over the tombs of martyrs and confessors.
+\end_layout
+
+\begin_layout Verse
+IV.
+ Houses of confessors and martyrs.
+\end_layout
+
+\begin_layout Verse
+V.
+ Pagan monuments, especially temples, converted into churches.
+\end_layout
+
+\begin_layout Verse
+VI.
+ Memorials of historical events.
+\end_layout
+
+\begin_layout Standard
+In treating this subject we must bear in mind that early Christian edifices
+ in Rome were never named from the owner of the property on which they were
+ established.
+ The same rule applies to the suburban cemeteries, which were always named
+ from the owner of the ground above them, not from the martyrs buried within.
+ The statement is simple; but we are so accustomed to calling the Lateran
+ basilica 
+\begin_inset Quotes eld
+\end_inset
+
+S.
+ Giovanni,
+\begin_inset Quotes erd
+\end_inset
+
+ or the oratory of Pudens 
+\begin_inset Quotes eld
+\end_inset
+
+S.
+ Pudentiana,
+\begin_inset Quotes erd
+\end_inset
+
+ that their original names (Basilica Salvatoris, and Ecclesia Pudentiana)
+ have almost fallen into oblivion.
+\end_layout
+
+\begin_layout Standard
+I shall select from each of the six classes such specimens as I believe
+ will convey an impression of its type to the mind of the reader.
+\end_layout
+
+\begin_layout Standard
+I.
+ 
+\noun on
+Private Oratories
+\noun default
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In the familiar record of the first days of the Christian church we read
+ how the men of Galilee, who returned to Jerusalem after the ascension,
+ `went up into the upper chamber,' which was at once their dwelling-place
+ and their house of prayer and of assembly.
+ There, at the first common meal, the bread was broken and the cup passed
+ around in remembrance of the last occasion on which they had sat at table
+ with Christ.
+ There too they assembled for their first act of church government, the
+ election of a successor to the apostate Judas.
+ All is simple and domestic, yet we have here the beginnings of what became
+ in time the most wide-reaching and highly organized of human systems.
+ An elaborate hierarchy, a complicated theology were to arise out of the
+ informal conclave, the memorial meal; and in like manner, out of the homely
+ meeting-place of the disciples would be developed the costly and beautiful
+ forms of the Christian temple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Baldwin Brown: 
+\emph on
+From Schola to Cathedral
+\emph default
+, p.
+ 1.
+ Edinburgh, Douglas, 1886.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Rome possesses authentic remains of the "houses of prayer" in which the
+ gospel was first announced in apostolic times.
+ Five names are mentioned in connection with the visit of Peter and Paul
+ to the capital of the empire, and two houses are mentioned as those in
+ which they found hospitality, and were able to preach the new doctrine.
+ One of these, belonging to Pudens and his daughters Pudentiana and Praxedes,
+ stands halfway up the Vicus Patricius (Via del Bambin Gesù) on the southern
+ slope of the Viminal; the other, belonging to Aquila and Prisca (or Priscilla),
+ on the spur of the Aventine which overlooks the Circus Maximus.
+ Both have been represented through the course of centuries, and are represented
+ now, by a church, named from the owner the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Titulus Pudentis}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, and the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Titulus Priscae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ Archaeologists have tried to trace the genealogy of Pudens, the friend
+ of the apostles; but, although it seems probable that he belonged to the
+ noble race of the Cornelii Aemilii, the fact has not yet been clearly proved.
+ Equally doubtful are the origin and social condition of Aquila and his
+ wife Prisca, whose names appear both in the Acts and in the Epistles.
+ We know from these documents that, in consequence of the decree of banishment
+ which was issued against the Jews by the emperor Claudius, Aquila and Prisca
+ were compelled to leave Rome for a while, and that on their return they
+ were able to open a small oratory — 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ecclesiam domesticam}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ — in their house.
+ This oratory, one of the first opened to divine worship in Rome, these
+ walls which, in all probability, have echoed with the sound of S.
+ Peter's voice, were discovered in 1776 close to the modern church of S.
+ Prisca; but no attention was paid to the discovery, in spite of its unrivalled
+ importance.
+ The only memorandum of it is a scrap of paper in Codex 9697 of the Bibliothèque
+ Nationale in Paris, in which a man named Carrara speaks of having found
+ a subterranean chapel near S.
+ Prisca, decorated with paintings of the fourth century, representing the
+ apostles.
+ A copy of these frescoes seems to have been made at the time, but no trace
+ of it has been found.
+ I cannot understand how, in an age like ours, so enthusiastically devoted
+ to archaeological, historical, and religious research, no attempt has since
+ been made to bring this venerable oratory to light.
+\end_layout
+
+\begin_layout Standard
+In the same excavations of 1776 was found a bronze tablet, which had been
+ offered to Gaius Marius Pudens Cornelianus, by the people of Clunia (near
+ Palencia, Spain) as a token of gratitude for the services which he had
+ rendered them during his governorship of the province of Tarragona.
+ The tablet, dated April 9, 
+\noun on
+a.d.
+
+\noun default
+ 222, proves that the house owned by Aquila and Prisca in apostolic times
+ had subsequently passed into the hands of a Cornelius Pudens; in other
+ words, that the relations formed between the two families during the sojourn
+ of the apostles in Rome had been faithfully maintained by their descendants.
+ Their intimate connection is also proved by the fact that Pudens, Pudentiana,
+ Praxedes, and Prisca were all buried in the Cemetery of Priscilla on the
+ Via Salaria.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See de Rossi: 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1867, p.
+ 46; 
+\emph on
+Corpus Inscriptionum Latinarum
+\emph default
+, 
+\noun on
+vi
+\noun default
+.
+ no.
+ 1454.
+ — Spalletti: 
+\emph on
+Tavola ospitale trovata in Roma sull'Aventino
+\emph default
+.
+ Roma, Salomoni, 1777 (p.
+ 34).
+ — Lanciani: 
+\emph on
+The Atlantic Monthly
+\emph default
+, July, 1891.
+ — Armellini: 
+\emph on
+Chiese
+\emph default
+, first edition, p.
+ 500.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A very old tradition, confirmed by the 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis,
+\begin_inset Quotes erd
+\end_inset
+
+ describes the modern church of S.
+ Pudentiana as having been once the private house of the same Pudens who
+ was baptized by the apostles, and who is mentioned in the epistles of S.
+ Paul.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+2 Timothy, iv.
+ 21.
+\end_layout
+
+\end_inset
+
+ Here the first converts met for prayers; here Pudentiana, Praxedes and
+ Timotheus, daughters and son of Pudens, obtained from Pius I.
+ the institution of a regular parish-assembly (
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}titulus}
+\end_layout
+
+\end_inset
+
+
+\lang british
+), provided with a baptismal font; and here, for a long time, were preserved
+ some pieces of household furniture which had been used by S.
+ Peter.
+ The tradition deserves attention because it was openly accepted at the
+ beginning of the fourth century.
+ The name of the church at that time was simply Ecclesia Pudentiana, which
+ means 
+\begin_inset Quotes eld
+\end_inset
+
+the church of Pudens,
+\begin_inset Quotes erd
+\end_inset
+
+ its owner and founder.
+ An inscription discovered by Lelio Pasqualini speaks of a Leopardus, 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}lector de Pudentiana}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, in the year 384; and in the mosaic of the apse the Redeemer holds a book,
+ on the open page of which is written: 
+\begin_inset Quotes eld
+\end_inset
+
+The Lord, defender of the church of Pudens.
+\begin_inset Quotes erd
+\end_inset
+
+ In course of time the ignorant people changed the word Pudentiana, a possessive
+ adjective, into the name of a saint; and the name Sancta Pudentiana usurped
+ the place of the genuine one.
+ It appears for the first time in a document of the year 745.
+ 
+\end_layout
+
+\begin_layout Standard
+The connection of the house with the apostolate of SS.
+ Peter and Paul made it very popular from the beginning.
+ Laymen and clergymen alike contributed to transform it into a handsome
+ church.
+ Pope Siricius (384--397), his acolytes Leopardus, Maximus and Ilicius,
+ and Valerius Messalla, prefect of the city (396--403), ornamented it with
+ mosaics, colonnades, and marble screens, and built on the west side of
+ the Vicus Patricius a portico more than a thousand feet long,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+more than 300m long.
+\end_layout
+
+\end_inset
+
+ which led from the Subura to the vestibule of the church.
+\end_layout
+
+\begin_layout Standard
+In 1588 Cardinal Enrico Caetani disfigured the building with unfortunate
+ restorations.
+ He laid his hands even on the mosaics of the apse, considered by Poussin
+ the best in Rome, as they are the oldest (
+\noun on
+a.d.
+
+\noun default
+ 398), and mutilated the figures of the two apostles, a portion of the foregroun
+d and the historical inscription.
+ His architect, Francesco Ricciarelli da Volterra, while excavating the
+ foundations for one of the pilasters of the new dome, made a discovery,
+ which is described by Gaspare Celio
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Gaspare Celio: 
+\emph on
+Memoria dei nomi degli artefici
+\emph default
+, p.
+ 81.
+ Napoli, Bonino, 1638.
+\end_layout
+
+\end_inset
+
+ in the following words:—
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+While Francesco Volterra was restoring the church of S.
+ Pudentiana, and building the foundations of the dome, the masons discovered
+ a marble group of the Laocoön, broken into many pieces.
+ Whether from ill will or from laziness, they left the beautiful work of
+ art at the bottom of the trench, and brought to the surface only a leg,
+ without the foot, and a wrist.
+ It was given to me, and I used to show it with pride to my artist friends,
+ until some one stole it.
+ It was a replica of the Belvedere group, considerably larger, and so beautiful
+ that many believe it to be the original described by Pliny (
+\noun on
+xxvi
+\noun default
+.5).
+ The ancients, like the moderns, were fond of reproducing masterpieces.
+ If the replica of the Pietà of Michelangelo, which we admire in the church
+ of S.
+ Maria dell' Anima, had been found under the ground, would we not consider
+ it a better work than the original in S.
+ Peter's? Francesco Volterra complained to me many times about the slovenliness
+ of the masons; he says that, working by contract (
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}a cottimo}
+\end_layout
+
+\end_inset
+
+
+\lang british
+), they were afraid they should get no reward for the trouble of bringing
+ the group to the surface.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 03-01_Pudens.png
+	width 2.49in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Remains of the House of Pudens, discovered in 1870.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Remains of the house of Pudens were found in 1870.
+ They occupy a considerable area under the neighboring houses.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Duchesne: 
+\emph on
+Liber Pontificalis
+\emph default
+, vol.
+ 
+\noun on
+i
+\noun default
+.
+ pp.
+ 132, 133.
+ — De Era: 
+\emph on
+Storia di S.
+ Pudenziana
+\emph default
+, two MSS.
+ volumes in the library of S.
+ Bernardo alle Terme.
+ — Bartolini: 
+\emph on
+Sopra l'antichissimo altare di legno della basilica lateranense
+\emph default
+.
+ Roma, 1852.
+ — De Rossi: 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1867, p.
+ 49; 
+\emph on
+Musaici delle chiese di Roma
+\emph default
+.
+ — Pellegrini: 
+\emph on
+Scavi nelle terme di Novato
+\emph default
+, in the 
+\emph on
+Bullettino dell'Instituto
+\emph default
+, 1870, p.
+ 161.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 03-02_Pompeian_house.png
+	width 2in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Plan of Pompeian House.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The theory accepted by some modern writers as regards the transformation
+ of these halls of prayer into regular churches is this.
+ The prayer-meetings were held in the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}tablinum}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ (A) or reception room of the house, which, as shown in the accompanying
+ plan, opened on the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}atrium}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ or court (B), and this was surrounded by a portico or peristyle (C).
+ In the early days of the gospel the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}tablinum}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ could easily accommodate the small congregation of converts; but, as this
+ increased in numbers and the space became inadequate, the faithful were
+ compelled to occupy that section of the portico which was in front of the
+ meeting hall.
+ When the congregation became still larger, there was no other way of accommodat
+ing it, and sheltering it from rain or sun, than by covering the court either
+ with an awning or a roof.
+ There is very little difference between this arrangement and the plan of
+ a Christian basilica.
+ The 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}tablinum}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ becomes an apse; the court, roofed over, becomes the nave; the side wings
+ of the peristyle become the aisles.
+\end_layout
+
+\begin_layout Standard
+Among the Roman churches whose origin can be traced to the hall of meeting,
+ besides those of Pudens and Prisca already mentioned, the best preserved
+ seems to be that built by Demetrias at the third milestone of the Via Latina,
+ near the 
+\begin_inset Quotes eld
+\end_inset
+
+painted tombs.
+\begin_inset Quotes erd
+\end_inset
+
+ Demetrias, daughter of Anicius Hermogenianus, prefect of the city, 368--70,
+ and of Tyrrania Juliana, a friend of Augustine and Jerome, enlarged the
+ oratory already existing in the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}tablinum}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ of the Anician villa, and transformed it into a beautiful church, afterwards
+ dedicated to S.
+ Lorenzo.
+ Church and villa were discovered in 1857, and, together with the painted
+ tombs of the Via Latina, are now the property of the nation.
+ The stranger could not find a pleasanter afternoon drive.
+ The church is well preserved, and still contains the metric inscription
+ in praise of Demetrias which was composed by Leo III.
+ (795--816).
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Lorenzo Fortunati: 
+\emph on
+Relazione degli scavi e scoperte fatte lungo la via Latina
+\emph default
+.
+ Roma, 1859.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 03-03_House_Pudens.png
+	width 2.49in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Remains of the House of Pudens.
+ Front Wall, pierced by modern windows.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+II.
+ Scholae
+\noun default
+.
+ The laws of Rome were very strict in regard to associations, which, formed
+ on the pretence of amusement, charity, or athletic sports, were apt to
+ degenerate into political sects.
+ Exception was made in favor of the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}collegia funeraticia}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, which were societies formed to provide a decent funeral and place of burial
+ for their members.
+ An inscription discovered at Civita Lavinia quotes the very words of a
+ decree of the Senate on this subject: 
+\begin_inset Quotes eld
+\end_inset
+
+It is permitted to those who desire to make a monthly contribution for funeral
+ expenses to form an association.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+These clubs or colleges collected their subscriptions in a treasure-chest,
+ and out of it provided for the obsequies of deceased members.
+ Funeral ceremonies did not cease when the body or the ashes was laid in
+ the sepulchre.
+ It was the custom to celebrate on the occasion a feast, and to repeat that
+ feast year by year on the birthday of the dead, and on other stated days.
+ For the holding of these feasts, as well as for other meetings, special
+ buildings were erected, named 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}scholae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+; and when the societies received gifts from rich members or patrons, the
+ benefaction frequently took the shape of a new lodge-room, or of a ground
+ for a new cemetery, with a building for meetings.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Baldwin Brown: 
+\emph on
+ubi supra
+\emph default
+, p.
+ 17.
+\end_layout
+
+\end_inset
+
+ The Christians took advantage of the freedom accorded to funeral colleges,
+ and associated themselves for the same purpose, following as closely as
+ possible their rules concerning contributions, the erection of lodges,
+ the meetings, and the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}ἀγάραι}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ or love feasts; and its was largely through the adoption of these well-understo
+od and respected customs that they were enabled to hold their meetings and
+ keep together as a corporate body through the stormy times of the second
+ and third centuries.
+\end_layout
+
+\begin_layout Standard
+Two excellent specimens of 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}scholae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ connected with Christian cemeteries and with meetings of the faithful have
+ come down to us, one above the Catacombs of Callixtus, the other above
+ those of Soter.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Graphics
+	filename 03-04_Schola_Callixtus.png
+	width 2.89in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+
+\lang english
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Plan of the schola above the Catacombs of Callixtus
+\noun default
+ (From Nortet's 
+\emph on
+Les Catacombes Romaines
+\emph default
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The first edifice has the shape of a square hall with three apses, — 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}cella trichora}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ It is built over the part of the catacombs which was excavated at the time
+ of Pope Fabianus (
+\noun on
+a.d.
+
+\noun default
+ 236‑250), who is known to have raised 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}multas fabricas per caemeteria}
+\end_layout
+
+\end_inset
+
+
+\lang british
+; it is probably his work, as the style of masonry is exactly that of the
+ first half of the third century.
+ The original 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}schola}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ was covered by a wooden roof, and had no façade or door.
+ In the year 258, while Sixtus II., attended by his deacons Felicissimus
+ and Agapetus, was presiding over a meeting at this place in spite of the
+ prohibition of Valerian, a body of men invaded the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}schola}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, murdered the bishop and his acolytes, and razed the building nearly to
+ the level of the ground.
+ Half a century later, in the time of Constantine, it was restored to its
+ original shape, with the addition of a vaulted roof and a façade.
+ The line which separates the old foundations of Fabianus from the restorations
+ of the age of peace is clearly visible.
+ Later the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}schola}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ was changed into a church and dedicated to the memory of Syxtus, who had
+ lost his wife there, and of Caecilia, who was buried in the crypt below.
+ It became a great place of pilgrimage, and the itineraries mention it as
+ one of the leading stations on the Appian Way.
+\end_layout
+
+\begin_layout Standard
+When de Rossi first visited the place, fifty years ago, this famous 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}schola}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ or church of Syxtus and Caecilia was used as a wine-cellar, while the crypts
+ of Caecilia and Cornelius were used as vaults.
+ Thanks to his initiative the monument has again become the property of
+ the Church of Rome; and after a lapse of ten or twelve centuries divine
+ service was resumed in it on the twentieth day of April of the present
+ year.
+ Its walls have been covered with inscriptions found in the adjoining cemetery.
+\end_layout
+
+\begin_layout Standard
+The theory suggested by modern writers with regard to the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}scholae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ is very much the same as that concerning the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}tablinum}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ of private houses.
+ At first the small building was sufficient to meet the wants of a small
+ congregation; with the increase of the members it became a 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}presbiterium}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, or place reserved for the bishop or the clergy, while the audience stood
+ outside, under the shelter of a tent, or a roof supported by upright beams.
+ Here also we have all the architectural elements of the Christian basilica.
+\end_layout
+
+\begin_layout Standard
+The name 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}schola}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, in its original meaning, has never died out in Rome; and as in the Middle
+ Ages we had the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}scholae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ of the Saxons, the Greeks, the Frisians, and the Lombards, so we have in
+ the present day those of the Jews (
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}gli scoli degli ebrei}
+\end_layout
+
+\end_inset
+
+
+\lang british
+).
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+III.
+ Oratories and churches built over the tombs of martyrs and confessors
+\noun default
+.
+ The sacred buildings of this class are, or were formerly, outside the walls,
+ as burial was not allowed within city limits.
+ To explain their origin and to understand their significance we must bear
+ in mind the following rules.
+ The action of the Roman law towards the Christians, that is, towards persons
+ accused of atheism and rebellion against the Empire, resulted in the execution
+ of those who were convicted.
+ Except in extraordinary cases, the body of the victim could be claimed
+ by relatives and friends and buried with due honors.
+ In chapters vi.
+ and vii.
+ instances will be quoted of the erection of imposing tombs to the memory
+ of Roman patricians, generals and magistrates, who were put to death under
+ the imperial régime.
+ The same privileges of burial were granted to the Christians, who preferred,
+ however, the modesty and safety of a grave in the heart of the catacombs
+ to the pompous luxury of a mausoleum above ground.
+ The grave of a martyr was an object of consideration, and was often visited
+ by pilgrims, who adorned it with wreaths and lights on the anniversary
+ of his execution.
+ After the end of the persecutions the first thought of the victorious church
+ was to honor the memory of those who had fought so gallantly for the common
+ cause, and who at the sacrifice of their lives had hastened the advent
+ of the days of freedom and peace.
+ No better altar than those graves could be chosen for the celebration of
+ divine service; but they were sunk deep in the ground, and the cubicula
+ of the catacombs were hardly capable of containing the officiating clergy,
+ much less the multitudes of the faithful.
+ Touching the graves, removing them to a more suitable place, was out of
+ the question; in the eyes of the early Christians no more impious sacrilege
+ could be perpetrated.
+ There was but one way left to deal with the difficulty; that of cutting
+ away the rock over and around the grave, and thereby gaining such space
+ as was deemed sufficient for the erection of a basilica.
+ The excavation was done in conformity with two rules, — that the tomb of
+ the martyr should occupy the place of honor in the middle of the apse,
+ and that the body of the church should be to the east of the tomb, except
+ in cases of 
+\begin_inset Quotes eld
+\end_inset
+
+force majeure,
+\begin_inset Quotes erd
+\end_inset
+
+ as when a river, a public road, or some other such obstacle made it necessary
+ to vary this principle.
+\end_layout
+
+\begin_layout Standard
+Such is the origin of the greatest sanctuaries of Christian Rome.
+ The churches of S.
+ Peter on the Via Cornelia, S.
+ Paul on the Via Ostiensis, S.
+ Sebastian on the Via Appia, S.
+ Petronilla on the Via Ardeatina, S.
+ Valentine on the Via Flaminia, S.
+ Hermes on the Via Salaria, S.
+ Agnes on the Via Nomentana, S.
+ Lorenzo on the Via Tiburtina, and fifty other historical structures, owe
+ their existence to the humble grave which no human hand was allowed to
+ transfer to a more suitable and healthy place.
+\end_layout
+
+\begin_layout Standard
+When these graves were not very deep, the floor of the basilica was almost
+ level with the ground, as in the case of S.
+ Peter's, S.
+ Paul's, and S.
+ Valentine's; in other cases it was sunk so deep in the heart of the hill
+ that only the roof and the upper tier of windows were seen above the ground,
+ as in the basilicas of S.
+ Lorenzo, S.
+ Petronilla, etc.
+ There are two or three basilicas built, or rather excavated, entirely under
+ ground.
+ The best specimen is that of S.
+ Hermes on the old Via Salaria.
+\end_layout
+
+\begin_layout Standard
+It soon became evident that edifices sunk in such awkward places could hardly
+ answer their purpose, on account of dampness and the want of air and light.
+ Several steps were taken to remedy the evil.
+ Large portions of the hills were cut away so as to make the edifice free
+ on one or two sides at least, and outlets for rain or spring water provided.
+ We have a description of the system of drainage of S.
+ Peter's, written by its originator, Pope Damasus, in a poem the original
+ of which, discovered by Pope Paul V., in 1607, is preserved in the Grotte
+ Vaticane:—
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+The hill was abundant in springs; and the water found its way to the very
+ graves of the saints.
+ Pope Damasus determined to check the evil.
+ He caused a large portion of the Vatican Hill to be cut away; and by excavating
+ channels and boring 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}cuniculi}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ he drained the springs so as to make the basilica dry and also to provide
+ it with a steady fountain of excellent water.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Dionysii: 
+\emph on
+Vaticanae basilicae cryptarum monumenta
+\emph default
+, pl.
+ xxvii.
+ — De Rossi: 
+\emph on
+Inscriptiones Christianae urbis Romae
+\emph default
+, ii.
+ p.
+ 56, 350, 411.
+ — Duchesne, 
+\emph on
+Liber Pontificalis
+\emph default
+, i.
+ cxxii.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Acqua Damasiana is still in use, and has the honor of supplying the
+ apartments of the Pope.
+ Its feeding-springs are located at S.
+ Antonino, twelve hundred yards
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+eleven hundred metres.
+\end_layout
+
+\end_inset
+
+ west of S.
+ Peter's.
+ The aqueduct of Damasus, restored in 1649 by Innocent X, is neatly built
+ in the old Roman style; the channel is four feet nine inches high, three
+ feet nine inches wide, and runs through the clay of the hill at a depth
+ of ninety-eight feet.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+1.45 metres high, 1.15 wide, and runs through the clay of the hill at a depth
+ of 30 metres.
+\end_layout
+
+\end_inset
+
+ The principal fountain, in the Cortile di S.
+ Damaso, was designed by Algardi in 1649.
+\end_layout
+
+\begin_layout Standard
+Apparently the works accomplished for the same purpose at S.
+ Lorenzo fuori le Mura, by Pope Pelagius II.
+ (579--590), were no less important.
+ They are described in another poem, a modern copy of which (1860) is to
+ be seen on the side of the mosaic in the apsidal arch.
+ The poem relates how the hill of Cyriaca was cut away, and how, in consequence
+ of the excavation, the church became light, accessible, and free from the
+ danger of landslips and inundations.
+ The importance of the work of Pelagius is rather exaggerated by the composer
+ of the poem.
+ The church was never free from dampness and want of air and light until
+ the pontificate of Pius IX., who cut away another section of the hill.
+\end_layout
+
+\begin_layout Standard
+The damage done to the catacombs by the builders of these sunken basilicas
+ is incalculable.
+ Thousands of graves must have been sacrificed for the embellishment of
+ one.
+\end_layout
+
+\begin_layout Standard
+The reader cannot expect to find in these pages a description of this class
+ of basilicas; that of S.
+ Peter's alone would require several volumes.
+ I have in my modest library not less than twenty-two volumes on the subject,
+ an insignificant fraction of the Petrine literature.
+ And what do we know about S.
+ Peter's? Very little in comparison with the amount of knowledge that lies
+ yet unpublished in the volumes of Grimaldi,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Eugene Müntz: 
+\emph on
+Ricerche intorno ai lavori archeologici di Giacomo Grimaldi
+\emph default
+.
+ Firenze, 1881.
+ — The best autograph work of Grimaldi, dedicated to Paul V.
+ in 1618, belongs to the Barberini library, and is marked xxxiv.50.
+ 
+\end_layout
+
+\end_inset
+
+ in the archives of the Vatican, in epigraphic, historical and diplomatic
+ documents scattered among various European libraries.
+\end_layout
+
+\begin_layout Standard
+The history of the building has yet to be written.
+ Duchesne's 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis
+\begin_inset Quotes erd
+\end_inset
+
+ and de Rossi's second volume of the 
+\begin_inset Quotes eld
+\end_inset
+
+Inscriptiones Christianae
+\begin_inset Quotes erd
+\end_inset
+
+ provide the necessary foundations for such a work.
+ Let us hope that the Vatican will soon find its own Rohault de Fleury.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The author of 
+\emph on
+Le Latran, dans le moyen âge
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The following sketch of the origin of the two leading sacred edifices of
+ Rome may answer the scope of the present chapter.
+ But let me repeat once again the declaration that I write about the monuments
+ of ancient Rome from a strictly archaeological point of view, avoiding
+ questions which pertain, or are supposed to pertain, to religious controversy.
+ For the archaeologist the presence and execution of SS.
+ Peter and Paul in Rome are facts established beyond a shadow of doubt by
+ purely monumental evidence.
+ There was a time when persons belonging to different creeds made it almost
+ a case of conscience to affirm or deny 
+\emph on
+a prior
+\emph default
+i those facts, according to their acceptance or rejection of the tradition
+ of any particular church.
+ This state of feeling is a matter of the past, at least for those who have
+ followed the progress of recent discoveries and of critical literature.
+ However, if my readers think that I am assuming as proved what they still
+ consider subject for discussion, I beg to refer them to some of the standard
+ works published on this subject by writers who are above the suspicion
+ of partiality.
+ Such are Döllinger's 
+\begin_inset Quotes eld
+\end_inset
+
+First Age of Christianity
+\begin_inset Quotes erd
+\end_inset
+
+ (translated by Henry Nutcombe Oxenham, second edition, London, Allen, 1867);
+ Bishop Lightfoot's 
+\begin_inset Quotes eld
+\end_inset
+
+Apostolic Fathers,
+\begin_inset Quotes erd
+\end_inset
+
+ part ii., London, Macmillan, 1885, one of the most beautiful and conclusive
+ works on early Christian history and literature; and de Rossi's 
+\begin_inset Quotes eld
+\end_inset
+
+Bullettino di archeologia cristiana,
+\begin_inset Quotes erd
+\end_inset
+
+ for 1877.
+ Bishop Lightfoot justly remarks that when Ignatius — the second apostolic
+ father, a contemporary of Trajan — writes to the Romans 
+\begin_inset Quotes eld
+\end_inset
+
+I do not command you, like Peter and Paul,
+\begin_inset Quotes erd
+\end_inset
+
+ the words are full of meaning, if we suppose him to be alluding to the
+ personal relations of the two apostles with the Roman Church.
+ In fact, the reason for his use of this language is the recognition of
+ the visit to Rome of S.
+ Peter as well as S.
+ Paul, which is persistently maintained in early tradition; and thus it
+ is a parallel to the joint mention of the two apostles in 
+\begin_inset Quotes eld
+\end_inset
+
+Clement of Rome
+\begin_inset Quotes erd
+\end_inset
+
+ (p.
+ 357).
+ Döllinger adds: 
+\begin_inset Quotes eld
+\end_inset
+
+That S.
+ Peter worked in Rome is a fact so abundantly proved and so deeply imbedded
+ in the earliest Christian history, that whoever treats it as a legend ought
+ in consistency to treat the whole of the earliest church history as legendary,
+ or at least, quite uncertain.
+ His presence in Corinth is obviously connected with his journey to Rome,
+ and no one will accept the one and deny the other (see Cor.
+ i.12; iii.22; xi.22, 23; Clement's Ep.
+ 47, etc.) Clement again reminds the Corinthians of the `martyrdom of Peter
+ and Paul \SpecialChar \ldots{}
+ among us,' meaning Rome.
+ The very mention implies that S.
+ Peter's martyrdom was a well-known fact, and it is inconceivable that his
+ execution should have been known and not the place where it occurred, or
+ that the place should have been forgotten, and a wrong one substituted
+ some years later.
+ And when Ignatius writes to the Romans — `I do not command you like Peter
+ and Paul; they were apostles' — it is clear, without any explanation, that
+ he desires to remind them of the two men who, as founders and teachers,
+ had been the glory of the Church.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Ebionite document, called 
+\begin_inset Quotes eld
+\end_inset
+
+The Preaching of Peter,
+\begin_inset Quotes erd
+\end_inset
+
+ produced about the time of Ignatius, or very soon after, and used by Heracleon
+ in Hadrian's time, is manifestly founded on the undisputed fact of S.
+ Peter having labored at Rome.
+ It is inconceivable that the author of the Ebionite document should have
+ put forward a groundless fable, about the theatre of S.
+ Peter's operations, at a time when many who had seen him must have been
+ still alive.
+ Eusebius, who had the writings of Papias (and Hegesippos) before him, maintains
+ with Clement, that S.
+ Peter wrote his Epistle at Rome (Euseb.
+ ii.15).
+ Papias, a disciple of S.
+ John, speaking of this epistle declares that 
+\begin_inset Quotes eld
+\end_inset
+
+Babylon
+\begin_inset Quotes erd
+\end_inset
+
+ means expressly the capital of the empire.
+ Hegesippos, a Christian Jew of Palestine, who came to Rome in the first
+ half of the second century, makes Linus the first bishop after the apostles,
+ in accordance with Irenaeus, who says: 
+\begin_inset Quotes eld
+\end_inset
+
+After Peter and Paul had founded the Roman church and set it in order, they
+ gave over the episcopate to Linus.
+\begin_inset Quotes erd
+\end_inset
+
+ If we consider that Hegesippos came to Rome to investigate, among other
+ things, the succession of local bishops for the short period of eighty-three
+ years, that he certainly spoke with persons whose fathers could remember
+ the presence of the apostles, we cannot help accepting his evidence as
+ conclusive.
+\end_layout
+
+\begin_layout Standard
+The main objection brought forward by the opponents is that, after the incident
+ at Antioch, we have no positive knowledge of the actions and travels of
+ S.
+ Peter.
+ Still, there is nothing to contradict the assumption of his journey to
+ Rome, and his confession and execution there.
+ The fact was so generally known that nobody took the trouble to write a
+ precise statement of it, because nobody dreamed that it could be denied.
+ How is it possible to imagine that the primitive Church did not know the
+ place of the death of its two leading apostles? In default of written testimony
+ let us consult monumental evidence.
+\end_layout
+
+\begin_layout Standard
+There is no event of the imperial age and of imperial Rome which is attested
+ by so many noble structures, all of which point to the same conclusion,
+ — the presence and execution of the apostles in the capital of the empire.
+ When Constantine raised the monumental basilicas over their tombs on the
+ Via Cornelia and the Via Ostiensis; when Eudoxia built the church ad Vincula;
+ when Damasus put a memorial tablet in the Platonia ad Catacumbas; when
+ the houses of Pudens and Aquila and Prisca were turned into oratories;
+ when the name of Nymphae Sancti Petri was given to the springs in the catacombs
+ of the Via Nomentana; when the twenty-ninth day of June was accepted as
+ the anniversary of S.
+ Peter's execution; when Christians and pagans alike all named their children
+ Peter and Paul; when sculptors, painters, medallists, goldsmiths, workers
+ in glass and enamel, and engravers of precious stones, all began to reproduce
+ in Rome the likenesses of the apostles, at the beginning of the second
+ century, and continued to do so till the fall of the empire; must we consider
+ them all as laboring under a delusion, or as conspiring in the commission
+ of a gigantic fraud? Why were such proceedings accepted without protest
+ from whatever city, from whatever community, if there were any other which
+ claimed to own the genuine tombs of SS.
+ Peter and Paul? These arguments gain more value from the fact that the
+ evidence on the opposite side is purely negative.
+ It is one thing to write of these controversies at a distance from the
+ scene of the events, in the seclusion of one's own library; but quite another
+ to study them on the spot, and to follow the events where they took place.
+ If my readers had the opportunity of witnessing the discoveries made lately
+ in the Cemeterium Ostrianum, and the Platonia ad Catacumbas; or of examining
+ Grimaldi's manuscripts and drawings relating to the old basilica of Constantine
+; or Carrara's account of the discoveries made in 1776 in the house of Aquila
+ and Prisca, they would surely banish from their minds the last shade of
+ doubt.
+\end_layout
+
+\begin_layout Standard
+Besides the works of Döllinger, Lightfoot, and de Rossi referred to above,
+ there are thirty or forty which deal with the same question, as to whether
+ S.
+ Peter was ever at Rome.
+ The list of them is given in volume 
+\noun on
+xviii
+\noun default
+ of the 
+\begin_inset Quotes eld
+\end_inset
+
+Encyclopædia Britannica,
+\begin_inset Quotes erd
+\end_inset
+
+ p.
+ 696, no.
+ 1.
+\end_layout
+
+\begin_layout Standard
+Two roads issued from the bridge called Vaticanus, Neronianus, or Triumphalis,
+ the remains of which are still seen at low water between S.
+ Giovanni dei Fiorentini and the hospital of S.
+ Spirito, — the Via Triumphalis, described in chapter vi., which corresponds
+ the modern Strada di Monte Mario, and joins the Clodia at la Giustiniana;
+ and the Via Cornelia, which led to the woodlands west of the city, between
+ the Via Aurelia Nova and the Triumphalis.
+ When the apostles came to Rome, in the reign of Nero, the topography of
+ the Vatican district, which was crossed by the Via Cornelia, was as follows:—
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 03-05_Lanciani_map_StPeter.gif
+	width 4in
+	rotateAngle 270
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Plan of old S.
+ Peter's, showing its relation to the Circus of Nero
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On the left of the road was a circus begun by Caligula, and finished by
+ Nero; on the right a line of tombs built against the clay cliffs of the
+ Vatican.
+ The circus was the scene of the first sufferings of the Christians, described
+ by Tacitus in the well-known passage of the 
+\begin_inset Quotes eld
+\end_inset
+
+Annals,
+\begin_inset Quotes erd
+\end_inset
+
+ xv.45.
+ Some of the Christians were covered with the skins of wild beasts so that
+ savage dogs might tear them to pieces; others were besmeared with tar and
+ tallow, and burnt at the stake; others were crucified (
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}crucibus adfixi}
+\end_layout
+
+\end_inset
+
+
+\lang british
+), while Nero in the attire of a vulgar 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}auriga}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ ran his races around the goals.
+ This took place in 
+\noun on
+a.d.
+
+\noun default
+ 65.
+ Two years later the leader of the Christians shared the same fate in the
+ same place.
+ He was affixed to a cross like the others, and we know exactly where.
+ A tradition current in Rome from time immemorial says that S.
+ Peter was executed 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}inter duas metas}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ (between the two 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}metae}
+\end_layout
+
+\end_inset
+
+
+\lang british
+), that is, in the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}spina}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ or middle line of Nero's circus, at an equal distance from the two end
+ goals; in other words, he was executed at the foot of the obelisk which
+ now towers in front of his great church.
+ For many centuries after the peace of Constantine, the exact spot of S.
+ Peter's execution was marked by a chapel called the chapel of the 
+\begin_inset Quotes eld
+\end_inset
+
+Crucifixion.
+\begin_inset Quotes erd
+\end_inset
+
+ The meaning of the name, and its origin, as well as the topographical details
+ connected with the event, were lost in the darkness of the Middle Ages.
+ The memorial chapel lost its identity and was believed to belong to 
+\begin_inset Quotes eld
+\end_inset
+
+Him who was crucified,
+\begin_inset Quotes erd
+\end_inset
+
+ that is, to Christ himself.
+ It disappeared seven or eight centuries ago.
+ At the same time the words 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}inter duas metas}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, by which the spot was so exactly located, were deprived of their genuine
+ significance.
+ The name 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}meta}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ was generally applied to tombs of pyramidal shape; of which two were still
+ conspicuous among the ruins of Rome: the pyramid of Caius Cestius near
+ the Porta S.
+ Paolo, which was called 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Meta Remi}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, and that by the church of S.
+ Maria Traspontina, in the quarter of the Vatican which was called 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Meta Romuli}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ The consequences of this mistake were remarkable; to it we owe the erection
+ of two noble monuments, the church of S.
+ Pietro in Montorio, and the 
+\begin_inset Quotes eld
+\end_inset
+
+Tempietto del Bramante,
+\begin_inset Quotes erd
+\end_inset
+
+ in the court of the adjoining convent.
+ It seems that in the thirteenth century, when some one
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+S.
+ Pietro Montorio, rebuilt towards 1472, by Ferdinand IV.
+ and Isabella of Spain, from the designs of Baccio Pontelli, stands on the
+ site of an older church.
+ 
+\end_layout
+
+\end_inset
+
+ determined to raise a memorial of S.
+ Peter's execution 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}inter duas metas}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, he chose this spot on the spur of the Janiculum, because it was located
+ at an equal distance from the meta of Romulus at la Traspontina, and that
+ of Remus at the Porta S.
+ Paolo!
+\end_layout
+
+\begin_layout Standard
+The line of the Via Cornelia, which ran parallel with the north side of
+ the circus, can be traced with precision by the help of the classical,
+ or pagan, tombs discovered at various times along its borders.
+ Let us start from the site of the modern Piazza di S.
+ Pietro.
+ Sante Bartoli, 
+\emph on
+mem
+\emph default
+.
+ 56--57, says that while Pope Alexander VII.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Alexander VII.
+ reigned from 7 April 1655 to 27 May 1667.
+\end_layout
+
+\end_inset
+
+ was building the left wing of Bernini's portico, and the fountain of the
+ southern semicircle, a tomb was discovered with a bas-relief above the
+ door representing a marriage-scene (
+\lang english
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}vi era un bellissimo bassorilievo di un matrimonio antico}
+\end_layout
+
+\end_inset
+
+
+\lang british
+
+\begin_inset Quotes erd
+\end_inset
+
+).
+ On July 19, 1614, three others were found in the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}atrium}
+\end_layout
+
+\end_inset
+
+
+\lang british
+, in one of which was the sarcophagus of Claudia Hermione, the renowned
+ pantomimist.
+ The best discovery, that of pagan tombs exactly on the line with that of
+ S.
+ Peter's, was made in the presence of Grimaldi, November 9, 1616.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+On that day,
+\begin_inset Quotes erd
+\end_inset
+
+ he says, 
+\begin_inset Quotes eld
+\end_inset
+
+I entered a square sepulchral room (10 ft.
+ × 11 ft.),
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+approximately 3 metres on a side.
+\end_layout
+
+\end_inset
+
+ the ceiling of which was ornamented with designs in painted stucco.
+ There was a medallion in the centre, with a figure in high relief.
+ The door opened on the Via Cornelia, which was on the same level.
+ This tomb is located under the seventh step in front of the middle door
+ of the church.
+ I am told that the sarcophagus now used as a fountain, in the court of
+ the Swiss Guards, was discovered at the time of Gregory XIII.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Gregory XII.
+ reigned from 13 May 1572 to 10 April 1585.
+\end_layout
+
+\end_inset
+
+ in the same place, and that it contained the body of a pagan.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We come now to the decisive point, the discoveries made in the time of Urban
+ VIII,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Urban VIII.
+ reigned from 6 Aug 1623 to 29 Jul 1644.
+\end_layout
+
+\end_inset
+
+ when the foundations of his bronze baldacchino
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+It was to the construction of this monstrosity that this same pope sacrificed
+ the magnificent gilt bronze roof of the Pantheon, prompting the famous
+ pasquinade, 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Quod non fecerunt Barbari, fecerunt Barberini}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ Lanciani writes about this unfortunate (and to top it off, wasteful) depredatio
+n in The Ruins and Excavations of Ancient Rome (1897).
+ 
+\end_layout
+
+\end_inset
+
+ were sunk to a great depth, in close proximity to the tomb of S.
+ Peter.
+ The genuineness of the account is proved by the fact that in spite of its
+ great bearing on the question, so little importance was attached to it
+ that, had not Professor Palmieri and Cavaliere Armellini unearthed it from
+ the sacred dust of the Vatican archives, in which it had been buried for
+ three and a half centuries, we should still have been wholly ignorant of
+ its existence.
+\end_layout
+
+\begin_layout Standard
+The account published by Armellini
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+Chiese di Roma
+\emph default
+, 1st edition, p.
+ 520.
+\end_layout
+
+\end_inset
+
+ proves that S.
+ Peter must have been buried in a small plot surrounded by other tombs,
+ and probably protected by an enclosing wall.
+ There were graves which in later ages had been dug in confusion, one above
+ the other, by persons wishing to lie as near as possible to the remains
+ of the apostle; but those of the time of the persecution were arranged
+ in parallel lines,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Collocate e poste una appresso all' altra con diligenza e cura esatta.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ and consisted of plain marble coffins bearing no name, and containing one
+ or two bodies, which were dressed like mummies, with bands of darkish linen
+ wound about the body and head.
+ This statement is corroborated by other evidence.
+ In 1615, when Paul V built the stairs leading to the Confession and the
+ crypts, 
+\begin_inset Quotes eld
+\end_inset
+
+several bodies were found lying in coffins, tied with linen bands, as we
+ read of Lazarus in the Gospel: 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ligatus pedibus et manibus institis}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ One body only was attired in a sort of pontifical robe.
+ Notwithstanding the absence of written indications we thought they were
+ the graves of the ten bishops of Rome buried 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}in Vaticano}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ So speaks Giovanni Severano on page 20 of his book 
+\begin_inset Quotes eld
+\end_inset
+
+Memorie sacre delle sette chiese di Roma,
+\begin_inset Quotes erd
+\end_inset
+
+ which was printed in 1629.
+ Francesco Maria Torrigio, who witnessed the exhumations with cardinal Evangelis
+ta Pallotta, adds that the linen bands were from two to three inches wide,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+from five to eight centimetres wide.
+\end_layout
+
+\end_inset
+
+ and that they must have been soaked in aromatics.
+ One of the coffins bore, however, the name 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Linvs}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Francesco Maria Torrigio: 
+\emph on
+Le sacre grotte vaticane
+\emph default
+, p.
+ 64.
+ Roma, 1639.
+ 
+\end_layout
+
+\end_inset
+
+ Let us now refer to the 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis,
+\begin_inset Quotes erd
+\end_inset
+
+ the authority of which as an historical text-book cannot be doubted, since
+ the critical publication of Louis Duchesne.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Le liber pontificalis: Texte, introduction et commentaire par l'abbé L.
+ Duchesne
+\emph default
+.
+ Paris, Thorin, 1886‑1892.
+ 
+\end_layout
+
+\end_inset
+
+ After describing the 
+\begin_inset Quotes eld
+\end_inset
+
+deposition of S.
+ Peter in the Vatican, near the circus of Nero, between the Via Aurelia
+ and the Via Triumphalis, 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}iuxta locum ubi crucifixus est}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ (near the place of his crucifixion),
+\begin_inset Quotes erd
+\end_inset
+
+ it proceeds to say that Linus 
+\begin_inset Quotes eld
+\end_inset
+
+was buried side by side with the remains of the blessed Peter, in the Vatican,
+ October 24.
+\begin_inset Quotes erd
+\end_inset
+
+ Even if we were disposed to doubt Torrigio's correctness in copying the
+ name of the second bishop of Rome,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The letters 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Linvs}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ might be the termination of a longer name, like [
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Anvl}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+]
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{linvs}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+ or [
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Marcel}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+]
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{linvs}}
+\end_layout
+
+\end_inset
+
+
+\lang british
+.
+ 
+\end_layout
+
+\end_inset
+
+ the fact of his burial in this place seems to be certain, because Hrabanus
+ Maurus, a poet of the ninth century, speaks of Linus's tomb as visible
+ and accessible, in the year 822.
+ Another man was present at the discoveries enumerated by Torrigio and Severano;
+ the master-mason Benedetto Drei, whose drawing, printed in 1635, has become
+ very rare.
+\end_layout
+
+\begin_layout Standard
+The reader will remark how perfectly Drei's sketch fits the written accounts
+ of the other eye-witnesses, even in the detail of the child's grave — 
+\begin_inset Quotes eld
+\end_inset
+
+
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}sepoltura di un bambino}
+\end_layout
+
+\end_inset
+
+
+\lang british
+,
+\begin_inset Quotes erd
+\end_inset
+
+ — which is distinctly mentioned by them.
+ 
+\end_layout
+
+\end_body
+\end_document
