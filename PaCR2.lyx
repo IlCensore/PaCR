@@ -5502,7 +5502,7 @@ The Temple of Neptune
 \noun default
 .
 \begin_inset Marginal
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -5522,6 +5522,13 @@ signed
  On the other hand, this one is not his fault since when it was built, he
  was dead: it is the Temple to him erected by his successor Antoninus Pius.
 \end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "The-Temple-of-Neptune"
 
 \end_inset
 

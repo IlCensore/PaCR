@@ -66,7 +66,7 @@ initials
 \inputencoding auto
 \fontencoding global
 \font_roman EB Garamond
-\font_sans Warnock Pro
+\font_sans OFL Sorts Mill Goudy
 \font_typewriter Linux Libertine O
 \font_default_family default
 \use_non_tex_fonts true
