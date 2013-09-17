@@ -1,0 +1,2124 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{3}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{Chapter \thechapter\ ·\ \leftmark}{}{}
+  \makeoddhead{myheadings}{}{}{}
+  \makeevenfoot{myheadings}{\thepage}{}{}
+  \makeoddfoot{myheadings}{}{}{\thepage}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \chapnumfont \textsc{\chaptername\ \thechapter}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\parbox{0.5in}{}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\usepackage{fmtcount}
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\usepackage{fontspec,microtype}
+\frenchspacing
+%\widowpenalties 2 10000 0
+%\clubpenalty 10000
+%\raggedbottom
+%\usepackage{indentfirst}
+\end_preamble
+\use_default_options true
+\master PaCR_index.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter Linux Libertine O
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.75cm
+\topmargin 2.45cm
+\rightmargin 7cm
+\bottommargin 3.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Imperial tombs
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Otto Hirschfeld: 
+\emph on
+Die kaiserlichen Grabstätten in Rome
+\emph default
+, in the 
+\emph on
+Sitzungsberichte der kgl.
+ Akademie der Wissenschaften
+\emph default
+.
+ Berlin, 1866.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+
+\size small
+The death and burial of Augustus.
+ — His will.
+ — The Monumentum Ancyranum.
+ — Description and history of his mausoleum.
+ — Its connection with the Colonnas and Cola di Rienzo.
+ — Other members of the imperial family who were buried in it.
+ — The story of the flight and death of Nero.
+ — His place of burial.
+ — Ecloge, his nurse.
+ — The tomb of the Flavian emperors, Templum Flaviae Gentis.
+ — Its situation and surroundings.
+ — The death of Domitian.
+ — The mausolea of the Christian emperors.
+ — The tomb and sarcophagus of Helena, mother of Constantine.
+ — Those of Constantia.
+ — The two rotundas built near St.
+ Peter's as imperial tombs.
+ — Discoveries made in them in the fifteenth and sixteenth centuries.
+ — The priceless relics of Maria, wife of Honorius.
+ — Some of its monuments.
+ — Similar instances of treasure-trove in ancient and modern times.
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he Mausoleum of Augustus.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Ancient writers have left detailed accounts of the last hours of the founder
+ of the Roman Empire.
+ On the morning of the nineteenth of August, anno Domini 14, feeling the
+ approach of death, Augustus inquired of the attendant whether the outside
+ world was concerned at his precarious condition; then he asked for a mirror,
+ and composed his body for the supreme event, as he had long before prepared
+ his mind and soul.
+ Of his friends and the officers of the household he took leave in a cheerful
+ spirit; and as soon as he was left alone with Livia he passed away in her
+ arms, saying, 
+\begin_inset Quotes eld
+\end_inset
+
+Livia, may you live happily, as we have lived together from the day of our
+ marriage.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p169
+\end_layout
+
+\end_inset
+
+His death was of the kind he had desired, peaceful and painless.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}Εὐθανασίαν}
+\end_layout
+
+\end_inset
+
+ (an easy end) was the word he used longingly, whenever he heard of any
+ one dying without agony.
+ Once only in the course of the malady he seemed to lose consciousness,
+ when he complained of forty young men crowding around the bed to steal
+ away his body.
+ More than a wandering mind, Suetonius thinks this was a vision or premonition
+ of an approaching event, because forty praetorian soldiers were really
+ to carry the bier in the funeral march.
+ The great man died at Nola, in the same villa and room in which his father,
+ Octavius, had passed away years before.
+ His body was transported from village to village, from city to city, along
+ the Appian Way, by the members of each municipal council in turn; and,
+ to avoid the intense heat of the Campanian and Pontine lowlands, the procession
+ marched only at night, the bier being kept in the local sanctuaries or
+ town halls during the day.
+ Thus Bovillae (le Frattocchie, at the foot of the Alban hills) was reached.
+ The whole Roman knighthood was here in attendance; the body was carried
+ in triumph, as it were, over the last ten miles of the road,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+15km.
+\end_layout
+
+\end_inset
+
+ and deposited in the vestibule of the palace on the Palatine Hill.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Meanwhile proposals were made and resolutions passed in the Senate, which
+ went far beyond anything that had ever been suggested in such contingencies
+ of state.
+ One of the members recommended that the statue of Victory which stood in
+ the Curia should be carried before the hearse, that lamentations should
+ be sung by the sons and daughters of the senators, and that the pageant,
+ on its way to the Campus Martius, should march through the Porta Triumphalis,
+ which was never opened except to victorious generals.
+ Another member suggested that all classes of citizens should put aside
+ their golden ornaments and all articles of jewelry, and wear 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p170
+\end_layout
+
+\end_inset
+
+only finger-rings; a third, that the name of 
+\begin_inset Quotes eld
+\end_inset
+
+August
+\begin_inset Quotes erd
+\end_inset
+
+ should be transferred to the month of September, because the lamented hero
+ was born in the latter and had died in the former.
+ These exaggerated expressions of grief were suppressed, however, and the
+ funeral was organized with the grandest simplicity.
+ The body was placed in the Forum, in front of the Temple of Julius Caesar,
+ from the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rostra}
+\end_layout
+
+\end_inset
+
+ of which Tiberius read a panegyric.
+ Another oration was delivered at the opposite end of the Forum by Drusus,
+ the adopted son of Tiberius.
+ Then the senators themselves placed the bier on their shoulders, leaving
+ the city by the Porta Triumphalis.
+ The procession formed by the Senate, the high priesthood, the knights,
+ the army, and the whole population skirted the Circus Flaminius and the
+ Septa Julia, and by the Via Flaminia reached the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ustrinum}
+\end_layout
+
+\end_inset
+
+, or sacred enclosure 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p171
+\end_layout
+
+\end_inset
+
+for cremation.
+ As soon as the body had been placed on the pyre the 
+\begin_inset Quotes eld
+\end_inset
+
+march past
+\begin_inset Quotes erd
+\end_inset
+
+ began in the same order, the officers and men of the various army corps
+ making their evolutions or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}decursiones}
+\end_layout
+
+\end_inset
+
+.
+ This word, taken in a general sense, means a long march by soldiers made
+ in a given time and without quitting the ranks; when referring to a funeral
+ ceremony it signifies special evolutions performed three times, in honor
+ of distinguished generals.
+ A 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}decursio}
+\end_layout
+
+\end_inset
+
+ is represented on the base of the column of Antoninus Pius, now in the
+ Giardino della Pigna.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-01_Decursiones.png
+	width 3.95in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Military funeral evolutions; from the base of the Column of Antoninus.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In that which I am describing, officers and men threw on the pyre the decoration
+s which Augustus had awarded them for their bravery in battle.
+ The privilege of setting fire to the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}rogus}
+\end_layout
+
+\end_inset
+
+ was granted to the captains of the legions whom he had led so often to
+ victory.
+ They approached with averted faces, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p172
+\end_layout
+
+\end_inset
+
+and, uttering a last farewell, performed their act of duty and respect.
+ The cremation accomplished, and while glowing embers were being extinguished
+ with wine and perfumed waters, an eagle rose from the ashes as if carrying
+ the soul of the hero to Heaven.
+ Livia and a few officers watched the place for five days and nights, and
+ finally collected the ashes in a precious urn, which they placed in the
+ innermost crypt of the mausoleum which Augustus had built in the Campus
+ Martius forty-two years before.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-02_Apoteosis.png
+	width 3.92in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Apotheosis of an Emperor; from the base of the Column of Antoninus.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Of this monument we have a description by Strabo, and ruins which substantiate
+ the description in its main lines.
+ It was composed of a circular basement of white marble, two hundred and
+ twenty-five feet in diameter,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+68.5m in diameter.
+\end_layout
+
+\end_inset
+
+ which supported a cone of earth, planted with cypresses and evergreens.
+ On the top of the mound the bronze statue of the emperor towered above
+ the trees.
+\end_layout
+
+\begin_layout Standard
+This type of sepulchral structure dates almost from prehistoric times, and
+ was in great favor with the Etruscans.
+ The territories of Vulci, near the Ponte dell' Abbadia, and of Veii, near
+ the Vaccareccia, are dotted with these mounds, which the peasantry call
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}cocumelle}
+\end_layout
+
+\end_inset
+
+.
+ Augustus made the type popular among the Romans, as is proved by the large
+ number of tumuli which date from his age, on the Via Salaria, the Via Labicana,
+ and the Via Appia.
+\end_layout
+
+\begin_layout Standard
+His tomb was entered from the south, the entrance being flanked by monuments
+ of great interest, such as the obelisks now in the Piazza del Quirinale
+ and the Piazza di S.
+ Maria Maggiore; the copies of the decrees of the Senate in honor of the
+ personages buried within; and, above all, the Res gestae divi Augusti,
+ a sort of political will, autobiography, and apology, the importance of
+ which surpasses that of any other document relating to the history of the
+ Roman Empire.
+\end_layout
+
+\begin_layout Standard
+This was written by Augustus towards the end of his 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p173
+\end_layout
+
+\end_inset
+
+life.
+ He ordered his executors to have it engraved on bronze pillars on each
+ side of the entrance to his mausoleum.
+ That his will was duly executed by Livia, Tiberius, Drusus, and Germanicus,
+ his heirs and trustees, is proved by the frequent allusions to the document
+ made by Suetonius and Velleius, and also by the copies which have come
+ down to us, not from Rome or Italy, but from the remote provinces of Galatia
+ and Pisidia.
+\end_layout
+
+\begin_layout Standard
+It was customary in ancient times to raise temples in honor of the rulers
+ of the empire, and to ornament them with their images and eulogies.
+ These were called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Augustea}
+\end_layout
+
+\end_inset
+
+ or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}aedes Augusti et Romae}
+\end_layout
+
+\end_inset
+
+ in the western provinces, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}σεβαστεῖα}
+\end_layout
+
+\end_inset
+
+ in eastern or Greek-speaking countries.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Visitors to Rome may form an idea of a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}σεβαστεῖον}
+\end_layout
+
+\end_inset
+
+ from that found in Ostia, in 1889, in the barracks of the firemen.
+ I have given an illustrated description of this remarkable discovery in
+ the 
+\emph on
+Mélanges de l'Ecole française
+\emph default
+, tome ix., 1889, and in the 
+\emph on
+Notizie degli scavi
+\emph default
+, January-April, 1889.
+ 
+\end_layout
+
+\end_inset
+
+ Ancyra (Angora), the capital of Galatia, and Apollonia, the capital of
+ Pisidia, were the foremost among the Asiatic cities to pay this honor to
+ the founder of the empire.
+\end_layout
+
+\begin_layout Standard
+The Ancyran temple owes its preservation to the Christians, who made use
+ of its as a church from the fourth to the fifteenth centuries, and also
+ to the Turks, who have turned it into a mosque associated with the Hadji
+ Beiram.
+ The temple and its invaluable epigraphic treasures became known towards
+ the middle of the sixteenth century.
+ In 1555 an embassy was sent by the emperor Ferdinand II.
+ to Suleiman, the khalif, who was then residing at Amasia.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The birthplace of Mithridates the Great, and of the geographer Strabo: it
+ still retains its ancient name.
+\end_layout
+
+\end_inset
+
+ It so happened that the head of the mission, Ogier Ghislain Busbecq, and
+ his assistant, Antony Wrantz, bishop of Agram, were fond of archaeological
+ investigation.
+ They were struck by the importance of the Augusteum at 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p174
+\end_layout
+
+\end_inset
+
+Ancyra; and with the help of their secretaries, they made a tolerably good
+ copy of its inscriptions.
+ Since 1555 the place has been visited many times, notably by Edmond Guillaume,
+ in 1861, and by Humann, in 1882.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Mommsen: 
+\emph on
+Res gestae divi Augusti
+\emph default
+, 2d edition.
+ Berlin, Weidmann, 1883.
+\end_layout
+
+\end_inset
+
+ There are two copies of the will of Augustus engraved on the marble wall
+ of the temple: one in Latin, which is in the pronaos, on either side of
+ the door; the other in Greek, on the outer wall of the cella.
+ Both were transcribed (or translated) 
+\begin_inset Quotes eld
+\end_inset
+
+from the original, engraved on the bronze pillars at the mausoleum in Rome.
+\begin_inset Quotes erd
+\end_inset
+
+ The document is divided into three parts, and thirty-five paragraphs.
+ The first part describes the honors conferred on Augustus, — military,
+ civil, and sacerdotal; the second gives the details of the expenses which
+ he sustained for the benefit and welfare of the public; the third relates
+ his achievements in peace and war; and some of the facts narrated are truly
+ remarkable.
+ He says, for instance, that the Roman citizens who fought under his orders
+ and swore allegiance to him numbered five hundred thousand, and that more
+ than three hundred thousand completed the term of their engagement, and
+ were honorably dismissed from the army.
+ To each of these he gave either a piece of land, which he bought with his
+ own money, or the means of purchasing it in other lands than those assigned
+ to military colonies.
+ Since, at the time of his death, one hundred and sixty thousand Roman citizens
+ were still serving under the flag, the number of those killed in battle,
+ disabled by disease, or dismissed for misconduct, in the course of fifty-five
+ years
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Augustus enrolled his first army in October of the year 41 
+\noun on
+b.c.
+
+\noun default
+ He died in August, 
+\noun on
+a.d.
+
+\noun default
+ 14.
+\end_layout
+
+\end_inset
+
+ is reduced to forty thousand.
+ The percentage is surprisingly low, considering the defective 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p175
+\end_layout
+
+\end_inset
+
+organization of the military medical staff, and the length and hardships
+ of the campaigns which were conducted in Italy (Mutina), Macedonia (Philippi),
+ Acarnania (Actium), Sicily, Egypt, Spain, Germany, Armenia and other countries.
+ The number of men-of‑war of large tonnage, which were captured, burnt,
+ or sunk in battle, is stated at six hundred.
+ In the naval engagement against Sextus Pompeius, off Naulochos, he sank
+ twenty-eight vessels, and captured or burnt two hundred and fifty-five;
+ so that only seventeen out of a powerful fleet of three hundred could make
+ their escape.
+\end_layout
+
+\begin_layout Standard
+Thrice he took the census of the citizens of Rome; the first time in the
+ year 29‑28 
+\noun on
+b.c.
+\noun default
+, when 4,063,000 souls were counted; the second in the year 8 
+\noun on
+b.c.
+\noun default
+, showing 4,233,000; the third in 14 
+\noun on
+a.d.
+\noun default
+, with 4,937,000.
+ Under his peaceful rule, therefore, there was an increase of 874,000 in
+ the number of Roman citizens.
+ He remarks with pride that, while from the beginning of the history of
+ Rome to his own age the gate of the Temple of Janus had been shut but twice,
+ as a sign that peace was prevailing over land and sea, he had been able
+ to close it three times in the course of fifty years.
+ His liberalities are frequently surprising.
+ Sometimes they took the form of free distributions of corn, oil, or wine;
+ sometimes of an allowance of money.
+ He asserts that he spent in gifts the sum of six hundred and twenty millions
+ of sestertii, nearly twenty-six millions of dollars.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Lanciani is writing in 1892; all these dollar figures need to be multiplied
+ many times over.
+\end_layout
+
+\end_inset
+
+ Adding to this sum the cost of purchasing lands for his veterans in Italy
+ (six hundred millions) and in the provinces (two hundred and sixty millions),
+ of giving pecuniary rewards to his veterans four hundred millions), of
+ helping the public treasury (one hundred and fifty millions), and the army
+ funds (one hundred and seventy millions), besides other grants and bounties,
+ the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p176
+\end_layout
+
+\end_inset
+
+amount of which is not known, we reach a total expenditure for the benefit
+ of his people of ninety-one million dollars.
+\end_layout
+
+\begin_layout Standard
+I need not speak of the material renovation of the city, which he found
+ of brick and left of marble.
+ Roads, streets, aqueducts, bridges, quays, places of amusement, places
+ of worship, parks, gardens, public offices, were built, opened, repaired,
+ and decorated with incredible profusion.
+ Suetonius says that, on one occasion alone, he offered to Jupiter Capitolinus
+ sixteen thousand pounds
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+5240kg.
+\end_layout
+
+\end_inset
+
+ of gold and fifty millions' worth of jewels.
+ In the year 28 
+\noun on
+b.c.
+
+\noun default
+ not less than eighty-two temples were rebuilt in Rome itself.
+\end_layout
+
+\begin_layout Standard
+Were we not in the presence of official statistics and of state documents,
+ we should hardly feel inclined to believe these enormous statements.
+ We must remember, too, that the work of Augustus was seconded and imitated
+ with equal magnitude by his wealthy friends and advisers, Marcius Philippus,
+ Lucius Cornificius, Asinius Pollio, Munatius Plancus, Cornelius Balbus,
+ Statilius Taurus, and above all by Marcus Agrippa, to whom we owe the aqueducts
+ of the Virgo and Julia , the Pantheon, the Thermae, the artificial lake
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}stagnum}
+\end_layout
+
+\end_inset
+
+), the Portico of the Argonauts, the Temple of Neptune, the Portico of Vipsania
+ Palatina, the Diribitorium, the Septa, the Campus Agrippae, a bridge on
+ the Tiber, and hundreds of other costly structures.
+ During the twelve months of his aedileship, in 19 
+\noun on
+b.c.
+\noun default
+, he rebuilt the network of the city sewers, adding many miles of new channels,
+ erected eight hundred and five fountains, and one hundred and thirty water
+ reservoirs.
+ These edifices were ornamented with three hundred bronze and marble statues,
+ and four hundred columns.
+\end_layout
+
+\begin_layout Standard
+We have seen works of perhaps greater importance accomplished in our age;
+ but, as Baron de Hübner remarks, in speaking of another great man, Sixtus
+ V., they are the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p177
+\end_layout
+
+\end_inset
+
+joint product of government, national credit, speculation, and public and
+ private capital; and they are facilitated by wonderful mechanical contrivances.
+ The transformation of Rome at time of Augustus was the work of a few wealthy
+ citizens, whose names will forever be connected with their splendid creations.
+\end_layout
+
+\begin_layout Standard
+The gates of the Mausoleum of Augustus were opened for the last time in
+ 
+\noun on
+a.d.
+
+\noun default
+ 98, for the reception of the ashes of Nerva.
+ We hear no more of it until the year 410, when the Goths ransacked the
+ imperial vaults.
+ No harm, however, seems to have been done to the building itself at that
+ time.
+ Like the mausolea of Metella, on the Appian Way, and Hadrian, on the right
+ bank of the Tiber, it was subsequently converted into a stronghold, and
+ occupied by the Colonnas.
+ Its ultimate destruction, in 1167, marks one of the great occurrences in
+ the history of mediaeval Rome.
+\end_layout
+
+\begin_layout Standard
+Between the counts of Tusculum, partisans of the German Empire, and the
+ Romans, devoted to their independent municipal government, there was a
+ feud of long standing, which had resulted occasionally in open violence.
+ In 1167, Alexander III.
+ being Pope, the Romans decided to strike the decisive blow on the Tusculans,
+ as well as on their allies, the Albans.
+ The cardinal of Aragona, the biographer of Alexander III., states that towards
+ the end of May, when the cornfields begin to ripen, the Romans sallied
+ forth on their expedition against Count Raynone, much against the Pope's
+ will; and having crossed the frontier of his estate, set fire to the crops,
+ uprooted trees and vineyards, ruined farmhouses, killed cattle, and laid
+ siege to the city itself.
+ Raynone, knowing how precarious his position was, implored the help of
+ the emperor Frederic, who was at that time encamped near Ancona.
+ The request was granted, and a body of German warriors returned with the
+ ambassadors to 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p178
+\end_layout
+
+\end_inset
+
+the rescue of Tusculum.
+ They soon perceived that, although the Romans had the advantage of numbers,
+ they were so imperfectly drilled and so insubordinate that the chances
+ were equal for both sides.
+ The battle was opened at nine o'clock on the morning of Whit-Monday, May
+ 30, 1167.
+ The twelve hundred Germans, led by Christian, archbishop of Mayence, and
+ three hundred Tusculans, led by Raynone, gallantly attacked the advance
+ guard of the Roman army, which numbered thirty thousand men.
+ Overcome by panic, the Romans fled and disbanded at the first encounter.
+ They were closely followed from valley to valley, and slain in such numbers
+ that scarcely one third of them reached the walls of Aurelian in safety.
+ The local memories of the battle still survive, after a lapse of eight
+ centuries; the valley which leads from the villa of Q.
+ Voconius Pollio (Sassone) to Marino being still called by the peasantry
+ 
+\begin_inset Quotes eld
+\end_inset
+
+la valle dei morti.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On the following day an embassy was sent to Archbishop Christian and Count
+ Raynone begging leave to bury the dead.
+ The permission was granted, with the humiliating clause that the number
+ of dead and missing should be reported at Tusculum.
+ The legend says that the number ascertained was fifteen thousand, which
+ is an exaggeration.
+ Contemporary historians speak of only two thousand dead and three thousand
+ prisoners, who were sent to Viterbo.
+ The chronicle of Sikkardt adds that the Romans were encamped near Monte
+ Porzio; that the battle lasted only two hours, and that the dead were buried
+ in the church of S.
+ Stefano, at the second milestone of the Via Latina, with the following
+ inscription:— 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{mille decem decies et sex decies qvoqve seni}}
+\end_layout
+
+\end_inset
+
+, — 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p179
+\end_layout
+
+\end_inset
+
+which, if genuine, proves that the number of killed in battle was only eleven
+ hundred and sixty-six, that is, 1,000 + 100 + 60 + 6.
+\end_layout
+
+\begin_layout Standard
+The connection of the Mausoleum of Augustus with this mediaeval battle of
+ Cannae is easily explained.
+ The mausoleum had been selected by the Colonnas for their stronghold in
+ the Campus Martius, and it was for their interest to keep it in good repair.
+ As happens in cases of crushing defeats, when the succumbing party must
+ find an excuse and an opportunity for revenge, the powerful Colonnas were
+ accused of high treason, namely, of having led the advance-guard of the
+ Romans into an ambush.
+ Consequently they were banished from the city, and their castle on the
+ Campus Martius was destroyed.
+ Thus perished the Mausoleum of Augustus.
+\end_layout
+
+\begin_layout Standard
+The history of its ruins, however, does not end with the events just described.
+ Most important of all, they are associated with the fate of Cola di Rienzo.
+ His biographer, in Book 
+\noun on
+iii
+\noun default
+.
+ ch.
+ xxiv., says that the body of the Tribune was allowed to remain unburied,
+ for two days and one night, on some steps near S.
+ Marcello.
+ Giugurta and Sciarretta Colonna, leaders of the aristocratic faction, ordered
+ the body to be dragged along the Via Flaminia, from S.
+ Marcello to the mausoleum which had been occupied and fortified by that
+ powerful family once more in 1241.
+ In the mean time, the Jews had gathered in great numbers around the 
+\begin_inset Quotes eld
+\end_inset
+
+Campo dell' Augusta,
+\begin_inset Quotes erd
+\end_inset
+
+ as the ruins were then called.
+ Thistles and dry brushwood were collected and set afire, and the body thrown
+ into the flames; this extemporized pyre being fed with fresh fuel until
+ every particle of the corpse was consumed.
+ A strange coincidence, that the same monument which the founder of the
+ empire, the oppressor of Roman liberty, had chosen for his own burial-place,
+ should serve, thirteen centuries later, for the cremation of him who tried
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p180
+\end_layout
+
+\end_inset
+
+to restore popular freedom! Here is the description of the event by a contempora
+ry: 
+\begin_inset Quotes eld
+\end_inset
+
+Along this street (the Corso of modern days) the corpse was dragged as far
+ as the church of S.
+ Marcello.
+ There it hung by the feet to a balcony, because the head had been crushed
+ and lost, piece by piece, along the road; so many wounds had been inflicted
+ on the body that it might be compared to a sieve (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}crivello}
+\end_layout
+
+\end_inset
+
+); the entrails were protruding like a bull's in the butchery; he was horribly
+ fat, and his skin white, like milk tinted with blood.
+ Enormous was his fatness, — so great as to give him the appearance of an
+ ox (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}bufalo}
+\end_layout
+
+\end_inset
+
+).
+ The body hung from the balcony at S.
+ Marcello for two days and one night, while boys pelted it with stones.
+ On the third day it was removed to the Campo dell' Augusta, where the Jewish
+ colony, to a man, had congregated; and although the pyre had been made
+ only with thistles, in which those ruins abounded, the fat from the corpse
+ kept the flames alive until their work was accomplished.
+ Not an atom of the great champion of the Romans was left.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I need not remind the reader that the house near the Ponte Rotto, and opposite
+ the Temple of Fortuna Virilis, which guides attribute to Cola di Rienzo,
+ has no connection with him.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+This house is described in 
+\emph on
+Ancient Rome
+\emph default
+, chapter i., p.
+ 17.
+ 
+\end_layout
+
+\end_inset
+
+ He was born and lived many years near the church of S.
+ Tommaso in Capite Molarum, between the Palazzo Cenci and the synagogue
+ of the Jews, on the left bank of the Tiber.
+ The church is still in existence, although it has changed its mediaeval
+ name into that of S.
+ Tommaso a' Cenci.
+\end_layout
+
+\begin_layout Standard
+The house by the Ponte Rotto, just referred to, has still another name in
+ folk-lore; it is called the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}House of Pilate}
+\end_layout
+
+\end_inset
+
+.
+ The denomination is not so absurd as it first seems; it brings us back
+ to bygone times, when passion-plays were 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p181
+\end_layout
+
+\end_inset
+
+performed in Rome in a more effective way than they are now exhibited at
+ Oberammergau.
+ They took place, not on a wooden stage, so suggestive of conventionality,
+ but in a quarter of the city most wonderfully adapted to represent the
+ Via Dolorosa of Jerusalem, from the houses of Pilate and Caiaphas to the
+ summit of Calvary.
+\end_layout
+
+\begin_layout Standard
+The passion-play began at a house, Via della Bocca della Verità, No.
+ 37, which is still called the 
+\begin_inset Quotes eld
+\end_inset
+
+Locanda della Gaiffa,
+\begin_inset Quotes erd
+\end_inset
+
+ a corruption of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Gaifa}
+\end_layout
+
+\end_inset
+
+, or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Caiaphas}
+\end_layout
+
+\end_inset
+
+.
+ From this place the procession moved across the street to the 
+\begin_inset Quotes eld
+\end_inset
+
+Casa di Pilato,
+\begin_inset Quotes erd
+\end_inset
+
+ as the house of Crescenzio was called, where the scenes of the Ecce Homo,
+ the flagellation, and the crowning with thorns, were probably enacted.
+ The Via Dolorosa corresponds to our streets of the Bocca della Verità,
+ Salara, Marmorata, and Porta S.
+ Paolo; there must have been stations at intervals for the representation
+ of the various episodes, such as the meeting with the Virgin Mary, the
+ fainting under the cross, the meeting with Veronica and with the man from
+ Cyrene.
+ The performance culminated on the summit of Monte Testaccio, where three
+ crosses were erected.
+ One is still there.
+\end_layout
+
+\begin_layout Standard
+Readers who have had an opportunity of studying the Via Dolorosa at Jerusalem
+ will be struck by the resemblance between the original and its Roman imitation.
+ The latter must have been planned by crusaders and pilgrims on their return
+ from the Holy Land towards the end of the thirteenth century.
+ Every particular, even those which rest on doubtful tradition, was repeated
+ here, and to the stone in front of it on which Lazarus sat.
+ A ruin half-way between the house of Pilate, by the Ponte Rotto, and the
+ Monte Testaccio, or Calvary, is still called the Arco di S.
+ Lazaro.
+\end_layout
+
+\begin_layout Standard
+The Mausoleum of Augustus was explored archaeologically 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p182
+\end_layout
+
+\end_inset
+
+for the first time in 1527, when the obelisk now in the Piazza di S.
+ Maria Maggiore was found on the south side, near the church of S.
+ Rocco.
+ On July 14, 1519, Baldassare Peruzzi discovered and copied some fragments
+ of the original inscriptions 
+\emph on
+in situ
+\emph default
+; but the discovery made in 1777 casts all that preceded it into the shade.
+ In the spring of that year, while the corner house between the Corso and
+ the Via degli Otto Cantoni (opposite the Via della Croce) was being built,
+ the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ustrinum}
+\end_layout
+
+\end_inset
+
+, or sacred enclosure for the cremation of the members of the imperial family,
+ came to light, lined with a profusion of historical monuments.
+ Strabo describes the place as paved with marble, enclosed with brass railings,
+ and shaded by poplars.
+ The marble pavement was found at a depth of nineteen feet
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+5.8m.
+\end_layout
+
+\end_inset
+
+ below the sidewalk of the Corso.
+ The first object to appear was the beautiful vase of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}alabastro cotognino}
+\end_layout
+
+\end_inset
+
+, now in the Vatican Museum (Galleria delle Statue), three feet in height,
+ one and one half in diameter,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+90cm in height, 45cm in diameter.
+\end_layout
+
+\end_inset
+
+ with a cover ending in a lotus flower, the thickness of the marble being
+ only one inch.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+25mm.
+\end_layout
+
+\end_inset
+
+ The vase had once contained the ashes of one of the imperial personages
+ in the mausoleum; either Alaric's barbarians or Roman plunderers must have
+ left it in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ustrinum}
+\end_layout
+
+\end_inset
+
+, after looting its contents.
+\end_layout
+
+\begin_layout Standard
+The marble pedestals lining the borders of the square were of two kinds:
+ some were intended to indicate the spot on which each prince had been cremated,
+ others the place where the ashes had been deposited.
+ The former end with the formula 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{hic crematvs}}
+\end_layout
+
+\end_inset
+
+ (or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{cremata}}
+\end_layout
+
+\end_inset
+
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{est}}
+\end_layout
+
+\end_inset
+
+, the latter with the words 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{hic sitvs}}
+\end_layout
+
+\end_inset
+
+ (or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{sita}}
+\end_layout
+
+\end_inset
+
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{est}}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Augustus was not the first member of the family to occupy the mausoleum.
+ He was preceded by Marcellus (28 
+\noun on
+b.c.
+\noun default
+) whose premature fate is so admirably described by Virgil (Aeneid, 
+\noun on
+vi
+\noun default
+.872); by Marcus Agrippa, in 14 
+\noun on
+b.c.
+\noun default
+; 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p183
+\end_layout
+
+\end_inset
+
+by Octavia, the sister of Augustus, in the year 13; by Drusus the elder,
+ in the year 9; and by Caius and Lucius, nephews of Augustus.
+ After Augustus, the interments of Livia, Germanicus, Drusus, son of Tiberius,
+ Agrippina the elder, Tiberius, Antonia wife of Drusus, Claudius, Brittannicus,
+ and Nerva are registered in succession.
+ Of these great and, in many cases, admirable men and women, ten funeral
+ cippi have been found in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ustrinum}
+\end_layout
+
+\end_inset
+
+, some by the Colonnas before they were superseded by the Orsinis in the
+ possession of the place, some in the excavations of 1777.
+\end_layout
+
+\begin_layout Standard
+The fate of two of them cannot fail to impress the student of the history
+ of the ruins of Rome.
+ The pedestal of Agrippina the elder, daughter of Agrippa, wife of Germanicus,
+ and mother of Caligula, and that of her eldest son Nero, were hollowed
+ out during the Middle Ages, turned into standard measures for solids, and
+ as such placed at the disposal of the public in the portico of the city
+ hall.
+ The pedestal of Nero perished during the renovation of the Conservatori
+ Palace at the time of Michelangelo; that of Agrippina is still there.
+\end_layout
+
+\begin_layout Standard
+The fate of this noble woman is described by Tacitus in the sixth book of
+ the Annals; she was banished by Tiberius to the island of Pandataria, now
+ called Ventotiene, where she spent the last three years of her life in
+ solitude and grief.
+ In 33 
+\noun on
+a.d.
+
+\noun default
+ — the most memorable date in Christian chronology — she either starved
+ herself to death voluntarily, or was starved by order of her persecutor.
+ On hearing of her death the emperor eulogized his own clemency, because,
+ instead of strangling the princess and exposing her body on the Gemonian
+ steps, he had allowed her to die a peaceful death in that island.
+ No honors were paid to her memory, but as soon as Caligula succeeded 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p184
+\end_layout
+
+\end_inset
+
+Tiberius in the government of the empire, he sailed to Pandataria, collected
+ the ashes of his mother and relatives, and ultimately placed them in the
+ mausoleum.
+ The cippus represented in the illustration below is manifestly the work
+ of Caligula, because mention is made on it of his accession to the throne.
+ 
+\begin_inset Wrap figure
+lines 0
+placement l
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-03_Cippus_Agrippina.png
+	width 1.78in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Cippus of Agrippina the Elder, made into a measure for grain.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ The hole excavated in it in the Middle Ages is capable of holding three
+ hundred pounds of grain, as shown by the legend 
+\noun on
+rvgiatella de grano
+\noun default
+, engraved in Gothic letters
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+uncials, actually.
+\end_layout
+
+\end_inset
+
+ above the municipal coat of arms.
+ The three armorial shields below belong to the three syndics, or conservatori,
+ by whose authority the standard measure was made.
+ Another inscription, engraved in 1635 on the opposite side, says: 
+\begin_inset Quotes eld
+\end_inset
+
+The S.
+ P.
+ Q.
+ R.
+ pay honor to the memory of the noble and courageous woman who voluntarily
+ put an end to her life
+\begin_inset Quotes erd
+\end_inset
+
+ (and here follows a witticism of doubtful taste on the 
+\emph on
+bread
+\emph default
+ which she denied herself, and on the 
+\emph on
+breadstuffs
+\emph default
+, for the measurement of which her tomb had been used).
+\end_layout
+
+\begin_layout Standard
+The other cippi found in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ustrinum}
+\end_layout
+
+\end_inset
+
+ mention four other children of Germanicus, among them Caius Caesar, the
+ lovely child who was so much beloved by Augustus, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p185
+\end_layout
+
+\end_inset
+
+and so deeply regretted by him.
+ A statue representing the youth with the attributes of a Cupid was dedicated
+ by Livia in the temple of the Capitoline Venus, and another one was placed
+ by Augustus in his own bedroom, on entering and leaving which he never
+ missed kissing the cherished image.
+\end_layout
+
+\begin_layout Standard
+The Mausoleum of Augustus and its precious contents have not escaped the
+ spoliation and desecration which seem to be the rule both in past and modern
+ times.
+ The building is used now as a circus.
+ Its basement is concealed by ignoble houses; the urn of Agrippina is kept
+ in the courtyard of the Palazzo dei Conservatori; three others have been
+ destroyed, and six belong to the Vatican Museum.
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+The Tomb of Nero.
+
+\noun default
+ The defection of the last Roman legion was announced to Nero while at dinner
+ in the Golden House.
+ On hearing the news, he tore up the letters, upset the table, dashed upon
+ the floor two marvellous cups, called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Homeric}
+\end_layout
+
+\end_inset
+
+, because their chiselling represented scenes from the Iliad; and having
+ borrowed from Locusta a phial of poison, went out to the Servilian gardens.
+ He then despatched a few faithful servants to Ostia with orders to keep
+ a squadron of swift vessels in readiness for his escape.
+ After this he inquired of the officers of the praetorian guards if they
+ were willing to accompany him in his flight; some found an excuse, others
+ openly refused; one had the courage to ask him: 
+\begin_inset Quotes eld
+\end_inset
+
+Is death so hard?
+\begin_inset Quotes erd
+\end_inset
+
+ Then various projects began to agitate his mind; now he was ready to beg
+ for mercy from Galba, his successful opponents; now to ask help from the
+ Parthian refugees, and again to dress himself in mourning, and appear barefoote
+d and unshaven before the public by the rostra, and implore pardon for his
+ crimes; in case that should be refused, to 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p186
+\end_layout
+
+\end_inset
+
+ask permission to exchange the imperial power for the governorship of Egypt.
+ 
+\begin_inset Wrap figure
+lines 0
+placement l
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-04_Head_Nero.png
+	width 1.61in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Head of Nero, in the Capitoline Museum.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ He was ready to carry this project into execution, but his courage failed
+ at the last moment, as he knew that the exasperated people would tear him
+ to pieces before he could reach the Forum.
+ Towards evening he calmed his mind in the hope that there would be time
+ enough to make a decision if he waited until the next day.
+ As midnight approached he awoke, to find that the Praetorians detailed
+ at the gates of the Servilian gardens had retired to their barracks.
+ Servants were sent to rouse the friends sleeping in the villa, but none
+ of them returned.
+ He went around the apartments, finding them closed and deserted.
+ On re-entering his own room he saw that his private attendants had run
+ away, carrying the bed-covers, and the phial of poison.
+ Then he seemed determined to put an end to his life by throwing himself
+ from one of the bridges; but again his courage failed, and he begged to
+ be shown a hiding-place.
+ It was at this supreme moment that Phaon the freedman offered him his suburban
+ villa, situated between the Via Salaria and the Via Nomentana, four miles
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+6km.
+\end_layout
+
+\end_inset
+
+ outside the Porta Collina.
+ The proposal was accepted at once; and barefooted, and dressed in a tunic,
+ with a 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p187
+\end_layout
+
+\end_inset
+
+mantle of the commonest material about his shoulders, he jumped on a horse
+ and started for the gate, accompanied by only four men, — Phaon, Epaphroditus,
+ Sporus, and another whose name is not given.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-05_Ponte_Nomentano.png
+	width 4.03in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Ponte Nomentano.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The incidents of the flight were terrible enough to deprive the imperial
+ fugitive of the last spark of hope.
+ The sky was overcast, and heavy black clouds hung close to the earth, the
+ stillness of nature being occasionally broken by claps of thunder.
+ The earth shook just as he was riding past the praetorian camp.
+ He could hear the shouts of the mutinous soldiers cursing his name, while
+ Galba was proclaimed his successor.
+ Farther on, the fugitives met several men hurrying towards the town in
+ search of news.
+ Nero heard some of them telling one another to be sure to run in search
+ of him.
+ Another passer inquired the news from the palace.
+ Before reaching the Ponte Nomentano, Nero's horse, frightened by a corpse
+ which was lying on the roadside, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p188
+\end_layout
+
+\end_inset
+
+gave a start.
+ The slouched hat and handkerchief, with which the emperor was trying to
+ conceal his face, slipped aside, and just at that moment a messenger from
+ the praetorian camp recognized him, and by force of habit gave the military
+ salute.
+\end_layout
+
+\begin_layout Standard
+Beyond the bridge the Via Nomentana divides: the main road, on the right,
+ leads to Nomentum (Mentana); the left to the territory of Ficulea (la Cesarina).
+ It is now called the Strada delle Vigne Nuove.
+ Nero and his followers took this country road.
+ The particulars given by Suetonius suit the present aspect and the nature
+ of the district so exactly that we can follow the four men step by step
+ to the walls of Phaon's villa.
+ The slopes of the hills were then, as they are now, uncultivated, and covered
+ with bushes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 04-06_Phaons_villa.png
+	width 5in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Map showing the location of Phaon's villa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There is still a path on the banks of the Fosso della Cecchina, leading
+ to the rear wall of the villa, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}aversum villae parietem}
+\end_layout
+
+\end_inset
+
+; and the hillsides are still honeycombed with pozzolana quarries, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}angustiae cavernarum}
+\end_layout
+
+\end_inset
+
+ of Suetonius.
+ The villa extends on the tableland, or ridge, between the valleys of la
+ Cecchina and Melaina.
+ Its main gate corresponds exactly with the gate of the Vigna Chiari, the
+ first of the 
+\begin_inset Quotes eld
+\end_inset
+
+vigne nuove
+\begin_inset Quotes erd
+\end_inset
+
+ on the right as one goes from Rome, at a distance of six kilometres from
+ the threshold of the Porta Collina.
+ For a radius of a thousand feet
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+300m.
+\end_layout
+
+\end_inset
+
+ around the gate, we meet with the typical remains of a Roman villa of the
+ first century, — porticoes, water tanks, and substructions, from the platform
+ of which a lovely view over the wooded plains of the Tiber and the Anio,
+ the city, and the hills of the Vatican, and of the Janiculum, which frame
+ the panorama.
+ The site is pleasant, secluded, and quiet, so that it well fulfilled the
+ wish for a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}secretior latetra}
+\end_layout
+
+\end_inset
+
+ expressed by Nero in his hopeless condition.
+ The fugitives dismounted at the turn of the Strada delle Vigne Nuove, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p189
+\end_layout
+
+\end_inset
+
+and let the horses loose among the brambles.
+ Not wishing to be seen in the open road, they followed the lower path on
+ the banks of the Cecchina, which was concealed by a thick growth of canes.
+ It was necessary to bore a hole in the rear wall of the villa, and while
+ this was being done, Nero quenched his thirst from a pond of stagnant water,
+ near the opening of the pozzolana quarries.
+ Once inside the villa, he was asked to lie down on a couch covered with
+ a peasant's mantle, and was offered a piece of stale bread, and a glass
+ of tepid water.
+ Food he refused, but touched the rim of the cup with his parched lips.
+ It is curious to read in Suetonius of the many grimaces the wretch made
+ before he could determine to kill himself; he made up his mind to do so
+ only when he heard the tramping of the horsemen whom the Senate had sent
+ to arrest him.
+ He then put the dagger into his throat, aided in giving the last thrust
+ by his freedman Epaphroditus.
+ The centurion sent to take him alive arrived before he expired.
+ To him Nero addressed these last words: 
+\begin_inset Quotes eld
+\end_inset
+
+Too late! Is this your fidelity?
+\begin_inset Quotes erd
+\end_inset
+
+ He gradually sank, his countenance assuming such a frightful expression
+ that all who were present fled in horror.
+ Icelus, freedman of Galba, the newly elected emperor, gave his consent
+ to a decent funeral.
+ Ecloge and Alexandra, his nurses, Acte his mistress, and the three faithful
+ men who had accompanied him in his flight, provided the necessary funds,
+ about five thousand dollars.
+ The body was cremated, wrapped in a sheet of white woven with gold, the
+ same that he had used on his bed New Year's night.
+ The three women collected the ashes and placed them in the tomb of the
+ Domitian family, which stood on the spur of the Pincian Hill which is behind
+ the present church of S.
+ Maria del Popolo.
+ The urn was of porphyry, the altar upon which it stood of Carrara marble,
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p190
+\end_layout
+
+\end_inset
+
+and the tomb itself of Thasian marble.
+ A pathetic discovery has just been made in the Vigna Chiari, on the exact
+ spot of Nero's suicide, by my friend, Cav.
+ Rodolfo Buti, that of the tomb of Claudia Ecloge, the old woman who was
+ so devoted to her nursling.
+ The epitaph is a plain marble slab containing only a name.
+ But this simple inscription, read amid the ruins of Phaon's villa, with
+ every detail of the scene of the suicide before one's eyes, makes more
+ impression on the feelings than would a great monument to her memory.
+ As she could not be buried within or near the family vault of the Domitii
+ on the Pincian, she selected the spot where Nero's remains had been cremated.
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+When Nero perished by the justest doom
+\begin_inset Newline newline
+\end_inset
+
+Which ever the destroyer yet destroy'd,
+\begin_inset Newline newline
+\end_inset
+
+Amidst the roar of liberated Rome,
+\begin_inset Newline newline
+\end_inset
+
+Of nations freed, and the world overjoy'd,
+\begin_inset Newline newline
+\end_inset
+
+Some hands unseen strew'd flowers upon his tomb, —
+\begin_inset Newline newline
+\end_inset
+
+Perhaps the weakness of a heart not void
+\begin_inset Newline newline
+\end_inset
+
+Of feeling for some kindness done, when power
+\begin_inset Newline newline
+\end_inset
+
+Had left the wretch an uncorrupted hour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+Don Juan
+\emph default
+, canto 
+\noun on
+iii
+\noun default
+., cix.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The original epitaph of Claudia Ecloge has been removed to the Capitoline
+ Museum, where it seems lost among so many other objects of interest; but
+ the student who will select the Vigne Nuove for an afternoon excursion
+ will find there a facsimile, placed by our archaeological commission on
+ the front wall of the Casino di Vigna Chiari.
+ 
+\end_layout
+
+\end_body
+\end_document
