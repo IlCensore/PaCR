@@ -8,13 +8,17 @@
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{fontspec}
+\usepackage{microtype}
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
 \makepagestyle{myheadings}
-  \makeevenhead{myheadings}{Chapter \thechapter\ ·\ \leftmark}{}{}
-  \makeoddhead{myheadings}{}{}{}
-  \makeevenfoot{myheadings}{\thepage}{}{}
-  \makeoddfoot{myheadings}{}{}{\thepage}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}❧}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
 
 \makechapterstyle{hpmor}{%
   \chapterstyle{default}
@@ -35,15 +39,11 @@
   \renewcommand*{\afterchaptertitle}{\par\vspace\par}
 \chapterstyle{hpmor}
 
-\usepackage{fmtcount}
-\usepackage{changepage} %per cambiare la dimensione del paragrafo
-\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
 \setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
 
-\usepackage{fontspec,microtype}
 \frenchspacing
-%\widowpenalties 2 10000 0
-%\clubpenalty 10000
+\widowpenalties 2 10000 0
+\clubpenalty 10000
 %\raggedbottom
 %\usepackage{indentfirst}
 \end_preamble
@@ -59,7 +59,7 @@ initials
 \fontencoding global
 \font_roman EB Garamond
 \font_sans OFL Sorts Mill Goudy
-\font_typewriter Linux Libertine O
+\font_typewriter DejaVu Sans
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
@@ -3195,6 +3195,424 @@ The treasure-trove in the chapel of the kings of France consists of eight
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+The search was doubtless irregular, imperfect and careless, as is proved
+ by other and far richer discoveries which were made in 1544.
+ Unfortunately, if the accounts we have of these are complete, no drawings
+ were made before the dispersion of the objects.
+ The only sketches which have reached us represent a few perfume bottles
+ found inside the grave.
+ Of these 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}flacons}
+\end_layout
+
+\end_inset
+
+ there are two sets of drawings, one in a codex of marchese Raffaelli di
+ Cingoli, f.43, with the legend, 
+\begin_inset Quotes eld
+\end_inset
+
+Five goblets of agate discovered in the foundations of S.
+ Peter's during the pontificate of Paul III.
+ in the tomb of Maria, daughter of Stilicho and wife of Honorius;
+\begin_inset Quotes erd
+\end_inset
+
+ the other in the codex of Fulvio Orsino, No.
+ 3439 of the Vatican Library.
+\end_layout
+
+\begin_layout Standard
+The discovery took place in 1544.
+ A greater treasure of gems, gold, and precious objects has never been found
+ in a single tomb.
+ The beautiful empress was lying in a coffin of red granite, clothed in
+ a state robe woven of gold.
+ Of the same material were the veil, and the shroud which covered the head
+ and breast.
+ The melting of these materials produced a considerable amount of pure gold,
+ its weight being variously stated at thirty-five or forty pounds.
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p204
+\end_layout
+
+\end_inset
+
+Bullinger puts it at eighty, with manifest exaggeration.
+ At the right of the body was placed a casket of solid silver, full of goblets
+ and smelling-bottles, cut in rock crystal, agate, and other precious stones.
+ There were thirty in all, among which were two cups, one round, one oval,
+ decorated with figures in high relief, of exquisite taste, and a lamp,
+ made of gold and crystal, in the shape of a corrugated sea-shell, the hole
+ for the oil being protected and concealed by a golden fly, which moved
+ around a socket.
+ There were also four golden vases, one of which was studded with gems.
+\end_layout
+
+\begin_layout Standard
+In a second casket of gilded silver, placed at the left side, were found
+ one hundred and fifty objects, — gold rings with engraved stones, earrings,
+ brooches, necklaces, buttons, hair-pins, etc.
+ covered with emeralds, pearls, and sapphires; a golden nut, which opened
+ in halves; a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}bulla}
+\end_layout
+
+\end_inset
+
+ which has been published in a special work by Mazzucchelli;
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+La bolla di Maria, moglie di Onorio
+\emph default
+.
+ Milan, 1819.
+ 
+\end_layout
+
+\end_inset
+
+ and an emerald engraved with the bust of Honorius, valued at five hundred
+ ducats.
+ Silver objects were scarce; of these we find mentioned only a hairpin and
+ a buckle of repoussé work.
+\end_layout
+
+\begin_layout Standard
+The letters and names engraved on some pieces prove that they formed the
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}mundus muliebris}
+\end_layout
+
+\end_inset
+
+ (wedding gifts) and toilet articles of Maria, Daughter of Stilicho and
+ Serena, sister of Thermantia and Eucherius, and wife of the emperor Honorius.
+ Besides the names of the four archangels — Raphael, Gabriel, Michael and
+ Uriel — engraved on a band of gold, those of Domina Nostra Maria, and of
+ Dominus Noster Honorius, were seen on other objects.
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}bulla}
+\end_layout
+
+\end_inset
+
+ was inscribed with the names of Honorius, Maria, Stilicho, Serena, Thermantia,
+ and Eucherius, radiating in the form of a double cross 
+\family typewriter
+✳
+\family default
+ with the exclamation 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p205
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Vivatis!
+\begin_inset Quotes erd
+\end_inset
+
+ between them.
+ With the exception of this 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}bulla}
+\end_layout
+
+\end_inset
+
+, which was bought by Marchese Trivulzio of Milan, at the beginning of the
+ present century, every article has disappeared.
+ That the gold was melted, and that the precious stones were disposed of
+ in various ways, so as to deprive them of their identity, is easy to understand
+, but where have the vases gone? Were it not for the rough sketches made
+ at the time of the discovery we should not be able to form an idea of their
+ beauty and elegance of shape.
+ They were not the work of goldsmiths of the fifth century, but were of
+ classical origin; in fact they represent a portion of the imperial state
+ jewels, which Honorius had inherited from his predecessors, and which he
+ had offered to Maria on her wedding day.
+ Claudianus, the court poet, described them expressly as having sparkled
+ on the breast and forehead of empresses in bygone days.
+\end_layout
+
+\begin_layout Standard
+We know from Paul Diaconus that Honorius was laid to rest by the side his
+ empress; his coffin, however, has never been found.
+ It must still be concealed under the pavement of the modern church at the
+ southern end of the transept, near the altar of the crucifixion of S.
+ Peter.
+\end_layout
+
+\begin_layout Standard
+An incident narrated by Flavius Josephus (
+\begin_inset Quotes eld
+\end_inset
+
+Antiqq.
+\begin_inset Quotes erd
+\end_inset
+
+ xvi., ii.) proves that even in this line of discoveries there is nothing
+ new under the sun.
+ Speaking of the financial troubles of King Herod, and of his urgent need
+ of new resources for the royal treasury, he describes how Hircanus had
+ rifled the sum of three thousand silver talents ($3,940,000) from the tomb
+ of David.
+ Herod, on being reminded of this experiment, decided to try it again, in
+ the hope that other treasures might be concealed in the recesses of the
+ royal vault.
+ Precautions were taken to conceal the attempt from the people: the tomb
+ was entered in the darkness of the night, and only a few intimate friends
+ were 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p206
+\end_layout
+
+\end_inset
+
+admitted to the secret.
+ Herod found no more silver in coin or bars, but a considerable quantity
+ of vases and other objects beautifully chiselled in gold.
+ With the help of his associates the booty was removed to the palace.
+ But the more the king had, the more he wanted: and setting aside dignity,
+ self-respect and reverence for the memory of his great predecessors, he
+ ordered his guard to search the vaults, even to the very coffins of David
+ and Solomon.
+ The legend says that the profanation was prevented by an outburst of flames
+ which killed two of the men.
+ This event filled Herod with fear, and to expiate his sacrilege he raised
+ a beautiful monument of white marble at the entrance of the tombs.
+\end_layout
+
+\begin_layout Standard
+The reader must not believe that such discoveries are either of doubtful
+ credibility or a matter of the past only.
+ They have taken place in all centuries, the present included; they take
+ place now.
+\end_layout
+
+\begin_layout Standard
+In July, 1793, behind the choir of the nuns of S.
+ Francesco di Paola, in the Via di S.
+ Lucia in Selci, a room of a private Roman house was discovered, and in
+ a corner of it a magnificent silver service, which had once belonged to
+ Projecta, wife of the Turcius Asterius Secundus, who was prefect of the
+ city in 362 
+\noun on
+a.d.
+
+\noun default
+ The discovery was witnessed and described by Ennio Quirinio Visconti and
+ Filippo Aurelio Visconti.
+ The objects were of pure silver, heavily gilded, and weighed one thousand
+ and twenty-nine ounces.
+ Besides plates and saucers, forks and spoons, candelabras of various sizes
+ and shapes, there was a wedding-casket with bas-reliefs representing the
+ bride and groom crowned with wreaths of myrtle; she, with braids of hair
+ encircling her head many times, in the fashion of the age of the empress
+ Helena; he, with the beard cut square, in the style worn by Julian the
+ apostate, and Eugenius.
+ The reliefs of the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p207
+\end_layout
+
+\end_inset
+
+body of the casket represented love-scenes, Venus and the Nereids, the Muses
+ and other pagan subjects; under them was engraved the salutation:
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+Secundus and Proiecta, may you live in Christ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The casket was filled with toilet articles and jewels.
+ Later discoveries brought the total weight of the silver to fifteen hundred
+ ounces.
+\end_layout
+
+\begin_layout Standard
+In 1810 a peasant plowing his field in the territory of Faleria, three miles
+ from Civita Castellana,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+five kilometres.
+\end_layout
+
+\end_inset
+
+ met with an obstacle which, on closer examination, proved to be a box filled
+ with silver.
+ He loaded himself with the precious spoils, as did many other peasants,
+ whom the news of the discovery had attracted to the spot.
+ There were plates, cups and saucers; a tureen weighing four pounds, wrought
+ in enamelled repoussé, with birds, lizards, branches of ivy, berries, and
+ other fruits and animals, and signed by the maker; a statue of a centaur;
+ and a wine jug, which, after passing through many hands, became the property
+ of the queen of Naples, Caroline Murat, at a cost of five thousand ducats.
+\end_layout
+
+\begin_layout Standard
+Alessandro Visconti reported the treasure-trove at once to count Tournon,
+ the French prefect; but he took no official notice of it, and the silver
+ was melted in the mint of Rome, and by the silversmiths of Viterbo and
+ Perugia.
+ Visconti estimates the weight of the silver at 
+\emph on
+thirty thousand ounces
+\emph default
+.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Dissertazione su d'una antica argenteria, letta nell'accademia archeologica
+ il dì 7 gennaio
+\emph default
+, 1811.
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Around 700 kg.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 1821, under the foundations of a house at Parma, precious objects were
+ found to the value of several thousand scudi.
+ The few bought for the Museo Parmense by its director, Pietro de Lama,
+ comprise eight bracelets, four 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p208
+\end_layout
+
+\end_inset
+
+rings, a necklace, a chain to which is attached a medallion of Gallienus,
+ a brooch, and thirty-four medals; all of pure gold, and weighing three
+ pounds and four ounces.
+\end_layout
+
+\begin_layout Standard
+On May 9, 1877, two earthen jars were discovered at Belinzago, near Milan,
+ in a farm belong to a man named Erba.
+ They contained twenty-seven thousand bronze coins, with a total weight
+ of three hundred and six pounds.
+ Except a few pieces belonging to Romulus, Maximian, Chlorus, Galerius,
+ Galeria Valeria, and Licinius, the great mass bear the effigy and name
+ of Maxentius, with an astonishing variety of letters and symbols on the
+ reverse.
+\end_layout
+
+\begin_layout Standard
+My personal experience in the discovery of treasure, in the special significance
+ of the word, is limited to the fragments of a bedstead (?) of gilt brass,
+ studded with gems.
+ The discovery took place in 1879, near the southwest corner of the Piazza
+ Vittorio Emanuele, on the Esquiline, in a room belonging to the Horti Lamiani,
+ the favorite residence of Caligula and of Alexander Severus.
+ The frame of the couch rested on four supports, most gracefully cut in
+ rock-crystal; the frame itself was ornamented with bull's heads and inlaid
+ with cameos and gems, to the number of four hundred and thirty.
+ There was also a 
+\begin_inset Quotes eld
+\end_inset
+
+glass paste
+\begin_inset Quotes erd
+\end_inset
+
+ representing the heads of Septimius Severus and his empress Julia Domna.
+ It seems that parts of this rich piece of furniture must have been inlaid
+ with agate incrustations, of which one hundred and sixty-eight pieces were
+ discovered in the same room.
+ 
 \end_layout
 
 \end_body

@@ -1,0 +1,786 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{3}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{fontspec}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}❧}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \chapnumfont \textsc{\chaptername\ \thechapter}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\parbox{0.5in}{}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+\widowpenalties 2 10000 0
+\clubpenalty 10000
+%\raggedbottom
+%\usepackage{indentfirst}
+\end_preamble
+\use_default_options true
+\master PaCR_index.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter DejaVu Sans
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.75cm
+\topmargin 2.45cm
+\rightmargin 7cm
+\bottommargin 3.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Papal tombs
+\end_layout
+
+\begin_layout Chapterprecis
+
+\size small
+Portraits of the early Popes.
+ — Those of SS.
+ Peter and Paul.
+ — The tombs of the Popes.
+ — Their interest for the student.
+ — The tomb of Cornelius Martyr.
+ — Inscriptions and other monuments found in his crypt.
+ — The two Cornelii, pagan and Christian.
+ — The pontifical crypt in the Cemetery of Callixtus.
+ — The tomb of Gregory the Great.
+ — S.
+ Peter's as a burial-place for the Popes.
+ — Gregory's several resting-places.
+ — The stress of Rome in his time.
+ — The legend of the angel.
+ — Gregory's good works.
+ — His house.
+ — The tomb of the Saxon Ceadwalla.
+ — That of Benedict VII.
+ — The turbulent times in which he lived.
+ — The Crescenzi.
+ — The church of Santa Croce in Gerusalemme.
+ — Pope Sylvester II.
+ — The tradition about his death and tomb.
+ — The vicissitudes of the Lateran basilica.
+ — The Vassalletti.
+ — Study of the antique by mediaeval artists.
+ — The stone-cutter's shop on the site of the Banca Nazionale.
+ — The tomb of Innocent VIII.
+ — The story of the holy lance.
+ — The tomb of Paul III.
+ — His services to art.
+ — The tomb of Clement XIII.
+ — Bracci and Canova.
+ — The Jesuits in Clement's time.
+ 
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+mong
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ the curiosities of the three principal basilicas of Rome, — the Lateran,
+ the Vatican, and the Ostiensis (S.
+ Paul's), — were collections of portrait heads of the Popes, which were
+ painted above the colonnade on the three sides of the nave.
+ In S.
+ Peter's there were two sets, one on the frieze, above the capitals of the
+ columns, the other on the walls of the nave, above the cornice; the first
+ is marked with the letters 
+\begin_inset Quotes eld
+\end_inset
+
+G H.
+\begin_inset Quotes erd
+\end_inset
+
+ in the drawing of Ciampini which is reproduced in chapter iii., p.
+ 134; the second, with the letters 
+\begin_inset Quotes eld
+\end_inset
+
+I L.
+\begin_inset Quotes erd
+\end_inset
+
+ The set of the Lateran was painted by order 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p210
+\end_layout
+
+\end_inset
+
+of Nicholas III.
+ (1277--1280).
+ Since his time the basilica has been burned to the ground twice — in 1308
+ and 1360 — and restored three times.
+ Its last disfigurement, by Innocent X.
+ and Borromini in 1644, concealed whatever was left standing of the old
+ building, and made it impossible for us to study its iconic pictures, if
+ there were any still existing.
+ We possess better information in regard to S.
+ Peter's, thanks to Grimaldi, who described and copied both series of medallions
+ before their destruction by Paul V in 1607.
+ The lower series, which was painted by order of Nicholas III., began with
+ Pope Pius I.
+ (142--157) and ended with Anastasius (397--401).
+ Grimaldi remarks that the Popes of the times of the persecutions, from
+ Pius to Sylvester, were bareheaded; those of a later age wore the tiara;
+ all had the round halo, or nimbus, except Tiberius (352--366), who had
+ a square one.
+ This last particular would prove that the portraits were originally painted
+ in the time of Tiberius, because the square nimbus is the symbol of living
+ persons.
+ The upper series above the cornice was the more important of the two, on
+ account of the chronological inscriptions which accompanied and explained
+ each medallion.
+ These inscriptions, which were too small and faint to be read with the
+ naked eye from below, were not copied before their destruction.
+ Grimaldi could decipher but a few: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Siricius · sedit ann}}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+is
+\emph default
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{xv · m}}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+ensibus
+\emph default
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{v · d}}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+iebus
+\emph default
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{xx ·}}
+\end_layout
+
+\end_inset
+
+ — 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{Felix · sedit ann}}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+o
+\emph default
+) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{i · m}}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+ensibus
+\emph default
+)\SpecialChar \ldots{}
+ etc.
+ The heads were bare, and framed by a round halo.
+ They seem to have been painted at the time of Pope Formosus (891‑896),
+ as were also the fresco-panels which appear in the above-mentioned drawing
+ of Ciampini.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The guide-books of modern Rome describe the series of S.
+ Paul's, restored in mosaic after the fire of 1823, as made up of imaginary
+ likenesses except in the case of later Popes.
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p211
+\end_layout
+
+\end_inset
+
+This statement is not correct.
+ The original medallions were painted on each side of the nave, and on the
+ cross or end wall above the entrances.
+ Those of the end wall disappeared long since, on the occasion of some repairs
+ to this part of the basilica.
+ Those of the left side perished in the fire of 1823; but those of the right
+ side, beginning with S.
+ Peter and ending with Innocent (401--417), were saved.
+ They have since been detached from the wall, transferred first to canvas,
+ then to stone, and are now exhibited in one of the corridors of the monastery.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Garrucci has reproduced them in the 
+\emph on
+Storia dell'arte cristiana
+\emph default
+, vol.
+ 
+\noun on
+ii
+\noun default
+.
+ pl.
+ 108--111.
+\end_layout
+
+\end_inset
+
+ As regards those which perished in the fire, they had already been copied,
+ first in the seventeenth century by order of Cardinal Francesco Barberini,
+ and again in 1751 by Marangoni.
+ The new series in mosaic is therefore not all fanciful and imaginary, but
+ follows the tradition of the likenesses as they were first produced in
+ the fifth century.
+ At that time the study of the pontifical succession was receiving considerable
+ attention in Rome.
+ There were written catalogues inserted in liturgical books, which were
+ read to the congregation on certain days of the year, so that everybody
+ could argue on the subject, and remember the order of succession of the
+ bishops.
+ To impress this more forcibly on the minds of the people, it was written
+ on the walls of the newly erected basilica of S.
+ Paul, and illustrated with portraits.
+ The series must have struck the imagination of visitors and pilgrims.
+ The idea of apostolic inheritance, of uninterrupted hierarchy, of the supremacy
+ of the See of Rome, took a definite shape in the array of these busts of
+ bishops, led by S.
+ Peter, and congregated, as it were, around the grave of S.
+ Paul.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-01_Portraits_SPeter.png
+	width 2.88in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+A
+\emph default
+ Portrait head of S.
+ Peter; from a medallion in répoussé discovered by Boldetti in the Catacombs
+ of Domitilla.
+ — 
+\emph on
+B
+\emph default
+ Portrait head of S.
+ Paul; from a medallion preserved in the Museo Sacro Vaticano.
+ — Both are works of the second century.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The custom found imitators in other churches and in other cities.
+ Speaking of the gallery of Popes in the duomo 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p212
+\end_layout
+
+\end_inset
+
+of Siena, Symonds remarks how the accumulated majesty of their busts, larger
+ than life, with solemn faces, each leaning from his separate niche, brings
+ the whole past history of the Church into the presence of its living members.
+ A bishop walking up the nave of Siena must feel as a Roman felt among the
+ waxen images of ancestors renowned in council or war.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Of course,
+\begin_inset Quotes erd
+\end_inset
+
+ Symonds concludes, 
+\begin_inset Quotes eld
+\end_inset
+
+the portraits are imaginary for the most part, but the artists have contrived
+ the vary their features and expressions with great skill.
+\begin_inset Quotes erd
+\end_inset
+
+ This statement may be correct in a general way, especially in regard to
+ the Middle Ages, but is subject to important exceptions.
+ There is no doubt, for instance, that the likenesses of SS.
+ Peter and Paul have been carefully preserved in Rome ever since their lifetime,
+ and that they were familiar to everyone, even to school-children.
+ These portraits have come down to us by scores.
+ They are painted in the cubiculi of the catacombs, engraved in gold leaf
+ in the so‑called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}vetri cemeteriali}
+\end_layout
+
+\end_inset
+
+, cast in bronze, hammered in silver or copper, and designed in mosaic.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Garrucci: 
+\emph on
+Vetri adornati di figure in oro
+\emph default
+.
+ — Swoboda, quoted by De Waal in the 
+\emph on
+Römische Quartalschrift
+\emph default
+, 1888, p.
+ 135.
+ — Armellini: 
+\emph on
+ibidem
+\emph default
+, 1888, p.
+ 130.
+ — De Rossi: 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1864, p.
+ —; 1887, p.
+ 130.
+ 
+\end_layout
+
+\end_inset
+
+ The type never varies: 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p213
+\end_layout
+
+\end_inset
+
+S.
+ Peter's face is full and strong, with short curly hair and beard, while
+ S.
+ Paul appears more wiry and thin, slightly bald, with a long pointed beard.
+ The antiquity and the genuineness of both types cannot be doubted.
+ After the peace of Constantine, when Sylvester, Mark, Damasus, Siricius,
+ and Symmachus began to fill the city with their churches and memorial buildings
+, and as the habit of exhibiting in each of them portraits of the founders
+ became general, it is evident that the author of the collection of portraits
+ in S.
+ Paul's, which dates from the fifth century, must have had plenty of authentic
+ originals at his disposal.
+\end_layout
+
+\begin_layout Standard
+Next to these portraits, in the power of exciting the imagination and appealing
+ to the sentiments of visitors and pilgrims, come the tombs of the Popes.
+ I place them next to the images, because the tombs were of the most simple
+ and modest character, and marked only by a name, or by an inscription which
+ a few could read and decipher.
+ But to us, passionate students of history and art, those graves are invaluable;
+ they mark the various stages of the decline and fall of the great city
+ from year to year, as well as of her glorious resurrection; they chronicle
+ the leading events which have agitated Rome, Italy, and the world for the
+ last sixteen centuries.
+ To be sure, there are considerable breaks in the chain, due to the destruction
+ of old S.
+ Peter's, which contained eighty-seven graves; but the descriptions of Pietro
+ Mallio, of Maffeo Vegio, and of Pietro Sabino, and the drawings of Grimaldi
+ and Ciampini, help us to fill the gaps.
+\end_layout
+
+\begin_layout Standard
+Ferdinand Gregorovius was inspired to write his book on the subject while
+ in contemplation of the monument of Paul III., Farnese.
+ He glanced around in the dim light of the evening and saw effigy after
+ effigy of venerable men, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p214
+\end_layout
+
+\end_inset
+
+seated on their marble thrones, with outstretched hands, like an assembly
+ of patriarchs intrusted with the guardianship of their church.
+ He devoted many hours to the study of this class of monuments, so strikingly
+ Roman, 
+\begin_inset Quotes eld
+\end_inset
+
+for in Rome, more than in any other city of the world, does investigation
+ lead one in the footsteps of Death.
+\begin_inset Quotes erd
+\end_inset
+
+ His volume,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Les tombeaux des papes romains
+\emph default
+.
+ Traduction Sabatier.
+ Paris, 1859.
+ 
+\end_layout
+
+\end_inset
+
+ however, seems to me more like an essay written in hours of depression
+ than an exhaustive and satisfying treatise.
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}materia prima}
+\end_layout
+
+\end_inset
+
+ has greatly increased since he wrote, owing to the discoveries made in
+ the catacombs, in libraries and archives, and to the reproduction by photograph
+y of the fragments collected in the sacred grottoes of the Vatican.
+ If any of our younger colleagues are willing and prepared to go over the
+ work in a critical spirit, let them divide the subject into three periods.
+ During the first, which began with the entombment of S.
+ Peter, June 29, 
+\noun on
+a.d.
+
+\noun default
+ 67, and ends with that of Melchiades, 
+\noun on
+a.d.
+
+\noun default
+ 314, the bishops of Rome were interred in the depths of the suburban cemeteries
+, and their loculi marked with a simple name.
+ During the second period, which begins with the peace of Constantine and
+ ends with the destruction of the Vatican basilica in 1506--1606, the pontifical
+ graves were mostly ancient sarcophagi or bathing basins from the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}thermae}
+\end_layout
+
+\end_inset
+
+, accompanied by an inscription in verse, and, as the Renaissance was approached
+, by canopies of Gothic or Romanesque style.
+ In the third period, which ends with our time, the new church of S.
+ Peter is transformed into a papal mausoleum which is worthy of being compared
+ in refinement of art, in splendor of decoration, in richness of material,
+ in historical interest, with the Pantheons of ancient Rome.
+ I shall select from each of the three periods a few representative specimens.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p215
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+The Tomb of Cornelius, on the Appian Way
+\noun default
+.
+ In 1849, while de Rossi was exploring the Vigna Molinari between the Via
+ Appia and the Ardeatina, in his attempt to define the site and extent of
+ the various cemeteries which undermine that region, he found a fragment
+ of a marble slab with the letters \SpecialChar \ldots{}
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{elivs martyr}}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Excited by a discovery the capital importance of which he was able to foresee
+ at once, he asked an audience of the Pope, Pius IX., and begged him to purchase
+ the Vigna Molinari, and grant the funds necessary to discover the crypt
+ to which this fragment of a tombstone belonged.
+ After listening quietly to the arguments by which the young man was advocating
+ his cause, the Pope answered only four disheartening words: 
+\begin_inset Quotes eld
+\end_inset
+
+Sogni di un archeologo!
+\begin_inset Quotes erd
+\end_inset
+
+ (dreams of an archaeologist).
+ At the same time he gave orders for the immediate purchase of the vigna
+ (now called dei Palazzi Apostolici) and for the appropriation of an 
+\begin_inset Quotes eld
+\end_inset
+
+exploration fund.
+\begin_inset Quotes erd
+\end_inset
+
+ In March, 1852, a crypt was discovered on the very border of the Appian
+ Way; in the crypt was a tomb, and with it were the missing fragments of
+ the epitaph of Cornelius.
+ 
+\end_layout
+
+\end_body
+\end_document
