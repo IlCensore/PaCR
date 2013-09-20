@@ -15,12 +15,9 @@
 
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
-%\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
 \makepagestyle{myheadings}
-%  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \Numberstringnum{\thechapter}}}{}
-  \makeevenhead{myheadings}{\thepage}{\textsc{\chaptername\ \thechapter}}{}
-  \makeoddhead{myheadings}{}{\leftmark}{\thepage}
-%  \makeheadrule{myheadings}{\textwidth}{0.4pt}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}❧}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
   \makeevenfoot{myheadings}{}{}{}
   \makeoddfoot{myheadings}{}{}{}
 
@@ -55,6 +52,8 @@
 \renewcommand\marginpar[2][]{%
   \oldmarginpar{\mpjustification #2}}
 \frenchspacing
+\widowpenalties 2 10000 0
+\clubpenalty 10000
 \end_preamble
 \use_default_options true
 \begin_modules

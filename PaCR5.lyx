@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \begin_preamble
-\setcounter{chapter}{3}
+\setcounter{chapter}{4}
 
 \usepackage{fmtcount}
 \usepackage{graphicx}
@@ -196,7 +196,14 @@ G H.
 \end_inset
 
  in the drawing of Ciampini which is reproduced in chapter iii., p.
- 134; the second, with the letters 
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fig:Section_nave_old_SPeter"
+
+\end_inset
+
+; the second, with the letters 
 \begin_inset Quotes eld
 \end_inset
 
@@ -441,7 +448,7 @@ ii
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -753,6 +760,41 @@ textsc{elivs martyr}}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-02_Cornelius_epitaph.png
+	width 4.03in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Tombstone of Cornelius.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Excited by a discovery the capital importance of which he was able to foresee
  at once, he asked an audience of the Pope, Pius IX., and begged him to purchase
  the Vigna Molinari, and grant the funds necessary to discover the crypt
@@ -779,6 +821,687 @@ exploration fund.
  In March, 1852, a crypt was discovered on the very border of the Appian
  Way; in the crypt was a tomb, and with it were the missing fragments of
  the epitaph of Cornelius.
+\end_layout
+
+\begin_layout Standard
+Some weeks later the young discoverer escorted the Pope 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p216
+\end_layout
+
+\end_inset
+
+to the historical grave, and pointing to the epitaph exclaimed: 
+\begin_inset Quotes eld
+\end_inset
+
+Sogni di un archeologo!
+\begin_inset Quotes erd
+\end_inset
+
+ To judge of the importance of the discovery we must remember that the identific
+ation of the crypts of Lucina, and that of all the surrounding catacombs,
+ depended mostly upon the identification of this one.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis
+\begin_inset Quotes erd
+\end_inset
+
+ says: 
+\begin_inset Quotes eld
+\end_inset
+
+The emperor Decius gave judgment in the case of Cornelius: that he should
+ be taken to the temple of Mars 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}extra muros}
+\end_layout
+
+\end_inset
+
+, and asked to perform an act of adoration: in case of a refusal that he
+ should be beheaded.
+ This was accordingly done, and Cornelius gave his life for his faith.
+ Lucina, a noble matron, assisted by members of the clergy, collected his
+ remains and buried them in a crypt on her own estate near the Cemetery
+ of Callixtus, on the Appian Way; and this happened on September 14 (
+\noun on
+a.d.
+
+\noun default
+ 253).
+\begin_inset Quotes erd
+\end_inset
+
+ As the Cemetery of Callixtus was the recognized burial-place of the bishops
+ of Rome, why was this exception made to the rule? The reason is evident:
+ the estate of Lucina contained the family vault of the Cornelii, or at
+ least of a branch of the Cornelian race.
+ The victim of the persecution of Decius was the first Pope of noble and
+ ancient lineage.
+ Apparently his relatives wished to emphasize this fact in the place selected
+ for his burial, and by proclaiming his illustrious descent on his gravestone
+ through the use of the old and simple language of the republic, — 
+\begin_inset Quotes eld
+\end_inset
+
+Cornelius Martyr.
+\begin_inset Quotes erd
+\end_inset
+
+ The use of Latin at this age constitutes another conspicuous exception
+ to the rule, because the Greek language was not only fashionable in the
+ third century, but had been adopted almost officially by the Church.
+ The majority of liturgical words, such as 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}hymn}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}psalm}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}liturgy}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}homily}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}catechism}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}baptism}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}eucharist}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}deacon}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}presbyter}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}pope}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}cemetery}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}diocese}
+\end_layout
+
+\end_inset
+
+, are of Greek origin, and the names of the Popes in the pontifical crypt
+ of this same cemetery 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p217
+\end_layout
+
+\end_inset
+
+are likewise, written in Greek letters even when they are strictly Roman,
+ as in the case of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}ΛΟΥΚΙΣ}
+\end_layout
+
+\end_inset
+
+ for 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{lvcivs}}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The crypt of Cornelius contains other historical records.
+ A metric inscription composed by Damasus and placed above the loculus says
+ to the pilgrim: 
+\begin_inset Quotes eld
+\end_inset
+
+Behold: a descent to the crypt has been built: darkness has been expelled:
+ you can behold the memorial of Cornelius and his resting-place.
+ The zeal of Damasus has enabled him, though careworn and ailing, to accomplish
+ the work and make your pilgrimage easier and more efficacious.
+ If you are prepared to pray to the Lord in purity of heart, entreat Him
+ to restore Damasus to health; not that he is fond of life, but because
+ the duties of his mission bind him still to this earth.
+\begin_inset Quotes erd
+\end_inset
+
+ These verses are, probably, the very last composed by the dying pontiff
+ († 384).
+ His work was finished by Siricius (
+\noun on
+a.d.
+
+\noun default
+ 384--397), as proved by a second inscription below the loculus: 
+\begin_inset Quotes eld
+\end_inset
+
+Siricius has completed the work and dressed the tomb of Cornelius in marble.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The paintings of the crypt, although they date from the Byzantine period,
+ are of historical interest.
+ On the right we see the images of Cornelius and Cyprian, bishop of Carthage.
+ Their intimate connection in life, their martyrdom on the same day of the
+ same month, made their memory inseparable.
+ The church commemorates them on the same 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}natale}
+\end_layout
+
+\end_inset
+
+ or anniversary, and their images stand side by side in this crypt.
+ The artist who painted them prophesied the future; he saw that the time
+ would come when, in their graves, the bodies of the two friends would be
+ united as their souls had been while they lived.
+ Their remains were removed to Compiègne in the reign of Charles the Bald,
+ those of Cornelius from Rome, those of Cyprian from Carthage, never to
+ part again.
+\end_layout
+
+\begin_layout Standard
+A circular pedestal, like a section of a column, stands 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p218
+\end_layout
+
+\end_inset
+
+against the wall under the images.
+ Such pedestals are not uncommon in the catacombs; and they were intended
+ to support a large flat bowl not unlike the holy-water basins of modern
+ churches.
+ Several specimens have been found 
+\emph on
+in situ
+\emph default
+, in the cemeteries of Saturninus, Alexander, Agnes, and Callixtus.
+ They are of the same make, cut in marble so delicately as to be translucent,
+ flat-bottomed, and very low.
+ For what were they used? We cannot think of 
+\begin_inset Quotes eld
+\end_inset
+
+holy water
+\begin_inset Quotes erd
+\end_inset
+
+ in the modern sense, because in those days the faithful were wont to purify
+ their hands, not in receptacles of stagnant water, but in springs or living
+ fountains.
+ It seems more in accordance with ancient rites to consider them as lamps,
+ filled with scented oil or nard, on the surface of which wicks, secured
+ to a piece of papyrus, floated like a 
+\emph on
+veilleuse
+\emph default
+, to guide the footsteps of pilgrims in the darkness.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-03_Crypt_Cornelius.jpg
+	width 2.53in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Crypt of Pope Cornelius
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A papyrus in the archive or treasury of the cathedral at Monza contains
+ a list of oils collected by John, abbot of Monza, in the cemeteries of
+ Rome, and offered by him to Theodolinda, Queen of the Lombards.
+ Special mention is made in the document of the oil from the tomb of S.
+ Cornelius; and de Rossi asserts that the fragments of a diaphanous oil-basin
+ found in the exploration of this crypt were soaked with an oleaginous substance.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+Roma sotterranea
+\emph default
+, i., p.
+ 283.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement i
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-04_Portrait Cornelius.png
+	width 1.46in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Portrait of Pope Cornelius; from a fresco near his grave.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One cannot help being impressed by the coexistence on this same road, and
+ within a mile of each other, of two family vaults of the Cornelii: one
+ in the aristocratic burial-grounds between the viae Appia and Latina, the
+ other in the subterranean haunts of a despised and persecuted race.
+ One need not be a deep thinker or a religious enthusiast to appreciate
+ that each is worthy of the other; and that the Cornelius of the third century
+ who chose to die the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p219
+\end_layout
+
+\end_inset
+
+death of a criminal rather than betray his conscience, is a worthy descendant
+ of the Scipios, the heroes of republican Rome.
+ Whenever I happen to pay a visit to the hypogaeum of the Cornelii Scipiones,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The hypogaeum, discovered in 1617, excavated and pillaged in 1780--81, has,
+ through my exertions, become national property, together with the Columbaria
+ of Hylas.
+\end_layout
+
+\end_inset
+
+ I try to finish my walk by way of that of their noble representative, the
+ victim of the persecution of Decius.
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+The Pontifical Crypt
+\noun default
+.
+ I have just mentioned the vault of the Popes as belonging to the same Cemetery
+ of Callixtus.
+ It was discovered in 1854.
+ Its approaches were inscribed with a great number of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}graffiti}
+\end_layout
+
+\end_inset
+
+, which marked the place as the most celebrated in the cemetery, if not
+ in the whole of underground Rome.
+ A pious hand had written near the entrance door: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{gervsale}}
+\end_layout
+
+\end_inset
+
+[
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{m}}
+\end_layout
+
+\end_inset
+
+] 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\backslash
+textsc{civitas et ornamentvm martyrvm dni}}
+\end_layout
+
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+This is the Jerusalem of the martyrs of the Lord.
+\begin_inset Quotes erd
+\end_inset
+
+ The débris which obstructed the chamber was removed as quickly as the narrownes
+s of the space would permit, and as it passed under the eyes of de Rossi,
+ he was able to detect the names of Anteros, Fabianus, Lucius, and Eutychianus
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Pope St.
+ Anterus 235--235; his relics are in S.
+ Silvestro in Capite, Rome.
+ Pope St.
+ Fabianus 236--250; his relics are in S.
+ Prassede, Rome.
+ Pope St.
+ Lucius I 253--254; his relics are in S.
+ Maria in Trastevere, Rome.
+ Pope St.
+ Euthychianus 275--283; his relics are in the cathedral of Sarzana near
+ La Spezia.
+\end_layout
+
+\end_inset
+
+ on the broken marbles.
+ There were, besides, one hundred and twenty-five fragments of a metric
+ inscription by Damasus, which gave the desired information, in the following
+ words:—
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here lie together in great numbers the holy bodies you are seeking.
+ These tombs contain their remains, but their 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p220
+\end_layout
+
+\end_inset
+
+souls are in the heavenly kingdom.
+ Here you see the companion of Sixtus waving the trophies of victory; there
+ the bishops [of Rome] who shielded the altar of Christ; the pontiff who
+ saw the first years of peace [Melchiades, 
+\noun on
+a.d.
+
+\noun default
+ 311--314]; the noble confessors who came to us from Greece [Hippolytus,
+ Hadrias, Maria, Neon, Paulina], and others.
+ I confess I wished most ardently to find my last resting place among these
+ saints, but I did not dare disturb their remains.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Callixtus (218--223), the founder of the cemetery, does not lie in it.
+ He perished in a popular outbreak, having been thrown from the windows
+ of his house into the square, the site of which corresponds with the modern
+ Piazza di Santa Maria in Trastevere, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}area Callisti}
+\end_layout
+
+\end_inset
+
+ of the fourth century.
+ The Christians recovered his body, and buried it in the nearest cemetery
+ at hand, — that of Calepodius by the Via Aurelia (between the Villa Pamfili
+ and the Casaletto di Pio V.).
  
 \end_layout
 

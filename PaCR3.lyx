@@ -3205,7 +3205,7 @@ The accompanying illustration, which was copied from an engraving of Ciampini,
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -3225,6 +3225,13 @@ status collapsed
 \begin_layout Plain Layout
 View of a section of the Nave of old S.
  Peter's (South Side).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Section_nave_old_SPeter"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3369,7 +3376,7 @@ Ancient Rome,
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
