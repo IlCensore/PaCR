@@ -4917,6 +4917,12 @@ color{Maroon}in muro post templum divi Augusti ad Minervam}
 The Temple of Isis and Serapis
 \noun default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "Temple-Isis-Serapis"
+
+\end_inset
+
  In the spring of 1883, in surveying the tract of ground between the Collegio
  Romano and the Baths of Agrippa, formerly occupied by the Temple of Isis
  and Serapis, and in collecting archaeological information concerning it,

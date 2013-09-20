@@ -15,7 +15,7 @@
 
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
 \makepagestyle{myheadings}
-  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}❧}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}\reflectbox{❧}}\ \textsc{Pagan and Christian Rome}}{}{}
   \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
   \makeevenfoot{myheadings}{}{}{}
   \makeoddfoot{myheadings}{}{}{}
@@ -360,7 +360,7 @@ ensibus
 )\SpecialChar \ldots{}
  etc.
  The heads were bare, and framed by a round halo.
- They seem to have been painted at the time of Pope Formosus (891‑896),
+ They seem to have been painted at the time of Pope Formosus (891--896),
  as were also the fresco-panels which appear in the above-mentioned drawing
  of Ciampini.
 \begin_inset ERT
@@ -532,7 +532,7 @@ the portraits are imaginary for the most part, but the artists have contrived
  and that they were familiar to everyone, even to school-children.
  These portraits have come down to us by scores.
  They are painted in the cubiculi of the catacombs, engraved in gold leaf
- in the so‑called 
+ in the so--called 
 \begin_inset ERT
 status open
 
@@ -1282,7 +1282,7 @@ status collapsed
 
 \lang british
 \begin_inset Graphics
-	filename 05-04_Portrait Cornelius.png
+	filename 05-04_Portrait_Cornelius.png
 	width 1.46in
 
 \end_inset
@@ -1502,6 +1502,1864 @@ color{Maroon}area Callisti}
  The Christians recovered his body, and buried it in the nearest cemetery
  at hand, — that of Calepodius by the Via Aurelia (between the Villa Pamfili
  and the Casaletto di Pio V.).
+\end_layout
+
+\begin_layout Standard
+Urban, his successor (223--230), opens the series in the episcopal crypt
+ of the Appian Way.
+ His name, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}ΟΥΡΒΑΝΟϹ Ε}
+\end_layout
+
+\end_inset
+
+[
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+textsc πίσκοπος}
+\end_layout
+
+\end_inset
+
+], has been read on a fragment of a marble sarcophagus.
+ Then follow Anteros (235--236), Fabianus (236--251), Lucius (252--253),
+ and Eutychianos (275--283), — in all, five bishops out of the eleven who
+ are known to have been buried in the crypt.
+\end_layout
+
+\begin_layout Standard
+In looking at these humble graves we cannot help comparing them with the
+ great mausolea of contemporary emperors.
+ A war was then raging between the builders of the catacombs and the occupants
+ of the imperial palace.
+ It was a duel between principles and power, between moral and material
+ strength.
+ In 296, bishop Gaius, one of the last victims of Diocletian's persecution,
+ was interred by the side of his predecessors in the crypt; in 313, only
+ seventeen years 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p221
+\end_layout
+
+\end_inset
+
+later, Sylvester took possession of the Lateran Palace, which had been offered
+ to him by Constantine.
+ Such is the history of Rome; such are the events which the study of her
+ ruins recalls to our memory.
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+The Tomb of Gregory the Great
+\noun default
+.
+ In the account of his life given in the 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis,
+\begin_inset Quotes erd
+\end_inset
+
+ i.312, two things especially attract our attention: the mission sent by
+ him to the British Isles, and his entombment in the 
+\begin_inset Quotes eld
+\end_inset
+
+Paradise
+\begin_inset Quotes erd
+\end_inset
+
+ of S.
+ Peter's.
+ Beginning with the latter, we are told that he died on March 12 of the
+ year 604, and that his remains were buried 
+\begin_inset Quotes eld
+\end_inset
+
+in the basilica of the blessed Peter, in front of the secretarium, in one
+ of the intercolumniations of the portico.
+\begin_inset Quotes erd
+\end_inset
+
+ This statement requires a few words of comment.
+\end_layout
+
+\begin_layout Standard
+We have seen how the bishops of the age of persecutions were buried in the
+ underground cemeteries, with a marked preference for those of the Via Appia
+ and the Via Salaria.
+ From the time of Sylvester (314--335) to that of Leo the Great (440--461)
+ they still sought the proximity of martyrs, and obeyed the rule which forbade
+ burial within the walls of the city.
+ Sylvester raised a modest mausoleum for himself and his successors over
+ the Cemetery of Priscilla, on the Via Salaria, the remains of which have
+ just been discovered.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+It contained the graves of Marcellus † 308, Sylvester † 385, Siricius †
+ 396, and Celestinus † 422.
+ 
+\end_layout
+
+\end_inset
+
+ Anastasius and Innocent I.
+ found their resting-place over the Cemetery of Pontianus, on the road to
+ Porto; Zosimus and Sixtus in the church of S.
+ Lorenzo; Boniface I.
+ in that of S.
+ Felicitas, on the Via Salaria.
+\end_layout
+
+\begin_layout Standard
+The Vatican began to be the official mausoleum of the Popes with Leo I.
+ in 461.
+ The place selected is not the interior of the church, but the vestibule,
+ and more exactly the space between the middle doorway (the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Porta}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p222
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}argentea}
+\end_layout
+
+\end_inset
+
+) and the southwest corner, occupied by the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}secretarium}
+\end_layout
+
+\end_inset
+
+, or sacristy, a hall of basilican shape in which the Popes donned their
+ official robes before entering the church.
+ The place can be easily identified by comparing the accompanying reproduction
+ of Ciampini's drawing with the plan published in chapter iii., p.
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "fig:Plan-of-oldSPeter"
+
+\end_inset
+
+.
+ For nearly two and a half centuries they were laid side by side, until
+ every inch of space was occupied, the graves being under the floor, and
+ marked by a plain slab inscribed with a few Latin distichs of semi-barbaric
+ style.
+ These short biographical poems have been transmitted to us, with a few
+ exceptions, by the pilgrims of the seventh and ninth centuries, whose copies
+ were collected in volumes, the most important of which is known as the
+ Codex of Lauresheim.
+ At the time of Gregory the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p223
+\end_layout
+
+\end_inset
+
+Great there was but a small space left near the secretarium.
+ This was occupied by Pelasgius I., Johannes III., Benedict II., and a few
+ others.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-05_Atrium_Old_SPeter.png
+	width 3.85in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Atrium of Old S.
+ Peter's.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sergius I.
+ (687--701) was the first who dared to cross the threshold of the church,
+ which he did, however, not for his own benefit, but to do honor to the
+ memory of Leo I.
+ The inscription in which he describes the event is too prolix to be given
+ here.
+ It tells us that the grave of Leo the Great was in vestibule below the
+ sacristy.
+ There he lay 
+\begin_inset Quotes eld
+\end_inset
+
+like the keeper of the temple, like a shepherd watching his flock.
+\begin_inset Quotes erd
+\end_inset
+
+ But other graves had crowded the placed so that it was almost impossible
+ to single them out, and read their epitaphs.
+ Sergius therefore ordered the body of his predecessor to be removed to
+ an oratory, or chapel, in the south transept of the church, and to be enclosed
+ in a beautiful monument which he adorned with costly marbles, and with
+ mosaics representing prophets and saints.
+ The monument was destroyed by Paul V on Saturday, May 26, 1607.
+\end_layout
+
+\begin_layout Standard
+The remains of Gregory the Great have also been moved several times.
+ His tombstone must have been worn by the feet of pilgrims, as only eighteen
+ letters out of many hundred have been preserved to our time.
+ These were discovered not many years ago, in a dark corner of the Grotte
+ Vaticane.
+ Two centuries after his death, his successor, Gregory IV.
+ (827--844), carried his remains inside the church, to an oratory near the
+ new sacristy, covered the tomb with panels of silver, and the back wall
+ with golden mosaics.
+ The body remained in this second place until the pontificate of Enea Silvio
+ Piccolomini, Pius II.
+ (1458--1464), who, having built a chapel to S.
+ Andrew the apostle, removed Gregory's coffin to the new altar.
+ The coffin is described as a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}conca aegyptiaca}
+\end_layout
+
+\end_inset
+
+, an ancient bathing-basin, of porphyry, which was protected by an iron
+ grating.
+ The chapel, the altar, and the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p224
+\end_layout
+
+\end_inset
+
+tomb were again sacrificed to the renovation of the church in the time of
+ Paul V.
+ On December 28, 1605, the porphyry urn was opened, and the body of the
+ great man transferred to a cypress case; on the eighth day of the following
+ January a procession, headed by the college of cardinals and the aristocracy,
+ accompanied the remains to their fourth and last resting-place, the Cappella
+ Clementina, built by Clement VIII.,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Clement VIII reigned from 30 Jan 1592 to 3 Mar 1605; he is buried in S.
+ Maria Maggiore.
+\end_layout
+
+\end_inset
+
+ near the entrance to the modern sacristy.
+ There are now two inscriptions: one on the marble lid, 
+\begin_inset Quotes eld
+\end_inset
+
+Here lies Saint Gregory the Great, first of his name, doctor of the church;
+\begin_inset Quotes erd
+\end_inset
+
+ the other on the cypress case, 
+\begin_inset Quotes eld
+\end_inset
+
+Evangelista Pallotta, cardinal of S.
+ Lorenzo in Lucina, dean of this church, collected in this case the remains
+ of Gregory the Great, and removed them from the altar of S.
+ Andrew to this new chapel.
+ Done by order of Paul V., in the first year of his pontificate, on Sunday,
+ January 8, 
+\noun on
+a.d.
+
+\noun default
+ 1606.
+\begin_inset Quotes erd
+\end_inset
+
+ The altar-piece was not painted by Muziano, as stated in old guide-books,
+ but by Andrea Sacchi.
+ The picture was removed to Paris, with many other masterpieces, at the
+ time of Napoleon I; but Canova obtained its restitution in 1815.
+ It is now preserved in the Vatican Gallery; the copy in mosaic is the joint
+ work of Alessandro Cocchi and Francesco Castellini.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement i
+overhang 0in
+width "50col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-06_Statue_GregoryI.png
+	width 2.23in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Statue of S.
+ Gregory the Great.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The history of the pontificate of Gregory has been written and will shortly
+ be published by my learned friend Professor H.
+ Grisar.
+ No better or greater subject could be found than this period when the city,
+ abandoned by the Byzantine emperors, harassed, besieged, starved by the
+ Lombards, found in her bishops her only chance of salvation.
+ They never appear to greater advantage than in those eventful times, when
+ Rome was sinking so low within, when her surroundings were changed into
+ a lifeless desert.
+ The queen who had ruled the world was trampled under 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p225
+\end_layout
+
+\end_inset
+
+the feet of her former slaves, and found assistance and sympathy nowhere.
+ When Alboin overran the peninsula in 568, at the head of his Lombards,
+ with whom warriors of several of the races, especially Saxons, were intermixed,
+ the emperor Justin could offer no other help to the Romans than the advice
+ of bribing the Lombard chiefs, or of calling in the Franks.
+ Barbarians for barbarians!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p226
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+On the death of Pope John III.
+ in 573, Rome was so closely pressed that it was impossible to send to Constanti
+nople for the confirmation of Benedict I., who had been elected his successor,
+ and the papal throne remained vacant for one year.
+ The same appears to have been the case on the death of Benedict, in 578,
+ when Rome was held in siege by Zoto, duke of Beneventum, for the Lombard
+ power had been distributed among thirty-six duchies.
+ The particulars of this siege are unknown, but it probably lasted two or
+ three years.
+ On withdrawing from Rome Zoto took and plundered the Benedictine convent
+ on Montecassino.
+ The monks retired to Rome and established themselves in a convent near
+ the Lateran, which they named after S.
+ John Baptist, whence the basilica of Constantine or the Savior subsequently
+ took its name.
+ \SpecialChar \ldots{}
+ The misery of the Romans was aggravated by some natural calamities.
+ Towards the end of 589, several temples and other monuments were destroyed
+ by the flooding of the Tiber, and the city was afterwards afflicted by
+ a devastating pestilence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+To the year 590, which is that of the election of Gregory, is referred the
+ legend of the angel that was seen to hover over the Mausoleum of Hadrian,
+ while Gregory was passing it in solemn procession, and to sheathe his flaming
+ sword as a sign that the pestilence was about to cease.
+ At the same time her angels were heard to sing the antiphony 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Regina Coeli}
+\end_layout
+
+\end_inset
+
+, to which Gregory replied with the hymn 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Ora pro nobis Deum alleluja}
+\end_layout
+
+\end_inset
+
+!
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Dyer: 
+\emph on
+History of Rome
+\emph default
+, p.
+ 344.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This graceful story is the invention of a later century, but it is worth
+ while to trace its origin.
+ It was customary in the Middle Ages to consecrate the summits of hills
+ and mountains to Michael, the archangel, from an association of ideas which
+ needs no explanation.
+ Similarly, in classical 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p227
+\end_layout
+
+\end_inset
+
+times, the Alpine passes had been placed under the protection of Jupiter
+ the Thunderer, and lofty peaks crowned with his temples.
+ Without citing the examples of Mont Saint Michel on the coast of Normandy,
+ or of Monte Gargano on the coast of Apulia, we need only look around the
+ neighborhood of Rome to find the figure of the angel wherever a solitary
+ hill or a commanding ruin suggested the idea or the sensation of height.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Deus in altis habitat}
+\end_layout
+
+\end_inset
+
+.
+ Here is the isolated cone of Castel Giubileo on the Via Salaria (a fortified
+ outpost of Fidenae); there the mountain of S.
+ Angelo above Nomentum, and the convent of S.
+ Michele on the peak of Corniculum.
+ The highest point within the walls of Rome, now occupied by the Villa Aurelia
+ (Heyland) was covered likewise by a church named S.
+ Angelo in Janiculo.
+ The two principal ruins in the valley of the Tiber — the Mausoleum of Augustus
+ and that of Hadrian — were also shaded by the angel's wings.
+ The shrine over the vault of the Julian emperors was called S.
+ Angelo de Augusto, while that built by Boniface IV.
+ (608--615) above Hadrian's tomb was called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}inter nubes}
+\end_layout
+
+\end_inset
+
+ (among the clouds), or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}inter caelos}
+\end_layout
+
+\end_inset
+
+ (in the heavens).
+ This shrine was replaced later by the figure of an angel.
+ During the pestilence of 1348 the statue was reported by thirty witnesses
+ to have bowed to the image of the Virgin which the panic-stricken people
+ were carrying from the church of Ara Coeli to S.
+ Peter's.
+ In 1378 the ungrateful crowd destroyed it in their attempt to storm the
+ castle.
+ Nicholas V.
+ (1447--1455) placed a new image on the top of the monument, which perished
+ in the explosion of the powder-magazine in 1497.
+ The shock was so violent that pieces of the statue were found beyond S.
+ Maria Maggiore, a distance of a mile and a half.
+ Alexander VI., Borgia, set up a statue for the third time, which was stolen
+ by the hordes of 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p228
+\end_layout
+
+\end_inset
+
+Charles V.
+ for the sake of its heavy gilding.
+ The marble effigy by Raffaele di Montelupo was placed on the vacant base,
+ and remained until Benedict XIV.
+ (1740--1758) set up a fifth and last figure, which was cast in bronze by
+ Wenschefeld.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-07_Angel_Hadrian.png
+	width 4.01in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Angel on the Mausoleum of Hadrian.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is remarkable that Gregory could think of the spiritual mission of the
+ church in times so troubled, when the last hour of Rome and the civilized
+ world seemed to have come.
+ He saw that neither the condition of the world nor that of the Church was
+ hopeless, and his ability, assisted by political circumstances, gave promise
+ of more prosperous times.
+ A great part of Europe accepted the Christian faith during his pontificate.
+ Theolinda, queen of the Lombards, after the death of her husband Autharic,
+ in 590, contributed greatly to the spreading of the gospel among her own
+ people.
+ The west Goths of Spain were converted through Reccared, their king.
+ We need not repeat here the well-known story of the manner in which Gregory's
+ sympathy for the Anglo-Saxon race was excited by seeing one of them in
+ the slave-market of Rome.
+ The mission to which he intrusted 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p229
+\end_layout
+
+\end_inset
+
+the conversion of the British Isles was composed of three holy men, Mellitus,
+ Augustin, and John, who were accompanied by other devout followers.
+ They left Rome in the spring of 596, but could not land on the shores of
+ England until the middle of the following year.
+ Mention of this fact is made in two documents only, — in the 
+\begin_inset Quotes eld
+\end_inset
+
+Liber Pontificalis,
+\begin_inset Quotes erd
+\end_inset
+
+ vol.
+ 
+\noun on
+i
+\noun default
+.
+ p.
+ 312, and in a writing by Prosper of Aquitaine in which the English nation
+ is called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}gens extremo oceano posita}
+\end_layout
+
+\end_inset
+
+ (a people living at the end of the ocean).
+\end_layout
+
+\begin_layout Standard
+Not less surprising in the career of this man is the institution of a school
+ for religious music.
+ It was established in one of the halls of the Lateran, and even the Carlovingia
+n kings obtained from it skilful maestri and organists.
+ It is still prosperous.
+ To Gregory we owe the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}canto fermo}
+\end_layout
+
+\end_inset
+
+, or Gregorian chant, which, if properly executed, imparts such a grave
+ and solemn character to the ceremonies of our church.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "60col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-08_Monastery_SGregory.png
+	width 2.69in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Modern façade of the Monastery of S.
+ Gregory on the Caelian.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gregory's paternal house stood on the slope of the Caelian, facing the place
+ of the Caesars, on a street named the Clivus Scauri, which corresponds
+ very nearly to the modern Via dei SS.
+ Giovanni e Paolo.
+ Fond as he was of monastic life, he extended hospitality to men of his
+ own sentiments and habit of thought; and transformed the old 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}lararium}
+\end_layout
+
+\end_inset
+
+ into a chapel of S.
+ Andrew.
+ The place, which was governed by the rule of S.
+ Benedict, became known as the 
+\begin_inset Quotes eld
+\end_inset
+
+Monastery of S.
+ Andrew in the street of Scaurus.
+\begin_inset Quotes erd
+\end_inset
+
+ The typical plan of Roman palace was not altered; the atrium, accessible
+ to the clients and guests of the monks,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Exactly as noted by Vitruvius in the layout of a classical Roman house.
+\end_layout
+
+\end_inset
+
+ is described as having in the centre a 
+\begin_inset Quotes eld
+\end_inset
+
+wonderful and most salubrious
+\begin_inset Quotes erd
+\end_inset
+
+ spring, no doubt the 
+\begin_inset Quotes eld
+\end_inset
+
+spring of Mercury
+\begin_inset Quotes erd
+\end_inset
+
+ of classical times.
+ It still exists, in a remote and hardly accessible corner of the garden,
+ but its waters are no longer held to be miracle-working, nor are they sought
+ by 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p230
+\end_layout
+
+\end_inset
+
+crowds of ailing pilgrims as formerly.
+ Time has brought other changes upon this cluster of buildings.
+ In 1633 cardinal Scipione Borghese completed its modernization by raising
+ the façade, which does so little honor to him and his architect, Giovanni
+ Soria.
+ But let us pause on the top of the staircase which leads to it, with our
+ faces towards the Palatine; there is no more impressive sight in the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p231
+\end_layout
+
+\end_inset
+
+whole of Rome.
+ Placed as we are between the Baths of Caracalla, the Circus Maximus, the
+ dwelling of the emperors, and the Coliseum, with the Via Triumphalis at
+ our feet, we can hardly realize the wonderful transformation of men and
+ things.
+ From the hill beyond us the generals who led the Roman armies to the conquest
+ of the world took their departure; from this modest monastery went a handful
+ of humble missionaries who were to preach the gospel and to bring civilization
+ into countries far beyond the boundary line of the Roman empire.
+ Of their success in the British Islands we have monumental evidence everywhere
+ in Rome.
+ Here in the vestibule of this very church is engraved the name of Sir Edward
+ Carne, one of the Commissioners sent by Henry VIII.
+ to obtain the opinion of foreign universities respecting his divorce from
+ Catherine of Aragon; and, not far from it, that of Robert Pecham, who died
+ in 1567, an exile for his faith, and left his substance to the poor.
+\end_layout
+
+\begin_layout Standard
+These, however, are comparatively recent memories.
+ In the vestibule of S.
+ Peter's, not far from the original grave of Gregory the Great, we should
+ have found that of a British king, reckoned among the saints in the old
+ martyrologies, who had come in grateful acknowledgment of the double civilizati
+on which his native island had received from pagan and Christian Rome.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See the 
+\emph on
+Anglo-Saxon Chronicle
+\emph default
+, edited by J.
+ A.
+ Giles, in Bohn's Antiquarian Library; and the excellent memoir of Domenico
+ Tesoroni, 
+\emph on
+King Ceadwalla's Tomb in the Ancient Basilica of S.
+ Peter
+\emph default
+ (Rome, Bertero, 1891), from which I quote almost verbatim.
+ 
+\end_layout
+
+\end_inset
+
+ Under the date of 688 the Anglo-Saxon Chronicle records: 
+\begin_inset Quotes eld
+\end_inset
+
+This year king Ceadwalla went to Rome and received baptism from Pope Sergius,
+ and he gave him the name of Peter, and in about seven days afterwards,
+ on the twelfth before the Kalends 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p232
+\end_layout
+
+\end_inset
+
+of May (April 20), while he was yet in his baptismal garments, he died,
+ and he was buried in S.
+ Peter's.
+\begin_inset Quotes erd
+\end_inset
+
+ The fair-haired convert, who had met with a solemn and enthusiastic reception
+ from Pope Sergius, the clergy, and the people, received after his death
+ the greatest honor that the Church and the Romans could offer him: he was
+ buried in the 
+\begin_inset Quotes eld
+\end_inset
+
+Popes' Corner,
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}porticus pontificum}
+\end_layout
+
+\end_inset
+
+, almost side by side with Gregory the Great.
+ The verses engraved on the tomb of the latter —
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Ad Christum Anglos convertit pietate magistra}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}Sic fidei acquirens agmina gente nova}
+\end_layout
+
+\end_inset
+
+,
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(by pious cares he converted the English to Christ, acquiring thereby for
+ the true faith multitudes of a new race)
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}agmina}
+\end_layout
+
+\end_inset
+
+ is a technical military term; 
+\emph on
+hosts
+\emph default
+ or even 
+\emph on
+armies
+\emph default
+, considering the period, would be a better translation.
+ 
+\end_layout
+
+\end_inset
+
+ — could not have found a more convincing witness to their truth than this
+ grave of Ceadwalla, because with his conversion, which was due to the preaching
+ of S.
+ Wilfrid, the Christian religion spread rapidly among the Saxons of the
+ West, and that part of the country with had most resisted the new faith
+ was forever secured to Christian civilization.
+ In fact Wessex became the most powerful member of the Heptarchy, till it
+ attained absolute dominion over the whole island.
+\end_layout
+
+\begin_layout Standard
+Ceadwalla's tomb, forgotten, and perhaps concealed by superstructures, was
+ brought to light again towards the end of the sixteenth century.
+ Giovanni de Deis, in a work published in 1588, says: 
+\begin_inset Quotes eld
+\end_inset
+
+The epitaph
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+De Rossi: 
+\emph on
+Inscriptiones christianae
+\emph default
+, ii.
+ p.
+ 288.
+ 
+\end_layout
+
+\end_inset
+
+ and the tomb on which it was engraved lay for a long time concealed from
+ the eyes of visitors, and only in later years it was discovered by the
+ masons engaged in rebuilding S.
+ Peter's.
+\begin_inset Quotes erd
+\end_inset
+
+ Not a fragment of the monument has come down to us, and such was the contempt
+ with which the learned men of the age looked upon these historical monuments,
+ that none 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p233
+\end_layout
+
+\end_inset
+
+of them condescended to give us the details of the discovery.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It is deeply to be regretted,
+\begin_inset Quotes erd
+\end_inset
+
+ says cardinal Mai, 
+\begin_inset Quotes eld
+\end_inset
+
+that such a notable trophy as the tomb of Ceadwalla, the royal catechumen,
+ which was erected and inscribed by Sergius I., disappeared from the Vatican,
+ and was irretrievably lost, owing to the calamities of the times, the avidity
+ of the workmen, and the negligence of the superintendents.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Ceadwalla's tomb,
+\begin_inset Quotes erd
+\end_inset
+
+ I quote from Tesoroni, 
+\begin_inset Quotes eld
+\end_inset
+
+was not the only monument of Anglo-Saxon interest to be seen in the old
+ S.
+ Pietro.
+ William of Malmesbury and other chroniclers mention two other kings, Offa
+ of Essex, and Coenred of Mercia, as having renounced their crowns and embraced
+ the monastic life in one of the Vatican cloisters.
+ They were also buried in the Paradise near the Popes' Corner.
+ It is doubtful whether king Ina, who succeeded Ceadwalla, and his queen,
+ Aethelburga, were buried in the same place, or in the Anglo-Saxon quarter
+ by the church of S.
+ Maria in Saxia, founded, probably, by Ina himself.
+ It is certain, however, that at a later time king Burrhed of Mercia was
+ entombed in the same quarter, and in the same church.
+ The place is still named from the Anglo-Saxons, S.
+ Spirito in Sassia.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The threshold of S.
+ Peter's once crossed, we hear no more of Popes being buried outside, in
+ the old atrium.
+ The second aisle on the left — that entered by the Gate of Judgment — was
+ intended to receive their mortal remains.
+ Hence its name of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}porticus pontificum}
+\end_layout
+
+\end_inset
+
+ (the aisle of the pontiffs).
+ On the day of his coronation the newly elected head of the church was asked
+ to cross this aisle on his way from the chapel of S.
+ Gregory to the high altar, that the sight of so many graves should impress
+ on his mind the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p234
+\end_layout
+
+\end_inset
+
+maxim, 
+\begin_inset Quotes eld
+\end_inset
+
+The glory of the world vanisheth like the flame of a handful of straw;
+\begin_inset Quotes erd
+\end_inset
+
+ and a handful of straw was actually burned before his eyes, while the dean
+ of the church addressed to him the words, 
+\begin_inset Quotes eld
+\end_inset
+
+My father, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}sic transit gloria mundi}
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+The Tomb of Benedict VII
+\noun default
+.
+ (974--983).
+ The basilica of S.
+ Croce in Gerusalemme contains but one tomb, that of Benedict VII., whose
+ career is described in a metric inscription of seventeen verses, inserted
+ in the wall of the nave on the right of the entrance.
+ I mention it because Gregorovius seems to have been unaware of its existence,
+ in spite of its historical value.10 It recalls to our mind one of the most
+ turbulent and riotous periods in the annals of Rome and the papacy, the
+ fight between the 
+\begin_inset Quotes eld
+\end_inset
+
+independents
+\begin_inset Quotes erd
+\end_inset
+
+ led by the Crescenzi, and the party of the Saxon emperors, represented
+ by Popes Benedict VI.
+ and VII.
+ The Crescenzio mentioned in the epitaph of Benedict VII.
+ was the son of John and Theodora, and one of the most active members of
+ a family which has thrice attempted to reëstablish the republic of ancient
+ Rome and shake off the yoke of German oppression.
+ This one is known as Crescentius de Theodora, from the name of his mother;
+ and also as Crescentius de Caballo, from his residence on the Quirinal,
+ near the colossal statues of Castor and Pollux, which have given to the
+ hill its modern name of Monte Cavallo.
+ The Castel S.
+ Angelo was the stronghold of the family.
+ Under the shelter of its massive ramparts they were able to dictate the
+ law to the Popes, and commit bloodshed and sacrilege with impunity.
+ In 928 Marozia and her second husband Guido, marquis of Tuscany, with 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p235
+\end_layout
+
+\end_inset
+
+their partisans, fell on Pope John X., who was staying in the Lateran Palace,
+ murdered his brother Pietro before his eyes, and dragged him through the
+ streets of Rome to the castle.
+ The unfortunate Pope lingered awhile in a dark dungeon, and was ultimately
+ killed by suffocation.
+ Marozia, perhaps to dispel the suspicions of a violent death, allowed him
+ to be buried with due honors near the middle door of the Lateran, at the
+ foot of the nave.
+ His grave-stone was seen and described by Johannes Diaconus, but has long
+ since disappeared.
+ In 974 Crescenzio, son of Theodora, committed another sacrilegious murder,
+ that of Benedict VI.
+ Helped by a deacon named Franco he confined him in the same dungeon of
+ Castel S.
+ Angelo, while Franco placed himself on the chair of S.
+ Peter, under the name of Boniface VII.
+ The legal Pope was soon after strangled.
+ Such crimes startled for a moment the apathy of the Romans, who besieged
+ and stormed the castle, deposed the usurper, and named in his place Benedict
+ VII., whose grave we are now visiting in S.
+ Croce in Gerusalemme.
+ Yet Crescenzio and Franco did not pay dearly for their crimes.
+ Franco, after plundering the Vatican basilica of its valuables, migrated
+ to Constantinople, a rich and free man.
+ Crescenzio died peacefully in the monastery of S.
+ Alessio on the Aventine in the year 984.
+ His tomb, the tomb of a murderer, whose hands had been stained with the
+ blood of a Pope, was allowed the honor of a laudatory inscription.
+ It can still be seen in the cloisters of the monastery: 
+\begin_inset Quotes eld
+\end_inset
+
+Here lies the body of Crescentius, the illustrious, the honorable citizen
+ of Rome, the great leader, the great descendant of a great family,
+\begin_inset Quotes erd
+\end_inset
+
+ etc.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Christ the Saviour of our souls made him infirm and an invalid, so that,
+ abandoning any further hope of worldly success, he entered this monastery,
+ and spent his last years in prayer and retirement.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p236
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All these events are alluded to in the epitaph of Benedict VII., in S.
+ Croce.
+ This church has been so thoroughly deprived of its charm and interest by
+ another Benedict (XIV., in the year 1744) that one cannot help paying attention
+ to the few objects which have survived the 
+\begin_inset Quotes eld
+\end_inset
+
+transformation,
+\begin_inset Quotes erd
+\end_inset
+
+ and equally to this humble stone hardly known to students.
+\end_layout
+
+\begin_layout Standard
+Should any of my readers care to arrange their researches in Rome systematically
+, and study its monuments group by group, according to chronological and
+ historical connections, they will find abundance of material in the period
+ in which the murders of John X.
+ and Benedict VI.
+ took place.
+ There is the tomb of Landolfo, brother of Crescenzio, at S.
+ Lorenzo fuori le Mura; that of Crescenzio at S.
+ Alessio; the house of Nicola di Crescenzio, near the Bocca della Verità,
+ a fascinating subject for a day's work.
+\end_layout
+
+\begin_layout Standard
+The church of S.
+ Croce has seen another strange death of a Pope, — that of Sylvester II.
+ (999--1003), a Frenchman, Gerbert by name.
+ A legend, related first by cardinal Benno in 1099, describes him as deep
+ in necromantic knowledge, which he had gathered during a journey through
+ the Hispano-Arabic provinces.
+ He is said to have carried in his travels a sort of diabolical oracle,
+ a brazen head which uttered prophetic answers.
+ After his election, in 999, he inquired how long he should remain in power;
+ the response was 
+\begin_inset Quotes eld
+\end_inset
+
+as long as he avoided saying mass in Jerusalem.
+\begin_inset Quotes erd
+\end_inset
+
+ The prophecy was soon fulfilled.
+ He expired in great agony on Quadragesima Sunday, 1003, while celebrating
+ mass in this church, the classic name of which he seems not to have known.
+ The legend asserts that his sins were pardoned by God, and that he was
+ given an honorable burial in the church of S.
+ John Lateran.
+ A mysterious influence, however, hung over his grave.
+ Whenever one of his 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p237
+\end_layout
+
+\end_inset
+
+was approaching the end of life, the bones of Sylvester would stir in their
+ vault, and the marble lid would be moistened with drops of water, as stated
+ in the epitaph, which is still visible in S.
+ John Lateran, against one of the pillars of the first right aisle.
+ It begins with the distich:—
+\end_layout
+
+\begin_layout Quotation
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+iste locvs mvndi Silvestri membra sepvlti
+\end_layout
+
+\begin_layout Quotation
+
+\noun on
+ventvro Domino conferet ad sonitvm.
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We are ready to forgive the originators of the legend about the rattling
+ of his bones; the verses are so bad that it is no wonder they were wrongly
+ understood.
+ Their author wanted to express the readiness of the deceased to appear
+ before the Lord at His coming; but, not being particularly successful in
+ the choice of his language, his simple-minded contemporaries, so inclined
+ towards the supernatural, saw in the words 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}venturo domino}
+\end_layout
+
+\end_inset
+
+ an allusion to the coming, not of the Sovereign Judge, but of the future
+ Pope; and they thought the expression 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}ad sonitum}
+\end_layout
+
+\end_inset
+
+ referred not to the trumpet of the last judgment, but to the rattling of
+ the bones whenever a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}dominus venturus}
+\end_layout
+
+\end_inset
+
+ might appear on the scene.
+\end_layout
+
+\begin_layout Standard
+This popular interpretation soon became official.
+ John the Deacon has accepted it blindly in his description of the Lateran.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+In the same aisle (the last on the left, near the Cappella Corsini) lies
+ Gerbert, archbishop of Reims, who took the name of Sylvester after his
+ election to the pontificate.
+ His tomb, although in a dry place, sends forth drops of water even in clear
+ and dry weather,
+\begin_inset Quotes erd
+\end_inset
+
+ etc.
+ The tomb was opened and destroyed in 1648.
+ Rasponi, an eye-witness, describes the event in his book 
+\begin_inset Quotes eld
+\end_inset
+
+De Basilica et Patriarchio Lateranensi
+\begin_inset Quotes erd
+\end_inset
+
+ (Rome, 1656, p.
+ 76): 
+\begin_inset Quotes eld
+\end_inset
+
+In the year 1648, while new foundations were being laid for the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p238
+\end_layout
+
+\end_inset
+
+left wing of the church, the corpse of Sylvester II.
+ was found in a marble sarcophagus, twelve feet
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+3.5m.
+\end_layout
+
+\end_inset
+
+ below the ground.
+ The body was well composed and dressed in state robes; the arms were crossed
+ on the breast; the head crowned with the tiara.
+ It fell into dust at the touch of our hands, while a pleasant odor filled
+ the air, owing to the rare substances in which it had been embalmed.
+ Nothing was saved but a silver cross and the signet ring.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 05-09_Cloister_SJohn.jpg
+	width 3.62in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+The cloisters of the Lateran, as now restored
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The church of S.
+ John Lateran has passed through the same vicissitudes as that of S.
+ Croce in Gerusalemme, but with less detriment.
+ Clement VIII.,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Clement VIII reigned from 30 Jan 1592 to 3 Mar 1605; he is buried in S.
+ Maria Maggiore.
+ Sixtus V reigned from 24 Apr 1585 to 27 Aug 1590; he is buried in S.
+ Maria Maggiore.
+ Innocent X reigned from 15 Sep 1644 to 7 Jan 1655; he is buried in S.
+ Agnese in Agone, in Rome.
+ Pius IX reigned from 16 Jun 1846 to 7 Feb 1878; he is buried in S.
+ Lorenzo fuori le Mura, just outside Aurelian Walls.
+ Leo XIII reigned from 20 Feb 1878 to 20 Jul 1903; he is buried in S.
+ John Lateran.
+ Benedict XIV reigned from 17 Aug 1740 to 3 May 1758; he is buried in S.
+ Peter's.
+\end_layout
+
+\end_inset
+
+ who reconstructed the transept; Sixtus V., who rebuilt the north portico;
+ Innocent X., Pius IX., and Leo XIII.
+ have all been more merciful than Benedict XIV.
+ At all events, if the sight of the church itself in its present state is
+ distasteful to the true lover of ancient and mediaeval Rome, nothing could
+ delight him more than the cloisters of Vassalectus which open at the south
+ end of the transept.
+ I speak of the building as well as of its contents.
+ The cloisters have just been restored to their original appearance by Leo
+ XIII.
+ and by his architect, conte Francesco Vespignani, and a museum of works
+ of art from the old basilica has been formed under its arcades.
+\end_layout
+
+\begin_layout Standard
+There are three or four details regarding it which deserve notice.
+ The design of this exquisite structure has been attributed, as usual, to
+ one of the Cosmatis; but it belongs to Pietro Vassalletto and his son.
+ In demolishing one of the clumsy buttresses, which were built two centuries
+ ago against the colonnade of the south side, count Vespignani discovered
+ (1887) the authentic signatures of both artists, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p239
+\end_layout
+
+\end_inset
+
+in the inscription which is here reproduced.
+ It is thus translated: 
+\begin_inset Quotes eld
+\end_inset
+
+I, Vassalectus, a noble and skilful master in my profession, have finished
+ alone this work which I began in company with my father.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Barbier de Montault: 
+\emph on
+Revue archéologique
+\emph default
+, xiv.
+ 244.
+ — Frothingham: 
+\emph on
+American Journal of Archaeology
+\emph default
+, 1891, p.
+ 44.
+ — De Rossi: 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1875, p.
+ 29; 1891, p.
+ 91.
+ — Stevenson: 
+\emph on
+Mostra di Roma, all'esposizione di Torino
+\emph default
+, 1884, p.
+ 174.
+ — Rohault de Fleury: 
+\emph on
+Le Latran au moyen âge
+\emph default
+ (planches 45, 46).
+ Paris, 1877.
+\end_layout
+
+\end_inset
+
+ Their school lasted for four generations, from 1153 to the middle of the
+ following century, and ranks next in importance to that of the Cosmatis.
+ Many of their productions are signed, as for example the episcopal chair
+ in the church of S.
+ Andrea at Anagni, dated 1263; a screen in the cathedral of Segni, dated
+ 1185; the candelabra in S.
+ Paolo fuori le Mura; the lion in the porch of SS.
+ Apostoli; the canopy in SS.
+ Cosma e Damiano, dated 1153; fragments of an inlaid screen in the studio
+ of the illustrious artist, Señor Villegas, etc.
+ We are in the habit of asserting that only the Renaissance masters studied
+ and were inspired by the antique; but the fascination of ancient art was
+ equally felt by their early precursors of the twelfth century.
+ The archway in the middle of the south side of these cloisters (opposite
+ the one represented in our illustration) rests on sphinxes, one of which
+ is 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p240
+\end_layout
+
+\end_inset
+
+bearded.
+ The human-headed monsters, wearing the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}claft}
+\end_layout
+
+\end_inset
+
+ or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}nemes}
+\end_layout
+
+\end_inset
+
+, images of Egyptian pharaohs, were obviously modelled in imitation of ancient
+ originals.
+ Nor is this the only case.
+ The gate of S.
+ Antonio on the Esquiline is also supported by crouching sphinxes (
+\noun on
+a.d.
+
+\noun default
+ 1269).
+ It has been suggested that such works were inspired by crusaders who had
+ seen the wonders of Egypt.
+ But if the reader remembers what I said about the Temple of Isis in the
+ Campus Martius, in chapter ii., p.
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "The-Temple-of-Neptune"
+
+\end_inset
+
+, he will at once perceive how the Vassalletti were able to draw their Egyptian
+ models from a much nearer source.
+ A fact mentioned by Winckelmann
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Storia delle arti
+\emph default
+, edizione Fea, vol.
+ II.
+ p.
+ 144.
+\end_layout
+
+\end_inset
+
+ proves that one of them owned and studied a statue of Aesculapius, in the
+ plinth of which he actually engraved his own name, [
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+V
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+]
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+assalectvs
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ The statue was seen by Winckelmann in the Verospi palace, but I have not
+ been able to ascertain its present location.
+ In these same cloisters are some delightful figures of saints, in high
+ relief, from an old ciborium.
+ One of them, representing S.
+ John the Baptist, is obviously modelled on the type of an Antinous, with
+ the same abundance of curly hair, the same profile and characteristic eyebrows.
+ In October, 1886, I actually saw a mediaeval stonecutter's shop, in which
+ the place of honor was given to a statue of Antinous.
+ The fact is so remarkable for an age in which statues were sought, not
+ as models, but as material for the limekiln, that I beg leave to describe
+ it.
  
 \end_layout
 

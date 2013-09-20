@@ -2051,6 +2051,13 @@ status open
 \noun on
 Plan of old S.
  Peter's, showing its relation to the Circus of Nero
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Plan-of-oldSPeter"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3205,7 +3212,7 @@ The accompanying illustration, which was copied from an engraving of Ciampini,
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
