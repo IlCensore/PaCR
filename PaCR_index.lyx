@@ -51,9 +51,10 @@
 \let\oldmarginpar\marginpar
 \renewcommand\marginpar[2][]{%
   \oldmarginpar{\mpjustification #2}}
+
 \frenchspacing
-\widowpenalties 2 10000 0
-\clubpenalty 10000
+\widowpenalties 2 100 0
+\clubpenalty 100
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -65,8 +66,8 @@ initials
 \inputencoding auto
 \fontencoding global
 \font_roman EB Garamond
-\font_sans OFL Sorts Mill Goudy
-\font_typewriter Linux Libertine O
+\font_sans EB Garamond
+\font_typewriter Quivira
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
