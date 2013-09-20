@@ -1873,11 +1873,10 @@ a.d.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Wrap figure
-lines 0
-placement i
-overhang 0in
-width "50col%"
+\begin_inset Float figure
+placement h
+wide false
+sideways false
 status collapsed
 
 \begin_layout Plain Layout
@@ -2490,7 +2489,18 @@ status open
 
 {
 \backslash
-color{Maroon}Ad Christum Anglos convertit pietate magistra}
+color{Maroon}
+\end_layout
+
+\end_inset
+
+Ad Christum Anglos convertit pietate magistra
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
 \end_inset
@@ -2506,7 +2516,18 @@ status open
 
 {
 \backslash
-color{Maroon}Sic fidei acquirens agmina gente nova}
+color{Maroon}
+\end_layout
+
+\end_inset
+
+Sic fidei acquirens agmina gente nova
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
 \end_inset
@@ -3133,6 +3154,44 @@ Clement VIII reigned from 30 Jan 1592 to 3 Mar 1605; he is buried in S.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement i
+overhang 0in
+width "40col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-10_Inscription_Vassalectus.png
+	width 1.55in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Inscription of Vassalectus.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 There are three or four details regarding it which deserve notice.
  The design of this exquisite structure has been attributed, as usual, to
  one of the Cosmatis; but it belongs to Pietro Vassalletto and his son.
@@ -3198,7 +3257,50 @@ Le Latran au moyen âge
 
 \end_inset
 
- Their school lasted for four generations, from 1153 to the middle of the
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0in
+width "40col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-11_Candelabrum_SPaolo.png
+	width 1.01in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Candelabrum in the Church of S.
+ Paolo fuori le Mura.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Their school lasted for four generations, from 1153 to the middle of the
  following century, and ranks next in importance to that of the Cosmatis.
  Many of their productions are signed, as for example the episcopal chair
  in the church of S.
@@ -3283,7 +3385,11 @@ status collapsed
 Storia delle arti
 \emph default
 , edizione Fea, vol.
- II.
+ 
+\noun on
+ii
+\noun default
+.
  p.
  144.
 \end_layout
@@ -3360,6 +3466,86 @@ status open
  The fact is so remarkable for an age in which statues were sought, not
  as models, but as material for the limekiln, that I beg leave to describe
  it.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement i
+overhang 0in
+width "40col%"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 05-12_Antinous_Banca_Nazionale.png
+	width 1.5in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+The Antinous of the Banca Nazionale.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A statue of Antinous, the favorite of Hadrian, deified after his death and
+ worshipped in the form of a Bacchus, was found standing against the rear
+ wall of the workshop.
+ It is cut in Greek marble, and the style of sculpture is excellent.
+ None of the prominent portions of the body have been separated from the
+ trunk, so that the only injuries wrought by time 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p242
+\end_layout
+
+\end_inset
+
+are slight, and confined to the nose and hands.
+ A patient study of this figure has enabled me to reconstruct its story.
+ First of all, we are sure that, from the knees down, the statue had been
+ immersed in a stream of water for a very long period, because the surface
+ of the marble is corroded and full of small holes, caused by the action
+ of running water.
+ It also bears visible traces of having been incrusted when taken out of
+ the stream.
+ These facts concur to prove that the Antinous, having been thrown into
+ the water, or having fallen in by accident, was found or bought after the
+ lapse of centuries, by our stonecutter.
+ An attempt was then made to clean the statue, and, with the intention of
+ preserving it as a work of art and a model, it was placed in the best room
+ of the workshop.
+ Both were buried for a second time, to be brought to light again in 1886.
+ The statue can now be seen in the vestibule of the Banca Nazionale.
+\end_layout
+
+\begin_layout Standard
+As representative specimens of later art and later glories I venture to
+ suggest the tombs of Innocent VIII.
+ (1484--1492) by Antonio Pollaiuolo, of Paul III.
+ (1524--1549) by Guglielmo della Porta, and of Clement XIII.
+ (1758--1769) by Antonio Canova.
  
 \end_layout
 
