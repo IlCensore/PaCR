@@ -1,0 +1,1419 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{4}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{fontspec}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}\reflectbox{❧}}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \chapnumfont \textsc{\chaptername\ \thechapter}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\parbox{0.5in}{}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+\widowpenalties 2 10000 0
+\clubpenalty 10000
+%\raggedbottom
+%\usepackage{indentfirst}
+\end_preamble
+\use_default_options true
+\master PaCR_index.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter DejaVu Sans
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.75cm
+\topmargin 2.45cm
+\rightmargin 7cm
+\bottommargin 3.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Pagan cemeteries
+\end_layout
+
+\begin_layout Chapterprecis
+
+\size small
+Various modes of burial in Rome.
+ — Inhumation and cremation.
+ — Gradual predominance of the latter.
+ — Columbaria.
+ — Inscription describing the organization of one of these, on the Via Latina.
+ — The extent of the pagan cemeteries outside of Rome, and the number of
+ graves they contained.
+ — Curiosities of the epitaphs.
+ — The excavations in the garden of La Farnesina.
+ — The Roman house discovered there.
+ — The tomb of Sulpicius Platorinus.
+ — Its interesting contents.
+ — The 
+\begin_inset Quotes eld
+\end_inset
+
+divine crows.
+\begin_inset Quotes erd
+\end_inset
+
+ — The cemetery in the Villa Pamfili.
+ — Tombs on the Via Triumphalis.
+ — That of Helius, the shoemaker.
+ — The tombs of the Via Salaria.
+ — That of the Licinii Calpurnii.
+ — The unhappy history of this family.
+ — The tomb of the precocious boy.
+ — Improvvisatori of later times.
+ — The tomb of Lucilia Polla and her brother.
+ — Its history.
+ — The Valle della Caffarella.
+ — Its associations with Herodes Atticus.
+ — His fortune and its origin.
+ — His monuments to his wife.
+ — The remarkable discovery of the corpse of a young woman, in 1485.
+ — Various contemporary accounts of it.
+ — Its ultimate fate.
+ — Discovery of a similar nature in 1889.
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+I
+\end_layout
+
+\end_inset
+
+nhumation
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ seems to have been more common than cremation in prehistoric Rome; enclosure,
+ certain families, to give material evidence of their ancient lineage, would
+ never submit to cremation.
+ Such were the Cornelii Scipiones, whose sarcophagi were discovered during
+ the last century in the Vigna Sassi.
+ Sulla is the first Cornelius whose body was burned; but this he ordered
+ done to avoid retaliation, that is to say, for fear of its being treated
+ as he had treated the corpse of Marius.
+ Both systems are mentioned in the law of the twelve tables: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+hominem mortuum in urbe ne sepelito
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p254
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+neve urito
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, a statement which shows that each had an equal number of partisans, at
+ the time of the promulgation of the law.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This theory is confirmed by the discoveries in the prehistoric cemeteries
+ of the Viminal and Esquiline hills, which contain coffins as well as cineraria,
+ or ash-urns.
+ The discoveries have been published only in a fragmentary way, so that
+ we cannot yet follow their development stage by stage, and determine at
+ what periods and within what limits the influence of more civilized neighbors
+ was felt by the primitive dwellers upon the Seven Hills.
+ One thing is certain; the race that first colonized the Campagna was buried
+ in trunks of trees, hollowed inside and cut to measure, as is the custom
+ among some Indian tribes of the present day.
+ In March, 1889, the engineers who were attending to the drainage of the
+ Lago di Castiglione — the ancient Regillus — discovered a trunk of quercus
+ robur, sawn lengthways into two halves, with a human skeleton inside, and
+ fragments of objects in amber and ivory lying in it.
+ The coffin, roughly cut and shaped, was buried at a depth of fourteen feet,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+4.5m.
+\end_layout
+
+\end_inset
+
+ in a trench a trifle longer and larger than itself, and the space between
+ the coffin and the sides of the trench was filled with archaic pottery,
+ of the type found in our own Roman necropolis of the Via dello Statuto.
+ There were also specimens of imported pottery, and a bronze cup.
+ The tomb and its contents are now exhibited in the Villa di Papa Giulio,
+ outside the Porta del Popolo.
+\end_layout
+
+\begin_layout Standard
+When Rome was founded, this semi-barbaric fashion of burial was by no means
+ forgotten or abandoned by its inhabitants.
+ We have not yet discovered coffins actually dug out of a tree, but we have
+ found rude imitations of them in clay.
+ These belong to the interval of time between the foundation of the city
+ and the fortifications of Servius 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p255
+\end_layout
+
+\end_inset
+
+Tullius, having been found at the considerable depth of forty-two feet
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+13m.
+\end_layout
+
+\end_inset
+
+ below the embankment of the Servian wall, in the Vigna Spithoever.
+ They are now exhibited in the Capitoline Museum (Palazzo dei Conservatori),
+ together with the skeletons, pottery, and bronze 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+suppellex
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ they contained.
+\end_layout
+
+\begin_layout Standard
+Nearly every type of tomb known in Etruria, Magna Graecia, and the prehistoric
+ Italic stations has a representative in the old cemeteries of the Viminal
+ and the Esquiline.
+ There are caves hewn out of the natural rock, with the entrance sealed
+ by a block of the same material; in these are skeletons lying on the funeral
+ beds on either side of the cave, or even on the floor between them, with
+ the feet turned towards the door, and Italo-Greek pottery, together with
+ objects in bronze, amber, and gold.
+ There are also artificial caves, formed by horizontal courses of stones
+ which project one beyond another, from both sides, till they meet at the
+ top.
+ Then there are bodies protected by a circle of uncut stones; others lying
+ at the bottom of wells, and finally regular sarcophagi in the shape of
+ square huts, and cineraria like those described on page 29 of my 
+\begin_inset Quotes eld
+\end_inset
+
+Ancient Rome.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Comparing these data we reach the conclusion that inhumation was abandoned,
+ with a few exceptions, towards the end of the fifth century of Rome, to
+ be resumed only towards the middle of the second century after Christ,
+ under the influence of Eastern doctrines and customs.
+ For the student of Roman archaeology these facts have not merely a speculative
+ interest; a knowledge of them is necessary for the chronological classification
+ of the material found in cemeteries and represented so abundantly in public
+ and private collections.
+\end_layout
+
+\begin_layout Standard
+The acceptance of cremation as a national, exclusive system brought as a
+ consequence the institution of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ustrina
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p256
+\end_layout
+
+\end_inset
+
+the sacred enclosures in which pyres were built to convert the corpses into
+ ashes.
+ Several specimens of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ustrina
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ have been found near the city, and one of them is still to be seen in good
+ preservation.
+ It is built in the shape of a military camp, on the right of the Appian
+ Way, five and a half miles
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+8.2km.
+\end_layout
+
+\end_inset
+
+ from the gate.
+ When Fabretti first saw it in 1699, it was intact, save a breach or gap
+ on the north side.
+ He describes it as a rectangle three hundred and forty feet long, and two
+ hundred feet wide, enclosed by a wall thirteen feet high.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+104m long, and 61m wide, enclosed by a wall 4m high.
+\end_layout
+
+\end_inset
+
+ Its masonry is irregular both in the shape and size of the blocks stone,
+ and may well be assigned to the fifth century of Rome, when the necessity
+ for popular 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ustrina
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ was first felt.
+ When Nibby and Gell visited the spot in 1822 they found that the noble
+ owner of the farm had just destroyed the western side and a portion of
+ the eastern, to build with their materials a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+maceria
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, or dry wall.
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ustrina
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ which were connected with the Mausoleum of Augustus and the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ara
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ of the Antonines have already been described in chapter iv.
+ Another institution, that of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+columbaria
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ossaria
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, as they would more properly be called, owes its origin to the same cause.
+ Columbaria are a specialty of Rome and the Campagna, and are found nowhere
+ else, not even in the colonies or settlements originating directly from
+ the city.
+ They begin to appear some twenty years before Christ, under the rule of
+ Augustus and the premiership of Maecenas.
+ Inasmuch as the Campus Esquilinus, which, up to their time, had been used
+ for the burial of artisans, laborers, servants, slaves, and freedmen, was
+ suppressed in consequence of the sanitary reforms described by Horace,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter iii., p.
+ 67, of 
+\emph on
+Ancient Rome
+\emph default
+.
+\end_layout
+
+\end_inset
+
+ and was buried under an embankment of pure earth, and converted into a
+ public park; as, moreover, the disappearance of the said cemetery was followed
+ closely 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p257
+\end_layout
+
+\end_inset
+
+by the appearance of columbaria, I believe one fact to be a consequence
+ of the other, and both to be a part of the same hygienic reform.
+ No cleaner, healthier, or more respectable substitute for the old 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+puticoli
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ could have been contrived by those enlightened statesmen.
+ Any one, no matter how low in social position, could secure a decent place
+ of rest for a paltry sum of money.
+ The following inscription, still to be seen in the columbarium discovered
+ in 1838, in the Villa Pamfili, — 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 06-01_VillaPamfili_Inscription.png
+	width 2.37in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+has been interpreted by Hülsen to mean that Paciaecus Isargyros had sold
+ to Pinaria Murtinis a place for one 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+as
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ Tombstones often mention transactions of this kind, and state the cost
+ of purchase for one or more loculi, or for the whole tomb.
+ Friedländer, in a Königsberg Programm for October, 1881,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+De titulis in quibus monumentorum sepulcralium indicatae sunt
+\emph default
+.
+\end_layout
+
+\end_inset
+
+ has collected thirty-eight documents concerning the cost of tombs; they
+ vary from a minimum of two hundred sestertii ($8.25) to a maximum of one
+ hundred and ninety-two thousand ($8,000).
+\end_layout
+
+\begin_layout Standard
+There were three kinds of columbaria: first, those built by one man or one
+ family either for their own private use, or for their servants and freedmen;
+ second, those built by one or more individuals for speculation, in which
+ any one could secure a place by purchase; third, those built by a company
+ for the personal use of shareholders and contributors.
+\end_layout
+
+\begin_layout Standard
+As a good specimen of the columbaria of the second kind we can cite one
+ built on the Via Latina, by a company 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p258
+\end_layout
+
+\end_inset
+
+of thirty-six shareholders.
+ It was discovered in 1599, not far from the gate, and its records were
+ scattered all over the city.
+ As a proof of the negligence with which excavations were conducted in former
+ times, we may state that, the same place having been searched again in
+ 1854 by a man named Luigi Arduini, other inscriptions of great value were
+ discovered, from which we learn how these burial companies were organized
+ and operated.
+ The first document, a marble inscription above the door of the crypt, states
+ that in the year 6 
+\noun on
+b.c.
+
+\noun default
+ thirty-six citizens formed a company for the building of a columbarium,
+ each subscribing for an equal number of shares, and that they selected
+ two of the shareholders to act as administrators.
+ Their names are Marcus Aemilius, and Marcus Fabius Felix, and their official
+ title is, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+curatores aedificii xxxvi.
+ sociorum
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ They collected the contributions, bought the land, built the columbarium,
+ approved and paid the contractors' bills, and having thus fulfilled their
+ duty convened a general meeting for September 30.
+ Their report was approved, and a deed was drawn up and duly signed by all
+ present, declaring that the administrators had discharged their duty according
+ to the statue.
+ They then proceeded to the distribution of the loculi in equal lots, the
+ loculi representing, as it were, the dividend of the company.
+ The tomb contained one hundred and eighty loculi for cinerary urns, and
+ each of the shareholders was consequently entitled to five.
+ The distribution, however, was not so easy a matter as the number would
+ make it appear.
+ We know that it was made by drawing lots, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+per sortitionem ollarum
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, and we know also that in some cases the shareholders, as a remuneration
+ to their chairmen, administrators, and auditors of accounts, voted them
+ exemption from the rule, by giving them the right of selecting their loculi
+ without drawing (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+sine sorte
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+).
+ Evidently some places 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p259
+\end_layout
+
+\end_inset
+
+were more desirable than others, and if we remember how columbaria are built,
+ it is not difficult to see which loculi must have been most in demand.
+\end_layout
+
+\begin_layout Standard
+The pious devotion of the Romans towards the dead caused them to pay frequent
+ visits to their tombs, especially on anniversaries, when the urns were
+ decorated with flowers, libations were offered, and other ceremonies performed.
+ These 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+inferiae
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, or rites, could be celebrated easily if the loculus and the cinerary urn
+ were near the ground, while ladders were required to reach the upper tiers.
+ The same difficulty was experienced when cinerary urns had to be placed
+ in their niches; and the funeral tablets and memorials containing the name,
+ age, condition, etc., of the deceased, which were either written in ink
+ or charcoal, or else engraved on marble, could not be read if too high
+ above the pavement.
+ For these reasons, and to avoid any suspicion of partiality in the distribution
+ of lots, the shareholders trusted to chance.
+ The crypt discovered in the Via Latina contained five rows of niches of
+ thirty-six each.
+ The rows were called 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+sortes
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, the niches 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+loci
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ Now, as each shareholder was entitled to five 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+loci
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, one on each row, lots were drawn only in regard to the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+locus
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, not to the row.
+ The inscriptions discovered in 1599 and 1854 are therefore all worded with
+ the formula: 
+\begin_inset Quotes eld
+\end_inset
+
+Of Caius Rabirius Aeschinus, fourth tier, twenty-eighth locus;
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Of Lucius Scribonius Sosus, fourth tier, twenty-third locus:
+\begin_inset Quotes erd
+\end_inset
+
+ — in all, nine names out of thirty-six.
+ The allotment of Rabirius Faustus is the only one known entirely.
+ He had drawn No.
+ 30 in the first row, No.
+ 28 in the second, No.
+ 6 in the third, No.
+ 8 in the fourth, No.
+ 31 in the fifth.
+\end_layout
+
+\begin_layout Standard
+It took at least thirty-one years for the members of the company to gain
+ the full benefit of their investment; the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p260
+\end_layout
+
+\end_inset
+
+last interment mentioned in the tablets having taken place 
+\noun on
+a.d.
+
+\noun default
+ 25.
+ This late comer is not an obscure man; he is the famous charioteer, or
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+auriga circensis, Scirtus
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, who began his career 
+\noun on
+a.d.
+
+\noun default
+ 13, enlisting in the white squadron.
+ In the lapse of thirteen years he won the first prize seven times, the
+ second thirty-nine times, the third forty times, besides other honors minutely
+ specified on his tombstone.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Luigi Grifi: 
+\emph on
+Sopra la iscrizione antica dell'auriga Scirto
+\emph default
+, in the 
+\emph on
+Accademia archeologica
+\emph default
+, 1854, v.
+ xiii.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename 06-02_Columbarium.jpg
+	width 2.88in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Interior of a columbarium in the Vigna Codini
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The theory that Roman tombs were built along the high roads in two or three
+ rows only, so that they could all be seen by those passing, has been shown
+ by modern excavations to be unfounded.
+ The space allotted for burial purposes was more extensive than that.
+ Sometimes it extended over the whole stretch of land from one high-road
+ to the next.
+ Such is the case with the spaces between the Via Appia and the Via Latina,
+ the Labicana and Praenestina, and the Salaria and Nomentana, each of which
+ contains hundreds of acres densely packed with tombs.
+ In the triangle formed by the Via Appia, the Via Latina, and walls of Aurelian,
+ one thousand five hundred and fifty-nine tombs have been discovered in
+ modern times, not including the family vault of the Scipios.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See the 
+\emph on
+Corpus Inscriptionum Latinarum
+\emph default
+, vol.
+ 
+\noun on
+vi
+\noun default
+., part 2, nos.
+ 4327--5886.
+\end_layout
+
+\end_inset
+
+ Nine hundred and ninety-four have been found on the Via Labicana, near
+ the Porta Maggiore, in a space sixty yards long by fifty wide.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+54m long by 45m wide.
+\end_layout
+
+\end_inset
+
+ The number of pagan tombstones registered in volume vi.
+ of the 
+\begin_inset Quotes eld
+\end_inset
+
+Corpus
+\begin_inset Quotes erd
+\end_inset
+
+ is 28,180, exclusive of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+additamenta
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, which will bring the grand total to thirty thousand.
+ As hardly one tombstone out of ten has escaped destruction, we may assume
+ as a certainty that Rome was surrounded by a belt of at least three hundred
+ thousand tombs.
+\end_layout
+
+\begin_layout Standard
+The reader may easily imagine what a mass of information 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+p261
+\end_layout
+
+\end_inset
+
+is to be gathered from this source.
+ In this respect, the perusal of parts 
+\noun on
+ii
+\noun default
+., 
+\noun on
+iii
+\noun default
+., and 
+\noun on
+iv
+\noun default
+.
+ of the sixth volume of the 
+\begin_inset Quotes eld
+\end_inset
+
+Corpus
+\begin_inset Quotes erd
+\end_inset
+
+ is more useful to the student than all the handbooks and 
+\begin_inset Quotes eld
+\end_inset
+
+Sittengeschichten
+\begin_inset Quotes erd
+\end_inset
+
+ in the world; and besides, the reading is not dry and tiresome, as one
+ might suppose.
+ Many epitaphs give an account of the life of the deceased; of his rank
+ in the army, and the campaigns in which he fought; of the name of the man-of‑wa
+r to which he belonged, if he had served in the navy; of the branch of trade
+ he was engaged in; the address of his place of business; his success in
+ the equestrian or senatorial career, or in the circus or the theatre; his
+ 
+\begin_inset Quotes eld
+\end_inset
+
+état civil,
+\begin_inset Quotes erd
+\end_inset
+
+ his age, place of birth, and so on.
+ Sometimes tombstones display a remarkable eloquence, and even a sense of
+ humor.
+\end_layout
+
+\begin_layout Standard
+Here is an expression of overpowering grief, written on a sarcophagus between
+ the images of a boy and a girl: 
+\begin_inset Quotes eld
+\end_inset
+
+O cruel, impious mother that I am: to the memory of my sweetest children,
+ Publilius who lived 13 years 55 days, and Aeria Theodora who lived 27 years
+ 12 days.
+ Oh, miserable mother, who hast seen the most cruel end of they children!
+ If God had been merciful, thou hadst been buried by them.
+\begin_inset Quotes erd
+\end_inset
+
+ Another woman writes on the urn of her son Marius Exoriens: 
+\begin_inset Quotes eld
+\end_inset
+
+The preposterous laws of death have torn him from my arms! As I have the
+ advantage of years, so ought death to have reaped me first.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The following words were dictated by a young widow for the grave of her
+ departed companion: 
+\begin_inset Quotes eld
+\end_inset
+
+To the adorable, blessed soul of L.
+ Sempronius Firmus.
+ We knew, we loved each other from childhood: married, an impious hand separated
+ us at once.
+ Oh, infernal Gods, do be kind and merciful to him, and let him appear to
+ me in the silent hours of the night.
+ And also let me share his fate, that we may be reunited 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+dulcius et celerius
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Quotes erd
+\end_inset
+
+ I have left the two adverbs 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p262
+\end_layout
+
+\end_inset
+
+in their original form; their exquisite feeling defies translation.
+\end_layout
+
+\begin_layout Standard
+The following sentence is copied from the grave of a freedman: 
+\begin_inset Quotes eld
+\end_inset
+
+Erected to the memory of Memmius Clarus by his co-servant Memmius Urbanus.
+ I know that there never was the shade of a disagreement between thee and
+ me: never a cloud passed over our common happiness.
+ I swear to the gods of Heaven and Hell, that we worked faithfully and lovingly
+ together, that we were set free from servitude on the same day and in the
+ same house: nothing would every have separated us, except this fatal hour.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
