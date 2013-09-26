@@ -67,7 +67,7 @@ initials
 \fontencoding global
 \font_roman EB Garamond
 \font_sans EB Garamond
-\font_typewriter Quivira
+\font_typewriter DejaVu Serif
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
