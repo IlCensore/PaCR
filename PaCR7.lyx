@@ -1,0 +1,892 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass memoir
+\begin_preamble
+\setcounter{chapter}{6}
+
+\usepackage{fmtcount}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor} %per il titolo in rosso
+\usepackage{changepage} %per cambiare la dimensione del paragrafo
+\usepackage{fontspec}
+\usepackage{microtype}
+
+\renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
+\makepagestyle{myheadings}
+  \makeevenhead{myheadings}{\thepage\ {\color{Maroon}\reflectbox{❧}}\ \textsc{Pagan and Christian Rome}}{}{}
+  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
+  \makeevenfoot{myheadings}{}{}{}
+  \makeoddfoot{myheadings}{}{}{}
+
+\makechapterstyle{hpmor}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\chapnumfont}{\normalfont}
+  \renewcommand*{\printchaptername}{%
+     \chapnumfont \textsc{\chaptername\ \thechapter}}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{%
+    \par\parbox{0.5in}{}\par}
+  \renewcommand*{\printchapternonum}{%
+    \vphantom{\chapnumfont \@chapapp 1}\par
+    \parbox{0.5in}{}\par}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\sffamily}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \chaptitlefont\textsc{##1}}}
+  \renewcommand*{\afterchaptertitle}{\par\vspace\par}
+\chapterstyle{hpmor}
+
+\setlength{\emergencystretch}{3em} %per alcuni problemi di hyphenation
+
+\frenchspacing
+\widowpenalties 2 10000 0
+\clubpenalty 10000
+%\raggedbottom
+%\usepackage{indentfirst}
+\end_preamble
+\use_default_options true
+\master PaCR_index.lyx
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman EB Garamond
+\font_sans OFL Sorts Mill Goudy
+\font_typewriter DejaVu Sans
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 1.75cm
+\topmargin 2.45cm
+\rightmargin 6cm
+\bottommargin 3.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle myheadings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Christian cemeteries
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Principal authorities: — Philip de Winghe: 
+\emph on
+Cod.
+ biblioth.
+ Bruxell.
+
+\emph default
+ 17872.
+ — Panvinius: 
+\emph on
+De Caemeteriis Urbis Romae
+\emph default
+.
+ Rome, 1568.
+ — Antonio Bosio: 
+\emph on
+Roma sotterranea
+\emph default
+; opera postuma.
+ Roma, 1632‑34.
+ — Paolo Aringhi: 
+\emph on
+Roma subterranea novissima
+\emph default
+.
+ Roma, 1651 fol.
+ Cologne, 1659 fol.
+ — M.
+ A.
+ Boldetti: 
+\emph on
+Osservazioni sopra i cimiteri de' SS.
+ martiri
+\emph default
+.
+ Roma, Salvioni, 1720.
+ — Giovanni Bottari: 
+\emph on
+Sculture e pitture estratte dai cimiteri di Roma
+\emph default
+.
+ 3 vol.
+ Roma, 1737‑54.
+ — Filippo Buonarroti: 
+\emph on
+Vasi antichi di vetro ornati di figure
+\emph default
+, etc.
+ Firenze, 1716, 4.
+ — Raoul Rochette: 
+\emph on
+Le catacombe di Roma
+\emph default
+.
+ Milano, 1841.
+ — Giuseppe Marchi: 
+\emph on
+Monumenti delle arti cristiane primitive
+\emph default
+.
+ Roma, Puccinelli, 1844.
+ — Raffaele Garrucci: 
+\emph on
+Storia dell'arte cristiana
+\emph default
+.
+ Roma: 6 vol.
+ fol.; 
+\emph on
+Vetri ornati di figure in oro, trovati nei cimiteri dei Cristiani
+\emph default
+.
+ Rome, Salviucci, 1858.
+ — Louis Perret: 
+\emph on
+Les catacombes de Rome
+\emph default
+, etc.
+ 6 vol.
+ fol.
+ Paris, 1852‑1856.
+ — De Rossi: 
+\emph on
+Roma sotterranea cristiana
+\emph default
+.
+ 3 vol.
+ fol.
+ Roma, Salviucci, 1864; 
+\emph on
+Inscriptiones Christianae Urbis Romae
+\emph default
+.
+ 2 vol.
+ fol.
+ Rome, 1861‑1887; 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+.
+ Roma, Salviucci, 1863‑1901.
+ — Northcote and Brownlow: 
+\emph on
+Roma sotterranea
+\emph default
+.
+ 2 volumes 8vo, 2d ed.
+ London, Longmans, 1878.
+ — Northcote: 
+\emph on
+Epitaphs of the Catacombs
+\emph default
+.
+ London, Longmans, 1878.
+ — Henry Parker: 
+\emph on
+The Catacombs of Rome
+\emph default
+.
+ Oxford, Parker, 1877.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapterprecis
+
+\size small
+Sanctity of tombs guaranteed to all creeds alike.
+ — The Christians' preference for underground cemeteries not due to fear
+ at first.
+ — Origin and cause of the first persecutions.
+ — The attitude of Trajan towards the Christians, and its results.
+ — The persecution of Diocletian.
+ — The history of the early Christians illustrated by their graves.
+ — The tombs of the first century.
+ — The catacombs.
+ — How they were named.
+ — The security they offered against attack.
+ — Their enormous extent.
+ — Their gradual abandonment in the fourth century.
+ — Open-air cemeteries developed in proportion.
+ — The Goths in Rome.
+ — Their pillage of the catacombs.
+ — Thereafter burial within the city walls became common.
+ — The translation of the bodies of martyrs.
+ — Pilgrims and their itineraries.
+ — The catacombs neglected from the ninth to the sixteenth century.
+ — Their discovery in 1578.
+ — Their wanton treatment by scholars of that time.
+ — Artistic treasures found in them.
+ — The catacombs of Generosa.
+ — The story of Simplicius, Faustinus and Viatrix.
+ — The cemetery of Domitilla.
+ — The Christian Flavii buried there.
+ — The basilica of Nereus, Achilleus and Petronilla.
+ — The tomb of Ampliatus.
+ — Was this S.
+ Paul's friend? — The cemetery 
+\begin_inset Quotes eld
+\end_inset
+
+ad catacumbas.
+\begin_inset Quotes erd
+\end_inset
+
+ — The translation of the bodies of SS.
+ Peter and Paul.
+ — The types of the Saviour in early art.
+ — The cemetery of Cyriaca.
+ — Discoveries made there.
+ — Inscriptions and works of art.
+ — The cemetery 
+\begin_inset Quotes eld
+\end_inset
+
+ad duas Lauros.
+\begin_inset Quotes erd
+\end_inset
+
+ — Frescoes in it.
+ — The symbolic supper.
+ — The discoveries of Monsignor Wilpert.
+ — The Academy of Pomponio Leto.
+ 
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ Roman law which established the inviolability of tombs did not make exceptions
+ either of persons or creeds.
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p307
+\end_layout
+
+\end_inset
+
+Whether the deceased had been pious or impious, a worshipper of Roman or
+ foreign gods, or a follower of Eastern or barbaric religions, his burial-place
+ was considered by law a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+locus religiosus
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, as inviolable as a temple.
+ In this respect there was no distinction between Christians, pagans, and
+ Jews; all enjoyed the same privileges, and were subject to the same rules.
+ It is not easy to decide whether this condition of things was an advantage
+ to the faithful.
+ It was certainly advantageous to the Church that her cemeteries should
+ be considered sacred by the law, and that the State itself should enforce
+ and guarantee the observance of the rules (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+lex monumenti
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+) made by the deceased in connection with his interment, and tomb; but as
+ the police of cemeteries, and the enforcement of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+leges monumentorum
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, was intrusted to the college of high priests, who were stern champions
+ of paganism, the church was liable to be embarrassed in many ways.
+ When, for instance, a body had to be transferred from its temporary repository
+ to the tomb, it was necessary to obtain the consent of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+pontifices
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+; which was also required in case of subsequent removals, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p308
+\end_layout
+
+\end_inset
+
+and even of simple repairs to the building.
+ Roman epitaphs constantly refer to this authority of the pontiffs, and
+ one of them, discovered by Ficoroni in July, 1730, near the Porta Metronia,
+ contains the correspondence exchanged the subject between the two parties.
+ The petitioner, Arrius Alphius, a favorite freedman of the mother of Antoninus
+ Pius, writes to the high priests: 
+\begin_inset Quotes eld
+\end_inset
+
+Having lost at the same time wife and son, I buried them temporarily in
+ a terra-cotta coffin.
+ I have since purchased a burial lot on the left side of the Via Flaminia,
+ between the second and the third milestones, and near the mausoleum of
+ Silius Orcilus, and furnished it with marble sarcophagi.
+ I beg permission of you, my Lords, to transfer the said bodies to the new
+ family vault, so that when my hour shall come, I may be laid to rest besides
+ the dear ones.
+\begin_inset Quotes erd
+\end_inset
+
+ The answer was: 
+\begin_inset Quotes eld
+\end_inset
+
+Granted (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+fieri placet
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+).
+ Signed by me, Juventius Celsus, vice-president [of the college of pontiffs],
+ on the 3d day of November [
+\noun on
+a.d.
+
+\noun default
+ 155].
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The greatest difficulty with which the Christians had to deal was the obligation
+ to perform expiatory sacrifices in given circumstances; as, for instance,
+ when a corpse was removed from one place to another, or when a coffin,
+ damaged by any accidental cause, such as lightning, inundation, fire, earthquak
+e, or violence, had to be opened and the bones exposed to view.
+ But these were exceptional cases; and there is no doubt that the magistrates
+ of Rome were naturally lenient and forbearing in religious matters, except
+ in time of persecution.
+ The partiality shown by early Christians for underground cemeteries is
+ due to two causes: the influence which Eastern customs and the example
+ of the burial of Christ must necessarily have exercised on them, and the
+ security and freedom which they enjoyed in the darkness and solitude of
+ their crypts.
+ Catacombs, however, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p309
+\end_layout
+
+\end_inset
+
+could not be excavated everywhere, the presence of veins or beds of soft
+ volcanic stone being a condition 
+\emph on
+sine qua non
+\emph default
+ of their existence.
+ Cities and villages built on alluvial or marshy soil, or on hills of limestone
+ or lava, were obliged to resort to open-air cemeteries.
+ In Rome itself these were not uncommon.
+ Certainly there was no reason why Christians should object to the authority
+ of the pontiffs in hygienic and civic matters.
+ This authority was so deeply rooted and respected, that the emperor Constans
+ (346--350), although a stanch Christian and anxious to abolish idolatry,
+ left the pontiffs full jurisdiction over Christian and pagan cemeteries,
+ by a constitution issued in 349.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See 
+\emph on
+Cod.
+ Theodos.
+
+\emph default
+ ix.
+ 17, 2.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From apostolic times to the persecution of Domitian, the faithful were buried,
+ separately or collectively, in private tombs which did not have the character
+ of a Church institution.
+ These early tombs, whether above or below ground, display a sense of perfect
+ security, and an absence of all fear or solicitude.
+ This feeling arose from two facts: the small extent of the cemeteries,
+ which secured to them the rights of private property, and the protection
+ and freedom which the Jewish colony in Rome enjoyed from time immemorial.
+ The Romans of the first century, populace as well as government officials,
+ made no distinction between the proselytes of the Old Testament and those
+ of the New.
+\end_layout
+
+\begin_layout Standard
+Julius Caesar and Augustus treated the Jews with kindness, and when S.
+ Paul arrived in Rome the colony was living in peace and prosperity, practising
+ religion openly in its Transtiberine synagogues.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+On the subject of the Jewish colony in Rome, see: — Emmanuel Rodocanachi:
+ 
+\emph on
+Le saint-siège et les Juifs: le Ghetto à Rome
+\emph default
+.
+ Paris, Didot, 1891.
+ — A.
+ Bertolotti: 
+\emph on
+Les Juifs à Rome.
+ Revue des études juives
+\emph default
+, 1881, fasc.
+ 4.
+ — Raffaele Garrucci: 
+\emph on
+Cimiterio degli antichi Ebrei
+\emph default
+.
+ Roma, 1862.
+ — Pietro Manfrin: 
+\emph on
+Gli Ebrei sotto la dominazione romana
+\emph default
+.
+ Roma, 1888‑1890.
+ — Ettore Natali: 
+\emph on
+Il Ghetto di Roma.
+
+\emph default
+ Roma, 1887.
+ — Perreau: 
+\emph on
+Education et culture des Israelites en Italie au moyen âge
+\emph default
+.
+ Corfou, 1885.
+ 
+\end_layout
+
+\end_inset
+
+ The same state of things 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p310
+\end_layout
+
+\end_inset
+
+prevailed throughout the peninsula.
+ Thus the rabbi or archon of the synagogue at Pompeii called the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+Synagoga Libertinorum
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ (the existence of which was discovered in September, 1764), could take,
+ in virtue of his office, an active part in city politics and petty municipal
+ quarrels, and in his official capacity could sign a document recommending
+ the election of a candidate for political honors, as is shown by one of
+ the Pompeian inscriptions:—
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+Cuspium Pansam aed
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+[
+\emph on
+ilem fieri rogat
+\emph default
+] 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+Fabius Eupor Princeps Libertinorum
+\noun default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+This 
+\begin_inset Quotes eld
+\end_inset
+
+poster,
+\begin_inset Quotes erd
+\end_inset
+
+ painted in red letters, which is now in the Museo Nazionale, Naples, was
+ published by Zangemeister in vol.
+ 
+\noun on
+iv
+\noun default
+., p.
+ 13, n.
+ 117, of the 
+\emph on
+Corpus Inscriptionum Latinarum
+\emph default
+.
+ — Prof.
+ Mommsen, in the 
+\emph on
+Rheinisches Museum
+\emph default
+, xix.
+ (1864), p.
+ 456, contradicts the opinion of de Rossi as regards the religious persuasion
+ of this Fabius Eupor (
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1864, pp.
+ 70, 92).
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The persecution which took place under Claudius was really the first connected
+ with the preaching of the gospel.
+ According to Suetonius (Claud.
+ 25) the Jews themselves were the cause of it, having suddenly become uneasy,
+ troublesome, and offensive, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+impulsore Chresto
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, that is to say, on account of Christ's doctrine, which was beginning to
+ be preached in their synagogues.
+ The expression used by Suetonius shows how very little was known at the
+ time about the new religion.
+ Although Christ's name was not unknown to him, he speaks of this outbreak
+ under Claudius as having been stirred up personally by a certain Chrestus,
+ as though he were a living member of the Jewish colony.
+ At that early stage the converts to the gospel were identified by the Romans
+ with the Jews, not by mistake or error of judgment, but because they were
+ legally and actually Jews, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p311
+\end_layout
+
+\end_inset
+
+or rather one Jewish sect which was carrying on a dogmatic war against the
+ others, on a point which had no interest whatever in the eyes of the Romans,
+ — that is, the advent of the Messiah.
+ This statement is corroborated by many passages in the Acts, such as xviii.15;
+ xxiii.29; xxv.9; xxvi.28, 32; xxviii.31.
+ Claudius Lysias writes to the governor of Judaea that Paul was accused
+ by his fellow-citizens, not of crimes deserving punishment, but on some
+ controversial point concerning their law.
+ In Rome itself the apostle could preach the gospel with freedom, even when
+ in custody, or under police supervision.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See Champagny: 
+\emph on
+Rome et la Judée
+\emph default
+, p.
+ 31, of the first edition.
+\end_layout
+
+\end_inset
+
+ And as it was lawful for a Roman citizen to embrace the Jewish persuasion,
+ and give up the religion of his fathers, he was equally free to embrace
+ the Evangelic faith, which was considered by the pagans a Jewish sect,
+ not a new belief.
+ 
+\end_layout
+
+\end_body
+\end_document
