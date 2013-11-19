@@ -4695,7 +4695,14 @@ m.
 \end_layout
 
 \begin_layout Standard
-Herodes Atticus, born at Marathon 
+Herodes Atticus
+\begin_inset CommandInset label
+LatexCommand label
+name "Herodes-Atticus_6"
+
+\end_inset
+
+, born at Marathon 
 \noun on
 a.d.
 
@@ -6146,7 +6153,6 @@ status open
 
 \begin_layout Plain Layout
 
-\noun on
 }
 \end_layout
 

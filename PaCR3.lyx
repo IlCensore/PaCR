@@ -1570,7 +1570,14 @@ Such is the origin of the greatest sanctuaries of Christian Rome.
  Paul on the Via Ostiensis, S.
  Sebastian on the Via Appia, S.
  Petronilla on the Via Ardeatina, S.
- Valentine on the Via Flaminia, S.
+ Valentine on the Via Flaminia,
+\begin_inset CommandInset label
+LatexCommand label
+name "03_Valentine-Flaminia"
+
+\end_inset
+
+ S.
  Hermes on the Via Salaria, S.
  Agnes on the Via Nomentana, S.
  Lorenzo on the Via Tiburtina, and fifty other historical structures, owe
@@ -3383,7 +3390,7 @@ Ancient Rome,
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -3470,7 +3477,7 @@ lines 0
 placement o
 overhang 0in
 width "50col%"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -5990,13 +5997,10 @@ status open
 The basilica of S.
  Valentine, discovered in 1886, by our archaeological commission, is mentioned
  on p.
- 120
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-rif incrociato
-\end_layout
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "03_Valentine-Flaminia"
 
 \end_inset
 

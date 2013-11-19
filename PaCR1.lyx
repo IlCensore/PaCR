@@ -465,7 +465,7 @@ lines 0
 placement l
 overhang 0in
 width "50col%"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -909,13 +909,20 @@ a.d.
  Here also was found the name of Urania, daughter of Herodes Atticus, by
  his second wife, Vibullia Alcia,
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 A description of the beautiful villa of Herodes, adjoining the Catacombs
  of Praetextatus, will be found in chapter vi.
  pp.
- 287 sqq.
+ 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "Herodes-Atticus_6"
+
+\end_inset
+
+ sqq.
 \end_layout
 
 \end_inset

@@ -17,7 +17,7 @@
 \renewcommand{\chaptermark}[1]{ \markboth{\textsc{#1}}{} }
 \makepagestyle{myheadings}
   \makeevenhead{myheadings}{\thepage\ {\color{Maroon}\reflectbox{❧}}\ \textsc{Pagan and Christian Rome}}{}{}
-  \makeoddhead{myheadings}{}{}{Chapter \thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
+  \makeoddhead{myheadings}{}{}{\thechapter\ ·\ \leftmark\ {\color{Maroon}❧}\ \thepage}
   \makeevenfoot{myheadings}{}{}{}
   \makeoddfoot{myheadings}{}{}{}
 
@@ -55,6 +55,11 @@
 \frenchspacing
 \widowpenalties 2 100 0
 \clubpenalty 100
+
+%footnotes without number
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
 \end_preamble
 \use_default_options true
 \begin_modules

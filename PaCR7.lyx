@@ -46,6 +46,12 @@
 \clubpenalty 10000
 %\raggedbottom
 %\usepackage{indentfirst}
+
+
+%footnotes without number
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
 \end_preamble
 \use_default_options true
 \master PaCR_index.lyx
@@ -116,10 +122,104 @@ initials
 
 \begin_layout Chapter
 Christian cemeteries
-\begin_inset Foot
-status collapsed
+\end_layout
+
+\begin_layout Chapterprecis
+
+\size small
+Sanctity of tombs guaranteed to all creeds alike.
+ — The Christians' preference for underground cemeteries not due to fear
+ at first.
+ — Origin and cause of the first persecutions.
+ — The attitude of Trajan towards the Christians, and its results.
+ — The persecution of Diocletian.
+ — The history of the early Christians illustrated by their graves.
+ — The tombs of the first century.
+ — The catacombs.
+ — How they were named.
+ — The security they offered against attack.
+ — Their enormous extent.
+ — Their gradual abandonment in the fourth century.
+ — Open-air cemeteries developed in proportion.
+ — The Goths in Rome.
+ — Their pillage of the catacombs.
+ — Thereafter burial within the city walls became common.
+ — The translation of the bodies of martyrs.
+ — Pilgrims and their itineraries.
+ — The catacombs neglected from the ninth to the sixteenth century.
+ — Their discovery in 1578.
+ — Their wanton treatment by scholars of that time.
+ — Artistic treasures found in them.
+ — The catacombs of Generosa.
+ — The story of Simplicius, Faustinus and Viatrix.
+ — The cemetery of Domitilla.
+ — The Christian Flavii buried there.
+ — The basilica of Nereus, Achilleus and Petronilla.
+ — The tomb of Ampliatus.
+ — Was this S.
+ Paul's friend? — The cemetery 
+\begin_inset Quotes eld
+\end_inset
+
+ad catacumbas.
+\begin_inset Quotes erd
+\end_inset
+
+ — The translation of the bodies of SS.
+ Peter and Paul.
+ — The types of the Saviour in early art.
+ — The cemetery of Cyriaca.
+ — Discoveries made there.
+ — Inscriptions and works of art.
+ — The cemetery 
+\begin_inset Quotes eld
+\end_inset
+
+ad duas Lauros.
+\begin_inset Quotes erd
+\end_inset
+
+ — Frescoes in it.
+ — The symbolic supper.
+ — The discoveries of Monsignor Wilpert.
+ — The Academy of Pomponio Leto.
+ 
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument
+status open
 
 \begin_layout Plain Layout
+T
+\end_layout
+
+\end_inset
+
+he
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+blfootnote{
+\end_layout
+
+\end_inset
+
 Principal authorities: — Philip de Winghe: 
 \emph on
 Cod.
@@ -240,86 +340,6 @@ The Catacombs of Rome
 \emph default
 .
  Oxford, Parker, 1877.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapterprecis
-
-\size small
-Sanctity of tombs guaranteed to all creeds alike.
- — The Christians' preference for underground cemeteries not due to fear
- at first.
- — Origin and cause of the first persecutions.
- — The attitude of Trajan towards the Christians, and its results.
- — The persecution of Diocletian.
- — The history of the early Christians illustrated by their graves.
- — The tombs of the first century.
- — The catacombs.
- — How they were named.
- — The security they offered against attack.
- — Their enormous extent.
- — Their gradual abandonment in the fourth century.
- — Open-air cemeteries developed in proportion.
- — The Goths in Rome.
- — Their pillage of the catacombs.
- — Thereafter burial within the city walls became common.
- — The translation of the bodies of martyrs.
- — Pilgrims and their itineraries.
- — The catacombs neglected from the ninth to the sixteenth century.
- — Their discovery in 1578.
- — Their wanton treatment by scholars of that time.
- — Artistic treasures found in them.
- — The catacombs of Generosa.
- — The story of Simplicius, Faustinus and Viatrix.
- — The cemetery of Domitilla.
- — The Christian Flavii buried there.
- — The basilica of Nereus, Achilleus and Petronilla.
- — The tomb of Ampliatus.
- — Was this S.
- Paul's friend? — The cemetery 
-\begin_inset Quotes eld
-\end_inset
-
-ad catacumbas.
-\begin_inset Quotes erd
-\end_inset
-
- — The translation of the bodies of SS.
- Peter and Paul.
- — The types of the Saviour in early art.
- — The cemetery of Cyriaca.
- — Discoveries made there.
- — Inscriptions and works of art.
- — The cemetery 
-\begin_inset Quotes eld
-\end_inset
-
-ad duas Lauros.
-\begin_inset Quotes erd
-\end_inset
-
- — Frescoes in it.
- — The symbolic supper.
- — The discoveries of Monsignor Wilpert.
- — The Academy of Pomponio Leto.
- 
-\end_layout
-
-\begin_layout Initial
-\begin_inset Argument
-status open
-
-\begin_layout Plain Layout
-T
-\end_layout
-
-\end_inset
-
-he
 \begin_inset ERT
 status open
 
@@ -868,7 +888,7 @@ or rather one Jewish sect which was carrying on a dogmatic war against the
  In Rome itself the apostle could preach the gospel with freedom, even when
  in custody, or under police supervision.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 See Champagny: 
@@ -885,6 +905,2201 @@ Rome et la Judée
  and give up the religion of his fathers, he was equally free to embrace
  the Evangelic faith, which was considered by the pagans a Jewish sect,
  not a new belief.
+\end_layout
+
+\begin_layout Standard
+The pagans despised them both, and mixed themselves up with their affairs
+ only from a fiscal point of view, because the Jews were subject to a tax
+ of two drachms per head, and the treasury officials were obliged to keep
+ themselves acquainted with the statistics of the colony.
+\end_layout
+
+\begin_layout Standard
+This state of things did not last very long, it being of vital importance
+ for the Jews to separate their cause from that of the new-comers.
+ The responsibility for the persecutions which took place in the first century
+ must be attributed to them, not to the Romans, whose tolerance in religious
+ matters had become almost a state rule.
+ The first attempt, made under Claudius, was not a success: it ended, in
+ fact, with the banishment from the capital of every Jew, no matter whether
+ he believed in the Old or the New Testament.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+Judaeos, impulsore Chresto assidue tumultuantes, Claudius Romae expulit
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ (Suetonius: Claud.
+ 25).
+ It was, however, a passing cloud.
+ As soon as they were allowed to 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p312
+\end_layout
+
+\end_inset
+
+come back to their Transtiberine haunts the Jews set to work again, exciting
+ the feelings of the populace, and denouncing the Christians as conspiring
+ against the State and the gods, under the protection of the law which guarantee
+d to the Jews the free exercise of their religion.
+ The populace, impressed by the conquests made by the gospel among all classes
+ of citizens, was only too ready to believe the calumny.
+ The Church, repudiated by her mother the Synagogue, could no longer share
+ the privileges of the Jewish community.
+ As for the State, it became a necessity either to recognize Christianity
+ as a new legal religion, or to proscribe and condemn it.
+ The great fire, which destroyed half of Rome under Nero, and which was
+ purposely attributed to the Christians, brought the situation to a crisis.
+ The first persecution began.
+ Had the magistrate who conducted the inquiry been able to prove the indictment
+ of arson, perhaps the storm would have been short, and confined to Rome;
+ but as the Christians could easily exculpate themselves, the trial was
+ changed from a criminal into a politico-religious one.
+ The Christians were convicted not so much of arson (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+non tam crimine incendii
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+) as of a hatred of mankind (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+odio generis humani
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+); a formula which includes anarchism, atheism, and high treason.
+ This monstrous accusation once admitted, the persecution could not be limited
+ to Rome; it necessarily became general, and more violent in one place or
+ another, according to the impulse of the magistrate who investigated this
+ entirely unprecedented case.
+\end_layout
+
+\begin_layout Standard
+Was the hope of a legal existence lost forever to the Church? After Nero's
+ death, and the condemnation of his acts and memory, the Christians enjoyed
+ thirty years of peace.
+ Domitian broke it, first, by claiming with unprecedented severity the tribute
+ from the Jews and those 
+\begin_inset Quotes eld
+\end_inset
+
+living 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p313
+\end_layout
+
+\end_inset
+
+a Jewish life;
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Suetonius, 
+\emph on
+Domitian
+\emph default
+, chap.
+ 92; Dion Cassius, lxvii.
+ 13.
+ 
+\end_layout
+
+\end_inset
+
+ secondly, by putting the 
+\begin_inset Quotes eld
+\end_inset
+
+atheists,
+\begin_inset Quotes erd
+\end_inset
+
+ that is, the Christians, to the alternative of giving up their faith or
+ their life.
+ These measures were abolished shortly after by Nerva, who sanctioned the
+ rule that in future no one should be brought to justice under the plea
+ of impiety or Judaism.
+ The answer given by Trajan to Pliny the younger, when governor of Bithynia,
+ is famous in the annals of persecutions.
+ To the inquiries made by the governor, as to the best way of dealing with
+ those 
+\begin_inset Quotes eld
+\end_inset
+
+adoring Christ for their God,
+\begin_inset Quotes erd
+\end_inset
+
+ Trajan replied, that the magistrate should not molest them at his own initiativ
+e; but if others should bring them to justice, and convict them of impiety
+ and atheism, they deserved punishment.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Pliny, 
+\emph on
+Epistolae
+\emph default
+, x.
+ 67.
+\end_layout
+
+\end_inset
+
+ These words contain the solemn recognition of the illegality of Christian
+ worship; they make persecution a rule of state.
+ The faithful were doomed to have no respite for the next two centuries,
+ except what they could obtain at intervals from the personal kindness and
+ tolerance of emperors and magistrates.
+ Those of the Jewish religion continued to enjoy protection and privileges,
+ but Christianity was either persecuted or tolerated, as it happened; so
+ that, even under emperors who abhorred severity and bloodshed, the faithful
+ were at the mercy of the first vagrant who chanced to accuse them of impiety.
+\end_layout
+
+\begin_layout Standard
+Strange to say, more clemency was shown towards them by emperors whom we
+ are accustomed to call tyrants, than by those who are considered models
+ of virtue.
+ The author of the 
+\begin_inset Quotes eld
+\end_inset
+
+Philosophumena
+\begin_inset Quotes erd
+\end_inset
+
+ (book ix., ch.
+ 11) says that 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Commodus ruled 177--191, pope Victor 189--199.
+\end_layout
+
+\end_inset
+
+Commodus granted to Pope Victor the liberation of the Christians who had
+ been condemned to the mines of Sardinia by Marcus Aurelius.
+ Thus that profligate emperor was really more merciful to the Church than
+ the philosophic author of 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p314
+\end_layout
+
+\end_inset
+
+the 
+\begin_inset Quotes eld
+\end_inset
+
+Meditations,
+\begin_inset Quotes erd
+\end_inset
+
+ who, in the year 174, had witnessed the miracle of the Thundering Legion.
+ The reason is evident.
+ The wise rulers foresaw the destructive effect of the new doctrines on
+ pagan society, and indirectly on the empire itself; whereas those who were
+ given over to dissipation were indifferent to the danger; 
+\begin_inset Quotes eld
+\end_inset
+
+after them, the deluge!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At the beginning of the third century, under the rule of Caracalla and Elagabalu
+s, the Christians enjoyed nearly thirty years of peace, interrupted only
+ by the short persecution of Maximus, and by occasional outbreaks of popular
+ hostility here and there.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See de Rossi: 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1868, p.
+ 19.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 249 the 
+\begin_inset Quotes eld
+\end_inset
+
+days of terror
+\begin_inset Quotes erd
+\end_inset
+
+ returned, and continued fiercer than ever under the rules of Decius, Gallus,
+ and Valerianus.
+ The last persecution, that of Diocletian and his colleagues, was the longest
+ and most cruel of all.
+ For the space of ten years not a day of mercy shone over the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ecclesia fidelium
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ The historian Eusebius, an eye-witness, says that when the persecutors
+ became tired of bloodshed, they contrived a new form of cruelty.
+ They put out the right eyes of the confessors, cut the tendon of their
+ left legs, and then sent them to the mines, lame, half blind, half starved,
+ and flogged nearly to death.
+ In book 
+\noun on
+viii
+\noun default
+., chapter 12, the historian says that the number of sufferers was so great
+ that no account could be kept of them in the archives of the Church.
+ The memory of this decade of horrors has never died out in Rome.
+ We have still a local tradition, not altogether unfounded, of ten thousand
+ Christians who were condemned to quarry materials for Diocletian's Baths,
+ and who were put to death after the dedication of the building.
+\end_layout
+
+\begin_layout Standard
+Towards the end of 306, Maxentius stopped the persecution, but the true
+ era of peace did not begin before 312, which is the date of Constantine's
+ famous 
+\begin_inset Quotes eld
+\end_inset
+
+edict of Milan,
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p315
+\end_layout
+
+\end_inset
+
+granting to the Church liberty and free possession of her places of worship
+ and cemeteries forever.
+\end_layout
+
+\begin_layout Standard
+The events of which I have given a summary sketch are beautifully illustrated
+ by the discoveries which have been made in early Christian cemeteries,
+ from May 31, 1578, which is the date of the discovery of the first catacomb,
+ to the present day.
+\end_layout
+
+\begin_layout Standard
+From the time of the apostles to the first persecution of Domitian, Christian
+ tombs, whether above or below ground, were built with perfect impunity
+ and in defiance of public opinion.
+ We have been accustomed to consider the catacombs of Rome as crypts plunged
+ in total darkness, and penetrating the bowels of the earth at unfathomable
+ depths.
+ This is, in a certain measure, the case with those catacombs, or sections
+ of catacombs, which were excavated in times of persecution; but not with
+ those belonging to the first century.
+ The cemetery of these members of Domitian's family who had embraced the
+ gospel — such as Flavius Clemens, Flavia Domitilla, Plautilla, Petronilla,
+ and others — reveals a bold example of publicity.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 07-01_Crypt_Flavians.png
+	width 3.96in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Entrance to the Crypt of the Flavians.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The entrance to the crypt, discovered in 1714 and again in 1865, near the
+ farmhouse of Tor Marancia, at the first milestone of the Via Ardeatina,
+ is hewn out of a perpendicular cliff, which is conspicuous from the high
+ road (the modern Via delle Sette Chiese).
+ The crypt is approached through a vestibule, which was richly decorated
+ with terra-cotta carvings, and, on the frieze, a monumental inscription
+ enclosed by an elaborate frame.
+ No pagan mausolea of the Via Appia or the Via Latina show a greater sense
+ of security or are placed more conspicuously than this early Christian
+ tomb.
+ The frescoes on the ceiling of the vestibule, representing biblical scenes,
+ such as Daniel in the lions' den, the history of Jonah, etc., were exposed
+ to daylight, and through the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p316
+\end_layout
+
+\end_inset
+
+open door could be seen by the passer.
+ No precaution was taken to conceal these symbolic scenes from profane or
+ hostile eyes.
+ We regret the loss of the inscription above the entrance, which, besides
+ the name of the owner of the crypt, probably contained the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+lex monumenti
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, and a formula specifying the religion of those buried within.
+ In this very catacomb, a few steps from the vestibule, an inscription has
+ been found, in which a Marcus Aurelius Restitutus declares that he has
+ built a tomb for himself and his relatives (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+sibi et suis
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+), provided they were believers in Christ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+fidentes in Domino
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+).
+ Another tombstone, discovered in 1864, in the Villa Patrizi, near the catacombs
+ of Nicomedes, states that none might be buried in the tomb to which it
+ was attached except those who belonged to the creed (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+pertinentes ad religionem
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+) of the founder.
+\end_layout
+
+\begin_layout Standard
+The time soon came when these frank avowals of Christianity 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p317
+\end_layout
+
+\end_inset
+
+were either impossible or extremely hazardous; and although legally a tomb
+ continued to be a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+locus religiosus
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, no matter what the creed of the deceased had been, a vague sense of anxiety
+ was felt by the Church, lest even these last refuges should be violated
+ by the mob and its leaders.
+ Hence the extraordinary development which underground cemeteries underwent
+ towards the end of the first and the beginning of the second century.
+ These catacombs were considered by the law to be the property of the citizen
+ who owned the ground above, and who either excavated them at his own cost,
+ or gave the privilege of doing so to the Church.
+ This is the reason why the names of our oldest suburban cemeteries are
+ derived, not from the illustrious saints buried in them, but from the owner
+ of the property under which the catacomb was first excavated.
+ Balbina, Callixtus, Domitilla were never laid to rest in the catacombs
+ which bear their names.
+ Praetextatus, Apronianus, the Jordans, Novella, Pontianus, and Maximus,
+ after whom other cemeteries are named, are all totally unknown persons.
+ When these cemeteries became places of worship and pilgrimage, after the
+ Peace of Constantine, the old names which had sheltered them from the violence
+ of persecutors were abandoned, and replaced by those of local martyrs.
+ Thus the catacomb of Domitilla became that of Nereus and Achilleus; that
+ of Balbina was named for S.
+ Mark; that of Callixtus for SS.
+ Sixtus and Caecilia; and that of Maximus for S.
+ Felicitas.
+\end_layout
+
+\begin_layout Standard
+One characteristic of Christian epigraphy shows what a comparatively safe
+ place the catacombs were.
+ Inscriptions belonging to them never contain those requests to the passer
+ to respect the tomb, which are so frequent in sepulchral inscriptions from
+ tombs above-ground, and which sometimes, on Christian as well as pagan
+ graves, take the form of an 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p318
+\end_layout
+
+\end_inset
+
+imprecation.
+ An epitaph discovered by Hamilton near Eumenia, Phrygia, contains this
+ rather violent formula: 
+\begin_inset Quotes eld
+\end_inset
+
+May the passer who damages my tomb bury all his children at the same time.
+\begin_inset Quotes erd
+\end_inset
+
+ In another, found near the church of S.
+ Valeria, in Milan, the imprecation runs: 
+\begin_inset Quotes eld
+\end_inset
+
+May the wrath of God and of his Christ fall on the one who dares to disturb
+ the peace of our sleep.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The safety of the catacombs was not due to the fact that their existence
+ was known only to the proselytes of Christ.
+ The magistrates possessed a thorough knowledge of their location, number,
+ and extent; and we have evidence of raids and descents by the police on
+ extraordinary occasions, as, for instance, during the persecutions of Valerian
+ and Diocletian.
+ The ordinary entrances to the catacombs, which were known to the police,
+ were sometimes walled up or otherwise concealed, and new secret outlets
+ opened through abandoned pozzolana quarries (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+arenariae
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+).
+ Some of these outlets have been discovered, or are to be seen, in the cemeterie
+s of Agnes, Thrason, Callixtus, and Castulus.
+ In May, 1867, while excavating on the southern boundary line of the Cemetery
+ of Callixtus, de Rossi found himself suddenly confronted with sandpits,
+ the galleries of which came in contact with those of the cemetery several
+ times.
+ The passage from one to the other had been most ingeniously disguised by
+ the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+fossores
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, as those who dug the catacombs were called.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1867, p.
+ 76.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The defence of these cemeteries in troubled times must have caused great
+ anxiety to the Church.
+ Tertullian tells how the population of Carthage, excited against the Christians
+, sought to obtain from Hilarianus, governor of Africa, the destruction
+ of their graves.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let them have no burial-ground!
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+areae eorum non sint
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+) was the rallying cry of the mob.
+\end_layout
+
+\begin_layout Standard
+The
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p319
+\end_layout
+
+\end_inset
+
+ catacombs are unfit for men to live in, or to stay in even for a few days.
+ The tradition that Antonio Bosio spent seventy or eighty consecutive hours
+ in their depths is unfounded.
+ When we hear of Popes, priests, or their followers seeking refuge in catacombs,
+ we must understand that they repaired to the buildings connected with them,
+ such as the lodgings of the keepers, undertakers, and local clergymen.
+ Pope Boniface I., when molested by Symmachus and Eulalius, found shelter
+ in the house connected with the Cemetery of Maximus on the Via Salaria.
+ The crypts themselves were sought as a refuge only in case of extreme emergency.
+ Thus Barbatianus, a priest from Antiochia, concealed himself in the Catacombs
+ of Callixtus to escape the wrath of Galla Placidia.
+\end_layout
+
+\begin_layout Standard
+Many attempts have been made to estimate the extent of our catacombs, the
+ length of their galleries, and the number of tombs which they contain.
+ Michele Stefano de Rossi, brother of the archaeologist, gives the following
+ results for the belt of catacombs within three miles of the gates of Servius:
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See 
+\emph on
+Atti dell'Accademia dei Nuovi Lincei
+\emph default
+, sessione 6 maggio, 1860.
+ 
+\end_layout
+
+\end_inset
+
+ — (
+\noun on
+a
+\noun default
+) Surface of tufa beds, capable of being excavated into catacombs, 67,000,000
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+6,255,000 sq.
+ m
+\end_layout
+
+\end_inset
+
+ square feet.
+ (
+\noun on
+b
+\noun default
+) Surface actually excavated into catacombs, from one to four stories deep,
+ 22,500,000
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+2,100,000 sq.
+ m
+\end_layout
+
+\end_inset
+
+ square feet, — more than a square mile.
+ (
+\noun on
+c
+\noun default
+) Aggregate length of galleries, calculated on the average construction
+ of six different catacombs, 866 kilometres, equal to 537 geographical miles.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+
+\size footnotesize
+A combination of two minor errors in Lanciani's text.
+ He has 866 kilometres, equal to 587 geographical miles \SpecialChar \ldots{}
+ 1,752,000 bodies.
+ Now 866 km equals 537 miles (
+\begin_inset Quotes eld
+\end_inset
+
+geographical
+\begin_inset Quotes erd
+\end_inset
+
+ or statute, as opposed to nautical); and at two bodies per meter, 866 km
+ must represent 1,732,000 bodies.
+ Lanciani's notes surely had metric measurements, which he then converted
+ in this book written for an American audience; the kilometers must then
+ be the primary figure, and the two other figures can be explained by plausible
+ printer errors (587 for 537, and 752 for 732), so that this is almost certainly
+ the correct emendation.
+ Still, once we have a mistake, doubt and other possibilities remain.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The sides of the galleries contain several rows of loculi, sometimes six
+ or eight.
+ Some bodies are buried under the floor, or in the cubiculi which open right
+ and left at short intervals.
+ Assuming these galleries to be capable of containing 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p320
+\end_layout
+
+\end_inset
+
+two bodies per metre, the number of Christians buried in the catacombs,
+ within three miles from the gates of Servius, may be estimated at a minimum
+ of 1,732,000.
+\end_layout
+
+\begin_layout Standard
+The construction of this prodigious labyrinth required the excavation and
+ removal of 96,000,000
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+2,720,000 cubic m
+\end_layout
+
+\end_inset
+
+ cubic feet of solid rock.
+\end_layout
+
+\begin_layout Standard
+With regard to the number of inscriptions, I quote the following passage
+ from Northcote's 
+\begin_inset Quotes eld
+\end_inset
+
+Epitaphs,
+\begin_inset Quotes erd
+\end_inset
+
+ page 3: 
+\begin_inset Quotes eld
+\end_inset
+
+Of Christian inscriptions in Rome, during the first six centuries, de Rossi
+ has studied more than fifteen thousand, the immense majority of which were
+ taken from the catacombs; and he tells us there is still an average yearly
+ addition of about five hundred, derived from the same source.
+ This number, vast as it is, is but a poor remnant of what once existed.
+ From the collections made in the eighth and ninth centuries it appears
+ that there were once at least one hundred and seventy ancient Christian
+ inscriptions in Rome, which had an historical or monumental character;
+ written generally in metre, and to be seen at that time in the places which
+ they were intended to illustrate.
+ Of these only twenty-six remain, either whole or in parts.
+ In the Roman topographies of the seventh century, one hundred and forty
+ sepulchres of famous martyrs and confessors are enumerated; we have recovered
+ only twenty inscribed memorials, to assist us in the identification of
+ these.
+ Only nine epitaphs have come to light belonging to the bishops of Rome
+ during the same six centuries; and yet, during that period, there were
+ certainly buried in the suburbs of the city upwards of sixty.
+ Thus, whatever facts we take as the basis of our calculation, it would
+ seem that scarcely a seventh part of the original wealth of the Roman church
+ in memorials of this kind has survived the wreck of ages; and de Rossi
+ gives it as his conviction that there were once 
+\emph on
+more than one hundred thousand
+\emph default
+ of them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p321
+\end_layout
+
+\end_inset
+
+ When the catacombs began to be better known to the general public, and
+ were visited by crowds of the devout or curious, they became one of the
+ marvels of Rome.
+ Travellers who so admired the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+syringes
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ or crypts of the kings of Thebes, calling them 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}
+\end_layout
+
+\end_inset
+
+τὰ θαύματα
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ (the wonders), could not help being struck with awe at the great work accomplis
+hed by our Christian community in less than three centuries.
+ An inscription found by Deville at Thebes, in one of the royal crypts,
+ and published in the 
+\begin_inset Quotes eld
+\end_inset
+
+Archives des missions scientifiques,
+\begin_inset Quotes erd
+\end_inset
+
+ 1866, vol.
+ 
+\noun on
+ii
+\noun default
+.
+ p.
+ 484, thus refers to the parallel wonders of Roman and Egyptian catacombs:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Antonius Theodorus, intendant of Egypt and Phoenicia, who has spent many
+ years in the Queen-city of Rome, has seen the wonders (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Dandelion}
+\end_layout
+
+\end_inset
+
+τὰ θαύματα
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+) both there and here.
+\begin_inset Quotes erd
+\end_inset
+
+ The allusion to the catacombs in comparison with the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+syringes
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ is evident.
+ The inscription dates from the second half of the fourth century.
+\end_layout
+
+\begin_layout Standard
+To the edict of Milan, and to the peace which it gave to the Church, we
+ must attribute the origin of the decadence of underground cemeteries.
+ Burial in open-air cemeteries having become secure once more, there was
+ no reason why the faithful should give preference to the unhealthy and
+ overcrowded crypts below.
+ The example of desertion was set by the Popes themselves.
+ Melchiades (311--314), who was the first to occupy the Lateran palace after
+ the victory of the Church, was the last Pope buried near his predecessors
+ in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+caemeteris Callisti in cripta
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ Sylvester, his successor, was buried in a chapel built expressly, above
+ the crypt of Priscilla, Mark above the crypts of Balbina, Julius above
+ those of Calepodius, and so on.
+ Still, the desire of securing a grave in proximity to the shrine of a martyr
+ was so intense that the use of the catacombs lasted for a century longer,
+ although in diminishing proportions.
+ When a 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p322
+\end_layout
+
+\end_inset
+
+gallery is discovered which contains more graves than usual, and has been
+ excavated even in the narrow ledges of rock which separated the original
+ loculi, or else at the corners of the crossings, which were usually left
+ untouched, as protection against the caving-in of the earth, we may be
+ sure we are approaching a martyr's altar-tomb.
+ Sometimes the paintings which decorate a martyr's 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+cubiculum
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ have been disfigured and their inscriptions effaced by an over-zealous
+ devotee.
+ The accompanying cut shows the damage inflicted on a picture of the Good
+ Shepherd in the cubiculum of S.
+ Januarius, in the Catacombs of Praetextatus, by an unscrupulous disciple
+ who wished to be buried as near as possible to his patron-saint.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 07-02_Cubiculum_Januarius.png
+	width 3.43in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Cubiculum of Januarius.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+By the end of the fourth century burials in catacombs became rare, and still
+ more between 400 and 410.
+ They were apparently given up altogether after 410.
+ The development of open-air cemeteries increased in proportion, those 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p323
+\end_layout
+
+\end_inset
+
+of S.
+ Lorenzo and S.
+ Paolo fuori le Mura being among the most popular.
+ In 1863, when the entrance-gate to the modern Camposanto adjoining S.
+ Lorenzo was built, fifty tombs, mostly unopened, were found in a space
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+27.5 by 12 m.
+\end_layout
+
+\end_inset
+
+ninety feet long by forty feet wide.
+ Since that time five hundred tombstones have been gathered in the neighborhood
+ of that favorite church.
+ As regards S.
+ Paul's cemetery, more than one thousand inscriptions, whole or in fragments,
+ were found in rebuilding the basilica and its portico, after the fire of
+ 1823;
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1863, p.
+ 75.
+\end_layout
+
+\end_inset
+
+ two hundred in the excavations of S.
+ Valentine's basilica, outside the Porta del Popolo.
+ These last excavations are the only ones illustrating a Christian cemetery
+ which are left visible; but their importance is limited.
+ The cemeteries of Arles and Pola, alluded to by Dante, have disappeared;
+ and so has the magnificent one of the officers and men employed in the
+ Roman arsenal at Concordia Sagittaria, which was discovered in 1873, near
+ Portogruaro, by Perulli and Bartolini.
+ This cemetery, which contains, in the section already explored, nearly
+ two hundred sarcophagi, cut in limestone, in the shape of Petrarch's coffin,
+ at Arquà, or Antenor's at Padua, was wrecked by Attila in 452, and buried
+ soon after by an inundation of the river Tagliamento, which spread masses
+ of mud and sand over the district, and raised its level five
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+1.5 m
+\end_layout
+
+\end_inset
+
+ feet.
+ The accompanying plate is from a photograph taken at the time of the discovery.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+
+\lang british
+\begin_inset Graphics
+	filename 07-03_Cemetery_Concordia.jpg
+	width 4.05in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\noun on
+Christian military cemetery of Concordia Sagittaria
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I have just stated that burial in catacombs seems to have been abandoned
+ in 410, because no inscription of a later date has yet been found.
+ The reader will easily perceive the reason for the abandonment.
+ On August 10, 410, Rome was stormed by Alaric, and the suburbs devastated.
+ This fatal year marks the end of a great and glorious era 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p324
+\end_layout
+
+\end_inset
+
+in Christian epigraphy, and in the history of catacombs the end of the work
+ of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+fossores
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ More fatal still was the barbaric invasion of 457.
+ The actual destruction began in 537, during the siege of Rome by Vitiges.
+ The biographer of Pope Silverius expressly says: 
+\begin_inset Quotes eld
+\end_inset
+
+Churches and tombs of martyrs have been destroyed by the Goths
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+ecclesiae et corpora sanctorum martyrum exterminata sunt a Gothis
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+).
+ It is difficult to explain why the Goths, confessed and even bigoted Christians
+ (Arians) as they were, and full of respect for the basilicas of S.
+ Peter and S.
+ Paul, as Procopius declares, should have ransacked the catacombs, violated
+ the tombs of martyrs, and broken their historical inscriptions.
+ Perhaps it was because none of the barbarians could read Latin or Greek
+ epitaphs, and make the distinction between pagan and Christian cemeteries;
+ or perhaps they were moved by the desire of finding hidden treasures, or
+ securing relics of saints.
+ Whatever may have been the reason of their behavior, we must remember that
+ two encampments, at least, of the Goths were just over catacombs and around
+ their entrances; one on the Via Salaria, over those of Thrason; the other
+ on the Via Labicana, above those of Peter and Marcellinus.
+ The barbarians could not resist the temptation of exploring those subterranean
+ wonders; indeed they were obliged to do so by the most elementary rules
+ of precaution in order to insure the safety of their entrenchments against
+ surprises.
+ Here I have to record a remarkable coincidence.
+ In each of these two catacombs the following memorial tablet has been seen
+ or found, written in distichs by Pope Virgilius:—
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+When the Goths pitched their camps under the walls of Rome, they declared
+ an impious war against the Saints:
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+And destroyed in their sacrilegious attack the tombs dedicated to the memory
+ of martyrs:
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+Whose epitaphs, composed by Pope Damasus, have been destroyed.
+\end_layout
+
+\begin_layout Verse
+\begin_inset Quotes eld
+\end_inset
+
+Pope
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p325
+\end_layout
+
+\end_inset
+
+ Virgilius, having witnessed the destruction, has repaired the tombs, the
+ inscriptions, and the underground sanctuaries after the retreat of the
+ Goths.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The repairs must have been made in haste, between March, 537, the date of
+ the flight of Vitiges, and the following November, the date of the journey
+ of Virgilius to Constantinople, from which he never returned.
+ Traces of this Pope's restorations have been found in other catacombs.
+ In those of Callixtus the fragments of a tablet, dedicated by Damasus to
+ S.
+ Eusebius, have been found, dispersed over a large area, and also a copy
+ set up by Virgilius in the place of the original.
+ In those of Hippolytus, on the Via Tiburtina, an inscription was discovered
+ in 1881, which stated that the 
+\begin_inset Quotes eld
+\end_inset
+
+sacred caverns
+\begin_inset Quotes erd
+\end_inset
+
+ had been restored 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+praesule Virgilio
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+.
+ The example of Virgilius and his successors in the See of Rome was followed
+ by private individuals.
+ The tomb of Crysanthus and Daria on the Via Salaria was restored, after
+ the retreat of the barbarians, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+pauperis ex censu
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, that is, with the modest means of a devotee.
+\end_layout
+
+\begin_layout Standard
+Nibby has attributed the origin of cemeteries within the walls to the invasion
+ of Vitiges, burial within the city limits having been strictly forbidden
+ by the laws of Rome.
+ But the law seems to have been practically disregarded even before the
+ Gothic wars.
+ Christians were buried in the Praetorian camp, and in the gardens of Maecenas,
+ during the reign of Theodoric (493--526).
+ I have mentioned this particular because it marks another step towards
+ the abandonment of suburban cemeteries.
+ The country around Rome having become insecure and deserted, it was deemed
+ necessary to place within the protection of the city walls the bodies of
+ martyrs who had been buried at a great distance from the gates.
+ The first translation took place in 648: the second in 682, when the bodies
+ of Primus and Felicianus were 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p326
+\end_layout
+
+\end_inset
+
+removed from Nomentum, and those of Viatrix, Faustinus and Simplicius from
+ the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+Lucus Arvalium
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ (Monte delle Piche, by la Magliana).
+ The last blow to the catacombs was given by Paschal I.
+ (817--824).
+ Contemporary documents mention innumerable transferences of bodies.
+ The mosaic legend of the apse of S.
+ Prassede says that Pope Paschal buried the bodies of many saints within
+ its walls.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+\SpecialChar \ldots{}
+ passim corpora condens
+\begin_inset Newline newline
+\end_inset
+
+Plurima sanctorum subter haec moenia ponit.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The official catalogue of the remains removed on July 20, 817, which was
+ compiled by the Pope's notary and engraved on marble, has come down to
+ us.
+ It speaks of the translation of twenty-three hundred bodies, most of which
+ were buried under the chapel of S.
+ Zeno, which Paschal I.
+ had built as a memorial to his mother, Theodora Episcopa.
+ The legend in the apse of S.
+ Caecilia speaks, likewise, of the transference to her church of bodies
+ 
+\begin_inset Quotes eld
+\end_inset
+
+which had formerly reposed in crypts
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+quae primum in cryptis pausabant
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+): among them those of Caecilia herself, Valerianus, Tiburtius, and Maximus.
+ The finding and removal of Caecilia's remains from the Catacombs of Callixtus
+ is one of the most graceful episodes in the life of Paschal I.
+ He describes it at length in a letter addressed to the people of Rome.
+\end_layout
+
+\begin_layout Standard
+After many unsuccessful attempts to discover the coffin of the saint, he
+ had come to the conclusion that it must have been stolen by the Lombards,
+ when they were besieging the city in 755.
+ S.
+ Caecilia, however, told him in a vision where her grave was; and hurrying
+ to the catacombs of the Appian Way he at last discovered her crypt and
+ coffin, together with those of fourteen Popes, from Zephyrinus to Melchiades.
+ It is only fair to say that the discoveries made in this very crypt, between
+ 1850 and 1853, confirm the account of Paschal in its minutest details.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p327
+\end_layout
+
+\end_inset
+
+ The first half of the ninth century thus marks the final abandonment of
+ the catacombs, and the cessation of divine worship in their historical
+ crypts.
+ In later times we find little or no mention of them in Church annals.
+ When we read of Nicholas I.
+ (858--867) and of Paschal II.
+ (1099--1118) visiting the cemeteries, we must believe that their visits
+ were to the basilicas erected over the catacombs, and to their special
+ crypts, not to the catacombs themselves.
+ In the chronicle of the monastery of S.
+ Michael ad Mosam we read of a pilgrim of the eleventh century who obtained
+ relics of saints 
+\begin_inset Quotes eld
+\end_inset
+
+from the keeper of a certain cemetery, in which lamps are always burning.
+\begin_inset Quotes erd
+\end_inset
+
+ He refers to the basilica of S.
+ Valentine and the small hypogaeum attached to it (discovered in 1887),
+ not to catacombs in the true sense of the word.
+ The very last account referring directly to them dates from the time of
+ Pope Nicolas I.
+ (858--867) who is said to have restored the crypt of Mark on the Via Ardeatina,
+ and of Felix, Abdon, and Sennen on the Via Portuensis.
+ At this time also the visits of pilgrims, to whose itineraries, or guidebooks,
+ we are indebted for some such knowledge of the topography of suburban cemeterie
+s, come to an end.
+ The best itineraries are those of Einsiedeln, Salzburg, Wurzburg, and William
+ of Malmesbury; and the list of the oils from the lamps burning before the
+ tombs of martyrs, which were collected by John, abbot of Monza, at the
+ request of queen Theodolinda.
+ The pilgrims left many records of their visits scratched on the walls of
+ the sanctuaries; and to these 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+graffiti
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ also we are indebted for much information, since they contain formulas
+ of devotion addressed to the saint of the place.
+ They are very interesting in their simplicity of thought and diction, as
+ are generally the memoirs of early pilgrims and pilgrimages.
+ I shall mention one, discovered not many years ago in the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p328
+\end_layout
+
+\end_inset
+
+cemetery of Mustiola at Chiusi.
+ It is a plain tombstone, inscribed with the words:—
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+
+\noun on
+hic · positus · est · peregrinus · ciconias · cuius · nomen · deus · scit
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\noun on
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Here is buried a pilgrim from Thrace, whose name is known only to God.
+\begin_inset Quotes erd
+\end_inset
+
+ The tale is simple and touching.
+ A pilgrim on his way to Rome, or back to his country, was overtaken by
+ death at Chiusi, before he could make himself known to those who had come
+ to his help.
+ They could only suppose he had come from Thrace, the country of the Cicones,
+ possibly from the language he spoke, or from the costume he wore.
+\end_layout
+
+\begin_layout Standard
+On May 31, 1578, a workman, while digging a sandpit in the vineyard of Bartolome
+o Sanchez at the second milestone of the Via Salaria, came upon a Christian
+ cemetery containing frescoes, sarcophagi, and inscriptions.
+ This unexpected discovery created a great sensation,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The attention of learned men had been directed towards Christian underground
+ Rome just ten years before this event, by the publication of Panvinio's
+ pamphlet 
+\emph on
+De caemeteriis urbis Romae
+\emph default
+, 1566.
+\end_layout
+
+\end_inset
+
+ and the report was circulated that an underground city had been found.
+ The leading men of the age hastened to the spot; among them Baronius, who
+ speaks of these wondrous crypts three or four times in his annals.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Ad ann.
+
+\emph default
+ 575; 130, 226.
+\end_layout
+
+\end_inset
+
+ It seems that the network of galleries, crossing one another at various
+ angles, the sky-lights, the wells, the symmetry of the cubiculi and arcosolia,
+ the number of loculi with which the sides of the galleries were honeycombed,
+ affected the imagination of visitors even more than the pictures, the sarcophag
+i, and the epitaphs.
+ The subjects of the frescoes were so varied as to contain almost the whole
+ cycle of early Christian symbolism.
+ There were the Good Shepherd and the Praying Soul, Noah and the 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p329
+\end_layout
+
+\end_inset
+
+ark, Daniel and the lions, Moses striking the rock, the story of Jonah,
+ the sacrifice of Isaac, the three men in the fiery furnace, the resurrection
+ of Lazarus, etc.
+ The bas-reliefs of the marble coffins represented Christian love-feasts
+ and pastoral scenes.
+ The epitaphs contained simply names, except one, which was raised by a
+ girl 
+\begin_inset Quotes eld
+\end_inset
+
+to her sweet nurse Paulina, who dwells in Christ among the blessed.
+\begin_inset Quotes erd
+\end_inset
+
+ These pious memorials of the primitive church led the learned visitors
+ to investigate their meaning and value, as well as the history and name
+ of those mysterious labyrinths.
+ The origin of Christian archaeology, therefore, really dates from May 1,
+ 1578.
+ Antonio Bosio, the Columbus of subterranean Rome, was but three years old
+ at that time, but he seems to have developed his marvellous instinct on
+ the strength of what he saw in the Vigna Sanchez in his boyhood.
+ The crypts, however, had but a short life: the quarry-men damaged and robbed
+ them to such an extent that, when Bosio began his career in 1593, every
+ trace of them had disappeared.
+ They have never been found since.
+ We can only point out to the lover of these studies the site of the Vigna
+ Sanchez.
+ It is marked by a monumental gate, on the right side of the Via Salaria,
+ crowned by the well-known coat-of‑arms of the della Rovere family, to whom
+ the property was sold towards the end of the sixteenth century.
+ The gate is a little more than a mile from the Porta Salaria.
+\end_layout
+
+\begin_layout Standard
+From that time to the first quarter of the present century, we have to tell
+ the same long tale of destruction.
+ And who were responsible for this wholesale pillage? The very men — Aringhi,
+ Boldetti, Marangoni, Bottari — who devoted their lives, energies and talents
+ to the study of the catacombs, and to whom we are indebted for many standard
+ works on Christian archaeology.
+ Such was the spirit of the age.
+ Whether an historical inscription came out of one 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p330
+\end_layout
+
+\end_inset
+
+cemetery or another did not matter to them; the topographical importance
+ of discoveries was not appreciated.
+ Written or engraved memorials were sought, not for the sake of the history
+ of the place to which they belonged, but to ornament houses, museums, villas,
+ churches and monasteries.
+ In 1863, de Rossi found a portion of the Cemetery of Callixtus, near the
+ tombs of the Popes, in incredible confusion and disorder: loculi ransacked,
+ their contents stolen, their inscriptions broken and scattered far and
+ wide, and the bones themselves taken out of their graves.
+ The perpetrators of the outrage had taken care to leave their names written
+ in charcoal or with the smoke of tallow candles; they were men employed
+ by Boldetti in his explorations of the catacombs, between 1713 and 1717.
+ Some of the tombstones were removed by him to S.
+ Maria in Trastevere, and inserted in the floor of the nave.
+ Benedict XIV.
+ took away the best, and placed them in the Vatican Library.
+ They have now migrated again to the Museo Epigrafico of the Lateran Palace.
+ Those left in the floor of S.
+ Maria in Trastevere were removed to the vestibule of the church in 1865.
+\end_layout
+
+\begin_layout Standard
+In 1714, some beautiful paintings of the first century were discovered in
+ the crypt of the Flavian family (Domitilla) at Torre Marancia.
+ They were examined by well-known archaeologists and churchmen, whose names
+ are scratched or written on the walls: Boldetti, Marangoni, Bottari, Leonardo
+ da Porto Maurizio, and G.
+ B.
+ de Rossi (the last two since canonized by the Church), and by hundreds
+ of priests, nuns, missionaries, and pilgrims.
+ No mention is made of this beautiful discovery in contemporary books; but
+ an attempt was made to steal the frescoes, which resulted, as usual, in
+ their total destruction.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\emph on
+Bullettino di archeologia cristiana
+\emph default
+, 1865, p.
+ 36.
+\end_layout
+
+\end_inset
+
+ The catacombs owe their sad fate to the riches which they contained.
+ In times of 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p331
+\end_layout
+
+\end_inset
+
+persecution, when the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Maroon}
+\end_layout
+
+\end_inset
+
+fossores
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ were pressed by too much work and memorial tablets could not be secured
+ in time, it was customary for the survivors to mark the graves of the dear
+ ones either with a symbol, a word, or a date scratched in the fresh cement;
+ or with some object of identification, such as glass cups, medallions,
+ cameos, intaglios, objects cut in rock crystal, coral, etc.
+ If the work of exploration has been carried on actively in the last three
+ centuries, it is on account of the rich harvest which searching parties
+ were sure to reap whenever they chanced to come across a catacomb or part
+ of a catacomb, yet unexplored, with these signs of recognition untouched.
+\end_layout
+
+\begin_layout Standard
+The best works of the glyptic art, the rarest gems, coins, and medallions
+ of European cabinets have come to light in this way.
+ Pietro Sante Bartoli, who chronicled the discoveries made in Rome in the
+ second half of the seventeenth century, speaks several times of treasure-trove
+ in catacombs:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See Fea: 
+\emph on
+Miscellanea
+\emph default
+, vol.
+ 
+\noun on
+i
+\noun default
+., pp.
+ 238, 245, etc.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+In a Christian cemetery discovered outside the Porta Portese, in the vineyard
+ of a priest named degli Effetti, many relics of martyrs have been found,
+ a beautiful set of the rarest medallions (bellissima serie di medaglioni
+ rarissimi), works in metal and crystal, engraved stones, jewels, and other
+ curious and interesting objects, many of which were sold by the workmen
+ at low prices.
+\begin_inset Quotes erd
+\end_inset
+
+ And again: 
+\begin_inset Quotes eld
+\end_inset
+
+The opening of a catacomb was discovered by accident under the Casaletto
+ of Pius V., outside the Porta S.
+ Pancrazio.
+ Although the crypt had never been entered, and promised to be very rich,
+ no excavations were attempted, owing to the dangerous condition of the
+ rock.
+ One object only was extracted from the ruinous cavern; a polychrome cameo
+ of marvellous beauty (di meravigliosa bellezza) representing a Bacchanalian.
+ The stone measured sixteen 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p332
+\end_layout
+
+\end_inset
+
+inches in length by ten in width.
+ It was given to cardinal Massimi.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+It is now in the Vatican Library.
+ A good engraving is to be found in Buonarroti's 
+\emph on
+Osservazioni sui medaglioni
+\emph default
+, p.
+ 497.
+\end_layout
+
+\end_inset
+
+ The number of catacombs has been greatly exaggerated.
+ Panvinius and Baronius stated it as forty-three; Aringhi and his followers
+ raised this number to sixty.
+ De Rossi, however, in vol.
+ 
+\noun on
+i
+\noun default
+., p.
+ 206, of the 
+\begin_inset Quotes eld
+\end_inset
+
+Roma sotterranea
+\begin_inset Quotes erd
+\end_inset
+
+ proves that the number of catacombs excavated during the first three centuries,
+ within a radius of three miles from the walls of Servius Tullius, is but
+ twenty-six; besides eleven of much less importance, and five which were
+ excavated after the Peace of Constantine.
  
 \end_layout
 
