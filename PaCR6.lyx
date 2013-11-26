@@ -377,6 +377,12 @@ Ancient Rome.
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "Pagan-inhumation"
+
+\end_inset
+
 Comparing these data we reach the conclusion that inhumation was abandoned,
  with a few exceptions, towards the end of the fifth century of Rome, to
  be resumed only towards the middle of the second century after Christ,

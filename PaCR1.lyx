@@ -679,6 +679,12 @@ a.d.
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "Xiphilinus"
+
+\end_inset
+
 Xiphilinus states that, in the year 95, some members of the imperial family
  were condemned by Domitian on the charge of atheism, together with other
  leading personages who had embraced 
@@ -950,7 +956,33 @@ color{Maroon}um}]}
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "page_10"
+
+\end_inset
+
 In chapter vii.
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+See p.
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "Vespasian-relatives"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
  I shall have the occasion to refer to many Christian relatives of the emperors
  Vespasian and Domitian.
  Eusebius, in speaking of these Flavians, and particularly of Domitilla
