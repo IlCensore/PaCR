@@ -86,7 +86,7 @@ initials
 \bibtex_command default
 \index_command default
 \paperfontsize 12
-\spacing single
+\spacing other 1.3
 \use_hyperref false
 \papersize a4paper
 \use_geometry true
