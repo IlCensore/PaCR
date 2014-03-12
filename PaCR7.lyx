@@ -3706,7 +3706,17 @@ status open
 
 \end_inset
 
- or love-feasts of the early Church.
+ or love-feasts
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Agapæ
+\end_layout
+
+\end_inset
+
+ of the early Church.
  Those on the left are decorated in the so‑called Pompeian style, with birds
  and festoons on a red ground.
  Here is the well, the drinking-fountain, the washing-trough, and the wardrobe.
@@ -4088,8 +4098,21 @@ p339
 A fragment of one of the four columns which supported the ciborium above
  the high altar has been found in the apse.
  This fragment contains a bas-relief representing the execution of a martyr.
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Achilleus, martyr, bas-relief representing his execution
+\end_layout
+
+\end_inset
+
  The young man is tied to a stake, which is surmounted by a cross-beam,
- like a T, the true shape of the 
+ like a 
+\noun on
+t
+\noun default
+, the true shape of the 
 \begin_inset ERT
 status open
 
@@ -6618,7 +6641,17 @@ Ancient Rome,
 \begin_inset Quotes erd
 \end_inset
 
- I mentioned Pomponio's Academy, and its visits to the crypts of Callixtus.
+ I mentioned Pomponio's Academy,
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Academy of Pomponio
+\end_layout
+
+\end_inset
+
+ and its visits to the crypts of Callixtus.
  Since the publication of my book, and the subject has been investigated
  again and illustrated by Giacomo Lombroso
 \begin_inset Foot
@@ -6767,7 +6800,6 @@ status open
 
 \begin_layout Plain Layout
 
-\noun on
 }
 \end_layout
 
@@ -6803,7 +6835,6 @@ status open
 
 \begin_layout Plain Layout
 
-\noun on
 }
 \end_layout
 
